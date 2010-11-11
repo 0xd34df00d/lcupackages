@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<subscriptions>
+  <subscription url="abp:subscribe?location=http%3A%2F%2Fruadlist%2Egooglecode%2Ecom%2Fsvn%2Ftrunk%2Fadblock%2Etxt&title=RuAdList" name="RuAdList" purpose="русский, українська" />
+  <subscription url="abp:subscribe?location=http%3A%2F%2Fadblock%2Dchinalist%2Egooglecode%2Ecom%2Fsvn%2Ftrunk%2Fadblock%2Etxt&title=ChinaList" name="ChinaList" purpose="汉语" />
+  <subscription url="abp:subscribe?location=https%3A%2F%2Feasylist%2Ddownloads%2Eadblockplus%2Eorg%2Feasylist%2Etxt&title=EasyList" name="EasyList">
+    <subscription url="abp:subscribe?location=https%3A%2F%2Feasylist%2Ddownloads%2Eadblockplus%2Eorg%2Feasyprivacy%2Etxt&title=EasyPrivacy&requiresLocation=https%3A%2F%2Feasylist%2Ddownloads%2Eadblockplus%2Eorg%2Feasylist%2Etxt&requiresTitle=EasyList" name="EasyPrivacy" purpose="Privacy protection" />
+    <subscription url="abp:subscribe?location=https%3A%2F%2Feasylist%2Ddownloads%2Eadblockplus%2Eorg%2Feasylistgermany%2Etxt&title=EasyList Germany&requiresLocation=https%3A%2F%2Feasylist%2Ddownloads%2Eadblockplus%2Eorg%2Feasylist%2Etxt&requiresTitle=EasyList" name="EasyList Germany" purpose="Deutsch" />
+  </subscription>
+</subscriptions>

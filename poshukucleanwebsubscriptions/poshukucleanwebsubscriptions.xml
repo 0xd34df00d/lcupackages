@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>Poshuku CleanWeb Subscriptions</name>
+ <description>List of subscriptions for Poshuku CleanWeb, the Ad Blocker.</description>
+ <tags>
+  <tag>browser</tag>
+  <tag>poshuku</tag>
+ </tags>
+ <versions>
+  <version>1.0</version>
+ </versions>
+ <long>This package contains the list of ad block subscriptions for Poshuku CleanWeb. After this package is installed, you may easily select the desired subscriptions you want from CleanWeb's settings.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
