@@ -1,0 +1,2 @@
+hookMoreMenuFillEnd (LeechCraft::IHookProxy_ptr, QMenu*, QWebView*, QObject*)
+hookAddingToHistory (LeechCraft::IHookProxy_ptr, QString, QString, QDateTime, QObject*)

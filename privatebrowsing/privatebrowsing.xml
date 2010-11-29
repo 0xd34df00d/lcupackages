@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="plugin" language="qtscript">
+ <name>Private Browsing</name>
+ <description>Private Browsing mode for Poshuku</description>
+ <tags>
+  <tag>poshuku</tag>
+ </tags>
+ <versions>
+  <version>0.1.0</version>
+ </versions>
+ <long>Private Browsing plugin enables per-tab private browsing mode. Currently it only means that visited pages aren't stored in the history.</long>
+ <maintainer>
+  <name>0xd34df00d</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
