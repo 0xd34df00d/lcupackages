@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>QIP Infium Status Icons</name>
+ <description>Set of status icons for Azoth inspired by the QIP Infium IM client</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>status icons</tag>
+  <tag>theme</tag>
+ </tags>
+ <versions>
+  <version>1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <thumbnail url="bar.png"/>
+  <screenshot url="roster.png"/>
+ </images>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
