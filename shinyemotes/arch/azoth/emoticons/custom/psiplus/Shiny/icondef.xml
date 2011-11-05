@@ -1,0 +1,468 @@
+<?xml version="1.0"?>
+<icondef>
+<meta>
+  <name>ShinyIcons</name>
+  <version>1.0</version>
+  <description>Iconsset for JaJc. Compatible with the standard Icons</description>
+  <author>Achim Frase</author>
+  <creation>2003-13-09</creation>
+</meta>
+  <icon>
+    <text>:-)</text>
+    <text>:)</text>
+    <object mime="image/gif">smile.gif</object>
+  </icon>
+  <icon>
+    <text>;-)</text>
+    <text>;)</text>
+    <object mime="image/gif">wink.gif</object>
+  </icon>
+  <icon>
+    <text>:-|</text>
+    <text>:|</text>
+    <object mime="image/gif">normal.gif</object>
+  </icon>
+  <icon>
+    <text>:-\</text>
+    <text>:-/</text>
+    <text>:-\</text>
+    <object mime="image/gif">ermm.gif</object>
+  </icon>
+  <icon>
+    <text>:-s</text>
+    <text>:-S</text>
+    <text>:s</text>
+    <text>:S</text>
+    <object mime="image/gif">puzzled.gif</object>
+  </icon>
+  <icon>
+    <text>:-(</text>
+    <text>:(</text>
+    <object mime="image/gif">depressed.gif</object>
+  </icon>
+  <icon>
+    <text>:'-(</text>
+    <text>:'(</text>
+    <object mime="image/gif">cry.gif</object>
+  </icon>
+  <icon>
+    <text>:x</text>
+    <text>:X</text>
+    <object mime="image/gif">speechless.gif</object>
+  </icon>
+  <icon>
+    <text>:-O</text>
+    <text>:O</text>
+    <text>:-o</text>
+    <text>:o</text>
+    <object mime="image/gif">surprised.gif</object>
+  </icon>
+  <icon>
+    <text>%-)</text>
+    <text>%)</text>
+    <object mime="image/gif">evolved.gif</object>
+  </icon>
+
+  <icon>
+    <text>&gt;:D</text>
+    <object mime="image/gif">laugh.gif</object>
+  </icon>
+  <icon>
+    <text>:-D</text>
+    <text>:d</text>
+    <text>:-d</text>
+    <text>:D</text>
+    <object mime="image/gif">silly.gif</object>
+  </icon>
+  <icon>
+    <text>:o)</text>
+    <object mime="image/gif">cheerful.gif</object>
+  </icon>
+  <icon>
+    <text>:p</text>
+    <object mime="image/gif">ditsy.gif</object>
+  </icon>
+  <icon>
+    <text>:]</text>
+    <object mime="image/gif">smiley.gif</object>
+  </icon>
+  <icon>
+    <text>8-D</text>
+    <object mime="image/gif">cheeky.gif</object>
+  </icon>
+  <icon>
+    <text>:*)</text>
+    <object mime="image/gif">embarrassed.gif</object>
+  </icon>
+  <icon>
+    <text>:-0</text>
+    <object mime="image/gif">shocked.gif</object>
+  </icon>
+  <icon>
+    <text>:0</text>
+    <object mime="image/gif">scared.gif</object>
+  </icon>
+  <icon>
+    <text>:-p</text>
+    <text>:-P</text>
+    <object mime="image/gif">lick.gif</object>
+  </icon>
+
+  <icon>
+    <text>B-)</text>
+    <object mime="image/gif">cool.gif</object>
+    <transport name="msn">(h)</transport>
+  </icon>
+  <icon>
+    <text>B-|</text>
+    <object mime="image/gif">calm.gif</object>
+  </icon>
+  <icon>
+    <text>:-!</text>
+    <object mime="image/gif">smoker.gif</object>
+  </icon>
+  <icon>
+    <text>|-)</text>
+    <object mime="image/gif">bandit.gif</object>
+  </icon>
+  <icon>
+    <text>P-)</text>
+    <object mime="image/gif">pirate.gif</object>
+  </icon>
+  <icon>
+    <text>:-)}</text>
+    <object mime="image/gif">beard.gif</object>
+  </icon>
+  <icon>
+    <text>:-){</text>
+    <object mime="image/gif">chinese.gif</object>
+  </icon>
+  <icon>
+    <text>:-)&gt;</text>
+    <object mime="image/gif">old-man.gif</object>
+  </icon>
+  <icon>
+    <text>[:|]</text>
+    <object mime="image/gif">ninja.gif</object>
+  </icon>
+  <icon>
+    <text>:-@</text>
+    <text>:@</text>
+    <object mime="image/gif">gasmask.gif</object>
+  </icon>
+  <icon>
+    <text>:[</text>
+    <text>:-[</text>
+    <object mime="image/gif">vampire.gif</object>
+  </icon>
+  <icon>
+    <text>3-|{</text>
+    <object mime="image/gif">sleeping.gif</object>
+  </icon>
+  <icon>
+    <text>8-/</text>
+    <object mime="image/gif">paranoid.gif</object>
+  </icon>
+  <icon>
+    <text>?-|</text>
+    <object mime="image/gif">ponder.gif</object>
+  </icon>
+  <icon>
+    <text>:-S</text>
+    <object mime="image/gif">nervous.gif</object>
+  </icon>
+  <icon>
+    <text>8-s</text>
+    <object mime="image/gif">confused.gif</object>
+  </icon>
+  <icon>
+    <text>8-|</text>
+    <object mime="image/gif">tired.gif</object>
+  </icon>
+  <icon>
+    <text>8-[</text>
+    <object mime="image/gif">bored.gif</object>
+  </icon>
+  <icon>
+    <text>8-(</text>
+    <object mime="image/gif">disappointed.gif</object>
+  </icon>
+  <icon>
+    <text>:-&lt;</text>
+    <object mime="image/gif">sad.gif</object>
+  </icon>
+
+  <icon>
+    <text>&gt;:-D</text>
+    <object mime="image/gif">evil.gif</object>
+  </icon>
+  <icon>
+    <text>&gt;:-|</text>
+    <object mime="image/gif">angry.gif</object>
+  </icon>
+  <icon>
+    <text>&gt;:-)</text>
+    <object mime="image/gif">devious.gif</object>
+  </icon>
+  <icon>
+    <text>&gt;:-o</text>
+    <object mime="image/gif">mad.gif</object>
+  </icon>
+  <icon>
+    <text>8D</text>
+    <text>8d</text>
+    <object mime="image/gif">grin.gif</object>
+  </icon>
+  <icon>
+    <text>8)</text>
+    <object mime="image/gif">classic.gif</object>
+  </icon>
+  <icon>
+    <text>:-]</text>
+    <object mime="image/gif">square-eyed.gif</object>
+  </icon>
+  <icon>
+    <text>||-)</text>
+    <object mime="image/gif">cross-eyed.gif</object>
+  </icon>
+  <icon>
+    <text>8-)</text>
+    <object mime="image/gif">foureyes.gif</object>
+  </icon>
+  <icon>
+    <text>X-)</text>
+    <text>x-)</text>
+    <object mime="image/gif">knocked-out.gif</object>
+  </icon>
+
+  <icon>
+    <text>:cat:</text>
+    <object mime="image/gif">cat.gif</object>
+  </icon>
+  <icon>
+    <text>:dog:</text>
+    <object mime="image/gif">dog.gif</object>
+  </icon>
+  <icon>
+    <text>:jaguar:</text>
+    <object mime="image/gif">jaguar.gif</object>
+  </icon>
+  <icon>
+    <text>@-)</text>
+    <object mime="image/gif">alien.gif</object>
+  </icon>
+  <icon>
+    <text>8-]</text>
+    <object mime="image/gif">ogre.gif</object>
+  </icon>
+  <icon>
+    <text>O-)</text>
+    <text>o-)</text>
+    <object mime="image/gif">cyclops.gif</object>
+  </icon>
+  <icon>
+    <text>O-]</text>
+    <text>o-]</text>
+    <object mime="image/gif">robot.gif</object>
+  </icon>
+  <icon>
+    <text>|:-)</text>
+    <object mime="image/gif">rambo.gif</object>
+  </icon>
+  <icon>
+    <text>:#(</text>
+    <object mime="image/gif">hurt.gif</object>
+  </icon>
+  <icon>
+    <text>#-(</text>
+    <object mime="image/gif">dead.gif</object>
+  </icon>
+  <icon>
+    <text>O:)</text>
+    <text>o:)</text>
+    <text>o:-)</text>
+    <text>O:-)</text>
+    <object mime="image/gif">angel.gif</object>
+  </icon>
+  <icon>
+    <text>(6)</text>
+    <object mime="image/gif">devil.gif</object>
+  </icon>
+  <icon>
+    <text>:yes:</text>
+    <text>(Y)</text>
+    <text>(y)</text>
+    <object mime="image/gif">thumbup.gif</object>
+  </icon>
+  <icon>
+    <text>:no:</text>
+    <text>(N)</text>
+    <text>(n)</text>
+    <object mime="image/gif">thumbdown.gif</object>
+  </icon>
+  <icon>
+    <text>(L)</text>
+    <text>(l)</text>
+    <text>:heart:</text>
+    <object mime="image/gif">heart.gif</object>
+  </icon>
+  <icon>
+    <text>:bheart:</text>
+    <text>(U)</text>
+    <text>(u)</text>
+    <object mime="image/gif">heart broken.gif</object>
+  </icon>
+  <icon>
+    <text>:man:</text>
+    <text>(Z)</text>
+    <text>(z)</text>
+    <object mime="image/gif">person.gif</object>
+  </icon>
+  <icon>
+    <text>:letter:</text>
+    <text>(E)</text>
+    <text>(e)</text>
+    <object mime="image/gif">letter.gif</object>
+  </icon>
+  <icon>
+    <text>(C)</text>
+    <text>(c)</text>
+    <text>:coffee:</text>
+    <object mime="image/gif">coffee.gif</object>
+  </icon>
+  <icon>
+    <text>:jabber:</text>
+    <text>:lamp:</text>
+    <text>(I)</text>
+    <text>(i)</text>
+    <object mime="image/gif">bulb.gif</object>
+  </icon>
+
+  <icon>
+    <text>:bat:</text>
+    <text>}{</text>
+    <object mime="image/gif">bat.gif</object>
+  </icon>
+  <icon>
+    <text>:dragon:</text>
+    <object mime="image/gif">dragon.gif</object>
+  </icon>
+  <icon>
+    <text>:home:</text>
+    <object mime="image/gif">house.gif</object>
+  </icon>
+  <icon>
+    <text>:apple:</text>
+    <object mime="image/gif">apple.gif</object>
+  </icon>
+  <icon>
+    <text>:glasses:</text>
+    <object mime="image/gif">glasses.gif</object>
+  </icon>
+  <icon>
+    <text>:phone:</text>
+    <text>(T)</text>
+    <text>(t)</text>
+    <object mime="image/gif">phone.gif</object>
+  </icon>
+  <icon>
+    <text>:mushroom:</text>
+    <object mime="image/gif">mushroom.gif</object>
+  </icon>
+  <icon>
+    <text>:photo:</text>
+    <text>(P)</text>
+    <text>(p)</text>
+    <object mime="image/gif">camera.gif</object>
+  </icon>
+  <icon>
+    <text>:world:</text>
+    <object mime="image/gif">globe.gif</object>
+  </icon>
+  <icon>
+    <text>:syringe:</text>
+    <object mime="image/gif">needle.gif</object>
+  </icon>
+  <icon>
+    <text language="en">:ace:</text>
+    <text language="nl">:aas:</text>
+    <object mime="image/gif">ace.gif</object>
+  </icon>
+  <icon>
+    <text>:beer:</text>
+    <text>(B)</text>
+    <text>(b)</text>
+    <object mime="image/gif">beer.gif</object>
+  </icon>
+  <icon>
+    <text>:carrot:</text>
+    <object mime="image/gif">carrot.gif</object>
+  </icon>
+  <icon>
+    <text>:cherry:</text>
+    <object mime="image/gif">cherry.gif</object>
+  </icon>
+  <icon>
+    <text>:cobra:</text>
+    <object mime="image/gif">cobra.gif</object>
+  </icon>
+  <icon>
+    <text>(D)</text>
+    <text>(d)</text>
+    <text>:cocktail:</text>
+    <text>:wine:</text>
+    <object mime="image/gif">cocktail.gif</object>
+  </icon>
+  <icon>
+    <text>:dinosaur:</text>
+    <object mime="image/gif">dinosaur.gif</object>
+  </icon>
+  <icon>
+    <text>:drink:</text>
+    <object mime="image/gif">drink.gif</object>
+  </icon>
+  <icon>
+    <text>:fish:</text>
+    <object mime="image/gif">fish.gif</object>
+  </icon>
+  <icon>
+    <text>:graduate:</text>
+    <object mime="image/gif">graduate.gif</object>
+  </icon>
+  <icon>
+    <text>:death:</text>
+    <object mime="image/gif">grimreaper.gif</object>
+  </icon>
+  <icon>
+    <text>:hammer:</text>
+    <object mime="image/gif">hammer.gif</object>
+  </icon>
+  <icon>
+    <text>:helicopter:</text>
+    <object mime="image/gif">helicopter.gif</object>
+  </icon>
+  <icon>
+    <text>:music:</text>
+    <text>:note:</text>
+    <text>(8)</text>
+    <object mime="image/gif">music.gif</object>
+  </icon>
+  <icon>
+    <text>:linux:</text>
+    <text>:tux:</text>
+    <object mime="image/gif">penguin.gif</object>
+  </icon>
+  <icon>
+    <text>:skull:</text>
+    <object mime="image/gif">skull.gif</object>
+  </icon>
+  <icon>
+    <text>:speaker:</text>
+    <object mime="image/gif">speaker.gif</object>
+  </icon>
+  <icon>
+    <text>:television:</text>
+    <text>:tv:</text>
+    <object mime="image/gif">tv.gif</object>
+  </icon>
+</icondef>

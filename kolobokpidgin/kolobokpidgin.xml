@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Kolobok Pidgin</name>
+ <description>Pidgin-format Kolobok emoticons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+ </tags>
+ <versions>
+  <version size="389509">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/kolobok_pidgin_emotes.png"/>
+ </images>
+ <long>Kolobok emoticons theme.&lt;br />&lt;br />
+
+This theme is borrowed from Psi+. Original author is HumpSoft.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

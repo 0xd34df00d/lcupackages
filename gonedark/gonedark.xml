@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>GoneDark</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="645099">1.0</version>
+ </versions>
+ <images>
+  <icon url="http://files.leechcraft.org/imgs/packages/thumbs/gonedark.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/gonedark_1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/gonedark_2.png"/>
+ </images>
+ <long>A nice theme with lots of variants. «Glossy, simple, dark... and light», as is stated on &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=2463" target="_blank">theme's page&lt;/a>.&lt;br/>&lt;br/>
+
+This theme supports grouping consecutive messages, has different color variants and has with both dark and light styling.&lt;br/>&lt;br/>
+
+This theme is included in standard LeechCraft distribution, but may be missing in some distros due to unclear licensing status of this theme.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

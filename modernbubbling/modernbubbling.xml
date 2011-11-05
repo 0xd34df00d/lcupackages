@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Modern Bubbling</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="206030">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/modern_bubbling.png"/>
+ </images>
+ <long>A nice theme with lots of variants.&lt;br />&lt;br /> This package contains two variants: plain Modern Bubbling and Compact version, which allows to group consecutive messages into a single message bubble.&lt;br />&lt;br /> This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=3629">http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=3629&lt;/a></long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

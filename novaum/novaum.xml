@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Nova UM</name>
+ <description>Nova UM mood icons pack.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>mood icons</tag>
+ </tags>
+ <versions>
+  <version size="45973">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/novaum_icons.png"/>
+ </images>
+ <long>Another mood icon pack, originally made for Miranda IM.&lt;br/>&lt;br/>
+
+Original author is Angeli-Ka (&lt;a href="http://angeli-ka.my1.ru" target="_blank">http://angeli-ka.my1.ru&lt;/a>), and the pack is distributed under the terms of the Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 license.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

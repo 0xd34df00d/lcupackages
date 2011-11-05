@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>MSN Emotes</name>
+ <description>A MSN-styled emoticons pack.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+ </tags>
+ <versions>
+  <version size="52958">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/msn_emotes.png"/>
+ </images>
+ <long>This is a pack of emoticons from MSN 6 (taken from AMSN).&lt;br/>&lt;br/>
+
+Original author is Loïc Guitaut, and this pack is taken from Psi+.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

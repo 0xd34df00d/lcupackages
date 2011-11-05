@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Rederick Moods</name>
+ <description>Rederick Moods icon theme borrowed from Psi+.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>mood icons</tag>
+ </tags>
+ <versions>
+  <version size="284246">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/rederickmoods_icons.png"/>
+ </images>
+ <long>Rederick moods icon theme (borrowed from Psi+).</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

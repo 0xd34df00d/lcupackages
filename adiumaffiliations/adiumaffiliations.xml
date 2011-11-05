@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Adium Affiliations</name>
+ <description>A pack of Adium affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="7564">0.2</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/adium_affiliations.png"/>
+ </images>
+ <long>Affiliation icons help distinguish rights and affiliations of multiuser chat participants. There are five possible affiliations: owner, admin, member, no affiliation and outcast (which is banned from the conference).&lt;br />&lt;br />
+
+This pack contains affiliation icons borrowed from the Psi+ adium-affiliations iconset.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

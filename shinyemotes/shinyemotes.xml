@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Shiny Emotes</name>
+ <description>A Shiny set of emoticons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+ </tags>
+ <versions>
+  <version size="99041">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/shiny_emotes.png"/>
+ </images>
+ <long>A set of emoticons borrowed from Psi+. Original author is Achim Frase.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

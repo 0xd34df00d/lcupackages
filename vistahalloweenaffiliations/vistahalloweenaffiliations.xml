@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Vista Halloween Affiliations</name>
+ <description>A pack of Halloween-themed affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="6888">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/vista_halloween_affiliations.png"/>
+ </images>
+ <long>Affiliation icons help distinguish rights and affiliations of multiuser chat participants. There are five possible affiliations: owner, admin, member, no affiliation and outcast (which is banned from the conference).&lt;br />&lt;br />
+
+This pack contains affiliation icons borrowed from the Psi+ vista-halloween-affiliations iconset. The iconset is based on &lt;a href="http://www.icons-land.com/" target="_blank">Vista halloween Icons by Icons Land&lt;/a>.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
