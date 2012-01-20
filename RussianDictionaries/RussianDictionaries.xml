@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>Russian Dictionaries</name>
+ <description>Russian dictionaries for Myspell/Hunspell plugins.</description>
+ <tags>
+  <tag>dicts</tag>
+  <tag>i18n</tag>
+ </tags>
+ <versions>
+  <version size="1229000" archiver="xz">20060316</version>
+ </versions>
+ <long>This package provides Russian dictionaries for LeechCraft plugins that support Myspell/Hunspell dictionaries.
+
+Different dictionaries are present for suiting different writing styles, for example, the one without the «ё» letter.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

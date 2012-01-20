@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>German Dictionaries</name>
+ <description>German dictionaries for Myspell/Hunspell plugins.</description>
+ <tags>
+  <tag>dicts</tag>
+  <tag>i18n</tag>
+ </tags>
+ <versions>
+  <version size="502852" archiver="xz">20080915</version>
+ </versions>
+ <long>This package provides German dictionaries for LeechCraft plugins that support Myspell/Hunspell dictionaries.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

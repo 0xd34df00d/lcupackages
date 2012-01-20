@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>Italian Dictionaries</name>
+ <description>Italian dictionaries for Myspell/Hunspell plugins.</description>
+ <tags>
+  <tag>dicts</tag>
+  <tag>i18n</tag>
+ </tags>
+ <versions>
+  <version size="316420" archiver="xz">20060316</version>
+ </versions>
+ <long>This package provides Italian dictionaries for LeechCraft plugins that support Myspell/Hunspell dictionaries.&lt;br />&lt;br />The package contains both Italian dictionary and Latin dictionary. The Latin dictionary is enabled for the &lt;em>la&lt;/em> locale.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

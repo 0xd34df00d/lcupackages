@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>French Dictionaries</name>
+ <description>French dictionaries for Myspell/Hunspell plugins.</description>
+ <tags>
+  <tag>dicts</tag>
+  <tag>i18n</tag>
+ </tags>
+ <versions>
+  <version size="371724" archiver="xz">20060316</version>
+ </versions>
+ <long>This package provides French dictionaries for LeechCraft plugins that support Myspell/Hunspell dictionaries.&lt;br />&lt;br />The package contains both French and Galician dictionaries.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

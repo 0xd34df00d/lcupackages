@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>English Dictionaries</name>
+ <description>English dictionaries for Myspell/Hunspell plugins.</description>
+ <tags>
+  <tag>dicts</tag>
+  <tag>i18n</tag>
+ </tags>
+ <versions>
+  <version size="1021664" archiver="xz">20081022</version>
+ </versions>
+ <long>This package provides English dictionaries for LeechCraft plugins that support Myspell/Hunspell dictionaries.
+
+Different dialects of English are included, for example, those of Great Britain, America, Canada, etc.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
