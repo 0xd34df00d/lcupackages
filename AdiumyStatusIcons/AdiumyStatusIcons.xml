@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>AdiumyStatusIcons</name>
+ <description>An Adium contactlist style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="9422" archiver="gz">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/AdiumyStatusIcons.png"/>
+ </images>
+ <long>Author: "The new &lt;i>Adium icons&lt;/i> were out for a while, so I decided to revamp my older &lt;i>Adiumy Status Icons&lt;/i> (now renamed to &lt;i>Adiumy Status Icons Classic&lt;/i>)." This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=4236">http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=4236&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
