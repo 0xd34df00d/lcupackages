@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>MilkyAdiumy</name>
+ <description>An Adium contactlist style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="110623" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/MilkyAdiumy.AdiumIcon.png"/>
+ </images>
+ <long>All the hard work comes from Rasmus Andersson (&lt;i>Milk&lt;/i>) and Adam Betts (&lt;i>Adiumy&lt;/i>).&amp;nbsp;This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2826">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2826&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

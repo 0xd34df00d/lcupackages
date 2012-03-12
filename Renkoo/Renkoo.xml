@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Renkoo</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="76647" archiver="lzma">2.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/renkoo.jpg"/>
+ </images>
+ <long>&lt;i>Renkoo&lt;/i> has a cool fading effect with each incoming message. It also includes smooth scrolling. This however may be slow. So &lt;i>Renkoo Naked&lt;/i> was born to bring the beautiful message style some needed speed. It has all of the color combos and everything you like about &lt;i>Renkoo&lt;/i>, minus the fading and smooth scroll features. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

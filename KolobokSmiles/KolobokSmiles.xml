@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>KolobokSmiles</name>
+ <description>Three emoticons packs from the Kolobok site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+  <tag>smiles</tag>
+  <tag>kolobok</tag>
+ </tags>
+ <versions>
+  <version size="576144" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/KolobokSmiles.png"/>
+ </images>
+ <long>&lt;h2>KOLOBOK Smiles&lt;/h2>&lt;br/>&lt;em>Author&lt;/em>: Mantsurov Ivan, aka Aiwan&lt;br />&lt;a href="http://www.en.kolobok.us" target="_blank">http://www.en.kolobok.us&lt;/a>&lt;h3>Programs&lt;/h3>The following programs were used to create these smiles:&lt;br/>&lt;ul>&lt;li>Ulead GIF Animator 5.05 &amp;mdash; in this program I do everything (and I draw using it)&lt;/li>&lt;li>IrfanView 4.10 &amp;mdash; for reviewing and processing of drawings&lt;/li>&lt;li>GIF Movie Gear 4.1.2 &amp;mdash; for size reduction and cleaning of GIF final version.&lt;/li>&lt;/ul>&lt;h3>License&lt;/h3>This license agreement covers the conditions according to which you can use the kolobok smilies. If you cannot or not willing to accept the given conditions though you partly follow the conditions of the given agreement, you cannot use my works.&lt;br/>- You can distribute them for free use in forums, chats and other applications, as long as the smiles are unmodified and this text file is included within the RAR file.&lt;br/>- They must not be used commercially without agreeing on the terms with me first.&lt;br/>- You may not repackage them and redistribute them with other smiles without my permission.&lt;br/>- They must not be converted to any other format, Edit and distributed without my permission.&lt;br/>- You may not sell them or use them for profit either individually, or in any sort of collection or smiles-pack.&lt;br/>- You should ask for my permission before using them in any programs or projects.&lt;br/>- You should ASK FOR AUTHOR PERMISSION before using artworks of mine or of our site's artists at your own private gallery. Works of every author must be placed at separate section named accordingly with author's name. Also you should point to this website like to a source (if the author does not want to point his own).&lt;br/>- When using my works, non-profit organisations are allowed not to ask for my permission but should place my copyright "Copyright © Aiwan. Kolobok Smiles" and a link to my Website http://www.kolobok.us on the bottom of every page where my works are used.&lt;br/>- If you do not agree with this licence, you must remove the files from your storage devices and stop using the archive.&lt;br/>&amp;nbsp; "Kolobok Smiles" are copyrighted and officially registered at The U.S. Copyright Office of the Library of Congress (USA) and protected by international and national copyright law.&lt;br/>&amp;nbsp; My works are free for personal using. But All of them are my property. Private person does not need my permission to use them at homepages, sites, blogs, forums, etc.&lt;br/>&amp;nbsp; If you have any questions, please email me at Aiwan@yandex.ru. Please, writeing in head word "KOLOBOK" or "kolobok". Otherwise your letter can be defined as SPAM. Excuse me for difficulty.&lt;br/>&amp;nbsp; Truly yours, Aiwan.&lt;br/>&amp;nbsp; http://www.en.kolobok.us - Welcome!&lt;br/>&amp;nbsp; DO NOT SEARCH for MY SMILES WHERE THEIR MUST NOT BE!&lt;br/>&amp;nbsp; Copyright © 2004-2010 Kolobok Smiles</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>AdiumyGreenBlack</name>
+ <description>An Adium contactlist style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="176423" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/GreenBlack.AdiumIcon.png"/>
+ </images>
+ <long>This is the new &lt;i>Green Adiumy&lt;/i>. Author: "I think basic &lt;i>Adiumys&lt;/i> with a black beak looks really nice. So here is the &lt;i>GreenBlack Adiumy&lt;/i>." This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6194">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6194&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Xpk.qq</name>
+ <description>An Adium contactlist style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="9445" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/Xpk.qq.adiumstatusicons.jpg"/>
+ </images>
+ <long>Adium status icons, converted from miranda icons &lt;i>xpk&lt;/i> pixelperfect. Type: &lt;i>qq&lt;/i>. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4254">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4254&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
