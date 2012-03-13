@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>MessangerLiveMac</name>
+ <description>An Adium contactlist iconset from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="143953" archiver="lzma">0.2</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/MessangerLiveMac.png"/>
+ </images>
+ <long>Beautifulst icon with animation in message arrival. In the next refreshes: Graphical improvements. On beta. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6798">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6798&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
