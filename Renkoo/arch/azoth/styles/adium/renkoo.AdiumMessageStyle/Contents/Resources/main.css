@@ -1,6 +1,7 @@
 * {
 		word-wrap: break-word;
 		word-break:break-word;
+		font-family: 'Lucida Grande', 'Lucida Gr', 'Lucida G', sans-serif;
 }
 
 #header1 { 
@@ -12,7 +13,6 @@
 	padding: 10px; 
 	overflow: auto; 
 	color: white; 
-	font-family: "Lucida Grande"; 
 	text-align: center; 
 	font-size: 10px; 
 	font-weight: regular; 
@@ -51,7 +51,7 @@
 	position:relative;
 	left:60px;
 	margin:5px 0 0 0;
-	font: bold 16px "Myriad Pro", Myriad, "Lucida Grande", "Trebuchet MS", Arial;
+	font: bold 16px;
 	overflow:hide;
 }
 
@@ -59,7 +59,7 @@
 	position:relative;
 	left:60px;
 	color:#6d6d6d;
-	font: bold 10px "Myriad Pro", Myriad, "Lucida Grande", "Trebuchet MS", Arial;
+	font: bold 10px;
 }
 
 body {
@@ -69,7 +69,7 @@ body {
 }
 
 .status_container {
-	font: 10px Myriad, "Lucida Grande", Arial;
+	font: 10px;
 }
 
 

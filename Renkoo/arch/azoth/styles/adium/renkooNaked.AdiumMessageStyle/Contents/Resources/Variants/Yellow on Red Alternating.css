@@ -1,1 +1,7 @@
-/usr/share/leechcraft/azoth/styles/adium/renkoo.AdiumMessageStyle/Contents/Resources/Variants/Yellow on Red Alternating.css
+@import url("Yellow on Red.css");
+@import url("../alternating.css");
+
+
+.outgoingItem .myBubble .indicator {
+	background:url("../images/yellowIndicator2.png") no-repeat top left;
+}

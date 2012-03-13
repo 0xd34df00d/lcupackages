@@ -9,13 +9,16 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="76647" archiver="lzma">2.0</version>
+  <version size="76940" archiver="lzma">2.0.2</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/renkoo.jpg"/>
  </images>
- <long>&lt;i>Renkoo&lt;/i> has a cool fading effect with each incoming message. It also includes smooth scrolling. This however may be slow. So &lt;i>Renkoo Naked&lt;/i> was born to bring the beautiful message style some needed speed. It has all of the color combos and everything you like about &lt;i>Renkoo&lt;/i>, minus the fading and smooth scroll features. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160&lt;/a></long>
+ <long>&lt;i>Renkoo&lt;/i> has a cool fading effect with each incoming message. It also includes smooth scrolling. This however may be slow. So &lt;i>Renkoo Naked&lt;/i> was born to bring the beautiful message style some needed speed. It has all of the color combos and everything you like about &lt;i>Renkoo&lt;/i>, minus the fading and smooth scroll features. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2160&lt;/a>
+The images, css and html is dual licensed under the BSD and AFL license. 
+The source files for the bubbles can be found at &lt;a href="http://www.itorrey.com/adiumx/">http://www.itorrey.com/adiumx/&lt;/a>
+The fading javascript is not covered in this license. The code is fadomatic and is covered under its own license as set by its author.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>
