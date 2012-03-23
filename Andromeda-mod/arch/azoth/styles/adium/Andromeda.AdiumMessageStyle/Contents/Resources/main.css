@@ -1,0 +1,58 @@
+/*
+ * Andromeda Adium Theme
+ *
+ * author: Fernando Garcia
+ * link: http://www.adiumxtras.com/index.php?a=xtras&xtra_id=7925
+ * version 1.1
+*/
+
+/* Common */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub,  sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+:focus { outline: 0; }
+
+body { background:#181e21; margin: 0; padding: 6px; padding-left:7px; }
+
+a { color: #fff; font-weight: bold; text-decoration:none; }
+
+a:hover { color: #fff; font-weight: bold; text-decoration:underline; }
+
+.clear { clear: both; }
+
+#hide { z-index:101; position:fixed; top:2px; right:6px; padding:2px; color:#818181; text-shadow:#000000 0px 1px 1px; cursor:pointer; }
+
+/* @header */
+
+#header { height:97px; background:url('images/head-bg.png') repeat-x; padding-top:1px; position:fixed; top:0; left:0; z-index:100; width:100%; }
+#head-avatar { float:left; width:65px; height:59px; padding:9px 0 0 12px; background:url('images/avatar-bg.png'); }
+.avatar-img { width:48px; margin:1px 0 0 2px; }
+#frame { width:52px; height:52px; background:url(images/avatar-frame.png) no-repeat; position:absolute; top:9px; z-index:99;  }
+#head-text { margin-left:77px; color:#c5c5c5; padding-top:18px; height:50px; padding-left:13px; background:url('images/vborder.png') no-repeat left; }
+#user-name { font-size:16px; font-weight:normal; text-shadow:#000000 0px 1px 2px; padding-right:20px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; height:20px; }
+#chat-data { color:#54b1c8; font-size:11px; font-style:italic; font-weight:lighter; text-shadow:#000000 0px 1px 2px; }
+#modal { z-index:105; }
+
+/* incoming and outgoing */
+
+.message-container { padding:8px; }
+.message-container img { vertical-align:middle; }
+.in { border-top:1px solid #ffffff; background: -webkit-gradient(linear, left top, left bottom, from(#dbdbda), color-stop(0.8, #aeaeaf)); }
+.out { margin-top:-2px; border-top:1px solid #181e21; background: -webkit-gradient(linear, left top, left bottom, from(#334148), color-stop(1.0, #181e21)); }
+.name-out { color:#00b3d3; font-size:13px; font-weight:bold; }
+.text-out .time { color:#4e4e4e; }
+.text-out { color:#cbcbcb; }
+.name-in { color:#8f1e1e; font-size:13px; font-weight:bold; }
+.text-in { color:#3b3b3b; }
+.text-in .time { color:#8a8a8a; }
+.time { font-size:10px; font-weight:normal; float:right; display:none; }
+.message:hover .time { display:inline; }
+
+/* status */
+
+.status { margin:3px 0; padding:6px 13px 4px 5px; color:#d5c2c2; background:-webkit-gradient(linear, left top, left bottom, from(#961f1f), color-stop(0.8, #641515)); border-top:1px solid #cc2a2a; }
+.status img { vertical-align:middle; }
+.status-text { float:left; width:87%; white-space:nowrap; text-overflow:ellipsis; overflow:hidden; }
+.status-time { color:#cd3636; float:right; padding-top:2px; }
+
+/* @end */
