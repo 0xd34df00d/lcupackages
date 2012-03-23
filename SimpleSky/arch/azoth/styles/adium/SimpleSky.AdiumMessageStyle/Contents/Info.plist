@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>SimpleSky 1.1</string>
+	<key>CFBundleIdentifier</key>
+	<string>im.adium.simplesky.style</string>
+	<key>CFBundleName</key>
+	<string>SimpleSky</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultFontFamily</key>
+	<string>Lucida Grande</string>
+	<key>DefaultFontSize</key>
+	<string>11</string>
+	<key>MessageViewVersion</key>
+	<string>3</string>
+	<key>ShowsUserIcons</key>
+	<false/>
+	<key>DefaultVariant</key>
+	<string>blue-sky</string>
+	<key>AllowTextColors</key>
+	<false/>
+	<key>DisableCustomBackground</key>
+	<false/>
+</dict>
+</plist>

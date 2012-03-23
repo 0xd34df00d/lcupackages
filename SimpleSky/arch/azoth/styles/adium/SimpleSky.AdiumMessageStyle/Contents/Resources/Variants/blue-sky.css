@@ -1,0 +1,8 @@
+@import url("../main.css");
+
+body { background-color:#328fc9; }
+
+#header { background:-webkit-gradient(linear, left top, left bottom, from(#3c86b3), to(#224c65), color-stop(0.5, #327095), color-stop(0.5, #295c7a)); }
+#header-inner { border-bottom:1px solid #4291c0; }
+.namein { color:#f35c01; }
+.nameout { color:#0861b5; }

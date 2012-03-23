@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>SimpleSky</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="123382" archiver="lzma">1.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/SimpleSky.png"/>
+ </images>
+ <long>&lt;div>It's a sky themed with a cloud image on the bottom and without buddy icons.&lt;/div>&lt;div>It comes with 3 color variants: blue, green and purple.&lt;/div>&lt;div>It has an option inside the chat window to hide the header and to switch between variants, so you don't have to go to preferences&amp;gt;messages to change and reopen the chat window.&lt;/div>&lt;div>To hide the header, just click on it, and to show it back, just click on the spot where it previously was, and it will fade back in.&lt;/div>&lt;div>To switch between variants, click on the cloud icon on the right side of the header.&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7936">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7936&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

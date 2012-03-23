@@ -1,0 +1,61 @@
+/*
+ * Simple Sky Adium Theme
+ *
+ * author: Fernando Garcia
+ * link: http://www.adiumxtras.com/index.php?a=xtras&xtra_id=7936
+ * version 1.1
+*/
+
+/* Common */
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td { margin: 0; padding: 0; border: 0; outline: 0; font-weight: inherit; font-style: inherit; font-size: 100%; font-family: inherit; vertical-align: baseline; }
+
+body { padding:8px 14px; background:url("images/pattern.png") fixed; }
+
+:focus { outline: 0; }
+
+.clear { clear:both; }
+
+
+/* -- header -- */
+
+#header { overflow:hidden; width:100%; height:46px; position:fixed; top:0; left:0; z-index:100; opacity:0.97; -webkit-box-shadow:0px 2px 8px 0px #000; }
+#header-inner {  height:40px; padding:4px 12px 0 12px; }
+#avatar { position:relative; float:left; margin-right:12px; }
+.avatar-img { width:36px; -webkit-border-radius:5px; }
+#img-mask { width:36px; height:36px; -webkit-border-radius:5px; -webkit-box-shadow: inset 0 0 3px 2px #000; position:absolute; top:0; left:0; border-bottom:1px solid #777; }
+#sender-name { font-size:14px; color:#fff; text-shadow:0 1px 2px #111; margin-top:9px; height:20px; overflow:hidden; width:80%; text-overflow:ellipsis; white-space:nowrap; }
+
+
+/* -- theme choose -- */
+
+#var-picker { position:fixed; z-index:110; right:12px; top:12px; }
+#var-picker img { cursor:pointer; }
+#variants-box { background:-webkit-gradient(linear, 0% 0%, 0% 100%, from(#46BEDF), to(#0A457D)); -webkit-border-radius:3px; -webkit-box-shadow:0px 1px 3px 0px #333; padding:7px; position:fixed; top:37px; right:12px; }
+#variants-box a { -webkit-box-shadow:0px 1px 2px 0px #333; list-style:none; display:block; float:left; margin-right:3px; width:8px; height:8px; border:1px solid #bfdcf0; }
+#variants-box a:last-child { margin-right:0px; }
+#blue-sky { background-color:#289ee7; }
+#green-sky { background-color:#6ab215; }
+#purple-sky { background-color:#8b01ff; }
+
+
+/* -- messages -- */
+
+.container { margin:8px 0; padding:8px 7px; background:-webkit-gradient(linear, 0% 0%, 0% 68%, from(#FFFFFF), to(#CDDFE3)); opacity:0.85; -webkit-box-shadow:1px 1px 3px 0px #555; }
+.inbox { -webkit-border-top-left-radius:9px; }
+.outbox { -webkit-border-bottom-right-radius:9px; }
+.uname { font-size:14px; font-weight:bold; }
+.text { color:#525252; padding-left:8px; background:url("images/bullet.png") no-repeat 0px 5px; }
+.text img { vertical-align:middle; }
+.time { float:right; display:none; color:#aaa; }
+.text:hover .time { display:inline; }
+
+.status-bar { color:#c3c3c3; padding-top:1px; min-height:23px; margin:6px 0; background:url("images/status-icon.png") no-repeat right center, -webkit-gradient(linear, left top, left bottom, from(#393939), to(#000), color-stop(0.5, #2b2b2b), color-stop(0.5, #000)); }
+.status-time { float:right; }
+.status-top { border-top:1px solid #676767; padding:5px 51px 10px 12px; }
+.status-text { float:left; width:85%; height:20px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
+
+/* -- bottom -- */
+
+#bottom-img { height:378px; width:100%; background:url("images/cloud-big.png") no-repeat; position:fixed; bottom:0; left:0; z-index:-1; }

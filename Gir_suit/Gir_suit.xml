@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Gir_suit</name>
+ <description>An Adium contactlist style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="36296" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Gir_suit.Adiumicon.png"/>
+ </images>
+ <long>Author: "Images of &lt;i>Gir&lt;/i> in his &lt;i>suit&lt;/i> to go along with the &lt;i>Gir&lt;/i> sounds and dock icon, neither of which I made." This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6338">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6338&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

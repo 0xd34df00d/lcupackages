@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Blackened</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.Blackened.style</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>0.4</string>
+	<key>CFBundleName</key>
+	<string>Blackened</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultFontFamily</key>
+	<string>Helvetica</string>
+	<key>DefaultFontSize</key>
+	<string>12</string>
+	<key>MessageViewVersion</key>
+	<integer>3</integer>
+	<key>ShowsUserIcons</key>
+	<true/>
+</dict>
+</plist>
