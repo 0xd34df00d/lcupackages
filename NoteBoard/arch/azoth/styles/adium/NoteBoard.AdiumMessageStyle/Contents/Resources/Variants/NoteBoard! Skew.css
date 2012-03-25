@@ -1,0 +1,18 @@
+@import url("../main.css");
+
+@-webkit-keyframes spin {		
+	0% 		{ -webkit-transform: rotateY(0) skew(100deg); }
+	100%	{ -webkit-transform: rotateY(0deg) skew(0); }
+}
+
+.following {
+	-webkit-transform-style: preserve-3d;
+	-webkit-perspective: 0;
+	-webkit-transition: all 0.27s ease-out;
+}
+
+.following.active {
+	opacity: 0;
+	-webkit-animation: spin 0.27s ease-out;
+}
+

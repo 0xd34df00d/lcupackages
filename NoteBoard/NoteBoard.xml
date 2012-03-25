@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>NoteBoard!</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version>1.4</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/NoteBoard.png"/>
+ </images>
+ <long>&lt;div>&lt;div>&lt;div>NoteBoard! is a beautiful modern Message Style for AdiumX. It's the first Message Style that fully represents what WebKit is capable of, ie. &lt;a href="http://webkit.org/blog/130/css-transforms/">CSS Animation&lt;/a>.&lt;/div>&lt;div>When installing the Style you'll have the option of choosing from 7 different animations and picking the one that you fancy the most.&lt;/div>&lt;div>NOTE: The animation applies to the followup message only.&lt;/div>&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6218">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6218&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
