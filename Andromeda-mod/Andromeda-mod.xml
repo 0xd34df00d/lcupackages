@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Andromeda-mod</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version>1.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Andromeda-mod.png"/>
+ </images>
+ <long>&lt;div>&lt;div>Author did this for personal use, but thought about sharing here ;)&lt;/div>&lt;div>"For now I got no variants for this one.&lt;/div>&lt;div>It has a toggle button at the right corner of the header, so you can hide/show the header as you please, without having to change it on preferences, and open another window.&lt;/div>&lt;div>It's the first time I did a customization for Adium, so let me know if there's something wrong ;P "&lt;/div>&lt;div>FAQ&lt;/div>&lt;div>&amp;nbsp;- the mod for the window is from iDium&lt;/div>&lt;div>&amp;nbsp;- the moded scrollbar is from ThemePark&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7925">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7925&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

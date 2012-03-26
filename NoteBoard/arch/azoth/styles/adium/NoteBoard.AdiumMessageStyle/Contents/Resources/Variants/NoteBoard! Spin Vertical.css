@@ -1,0 +1,16 @@
+@import url("../main.css");
+
+@-webkit-keyframes spin {		
+	0% 		{ -webkit-transform: perspective(500) rotateY(-90deg) rotateX(0deg); }
+	50% 	{ -webkit-transform: perspective(500) rotateY(30deg) rotateX(0deg); }
+	100%	{ -webkit-transform: perspective(500) rotateY(0deg) rotateX(0deg); }
+}
+
+.following {
+	-webkit-transform-style: preserve-3d;
+	-webkit-perspective: 0;
+}
+
+.following.active {
+	-webkit-animation: spin 1s ease-out;
+}

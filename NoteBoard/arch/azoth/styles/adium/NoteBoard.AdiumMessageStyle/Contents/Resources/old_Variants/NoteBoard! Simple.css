@@ -1,0 +1,5 @@
+@import url("../main.css");
+
+.following.active {
+	opacity: 1;
+}

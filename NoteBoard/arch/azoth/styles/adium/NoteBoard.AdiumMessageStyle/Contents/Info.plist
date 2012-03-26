@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowTextColors</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>NoteBoard!</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.adiumx.NoteBoard.style</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.4</string>
+	<key>CFBundleName</key>
+	<string>NoteBoard!</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultBackgroundColor</key>
+	<string>6A3C1A</string>
+	<key>DefaultFontFamily</key>
+	<string>Marker Felt</string>
+	<key>DefaultFontSize</key>
+	<integer>13</integer>
+	<key>DefaultVariant</key>
+	<string>NoteBoard! Newsflash</string>
+	<key>DisableCombineConsecutive</key>
+	<false/>
+	<key>DisableCustomBackground</key>
+	<false/>
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+	<key>ShowsUserIcons</key>
+	<true/>
+</dict>
+</plist>
