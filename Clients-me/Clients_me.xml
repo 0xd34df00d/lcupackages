@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>Clients-me</name>
+ <name>Clients_me</name>
  <description>Icons for different IM clients for Azoth</description>
  <tags>
   <tag>azoth</tag>
@@ -8,7 +8,7 @@
   <tag>client icons</tag>
  </tags>
  <versions>
-  <version>0.2</version>
+  <version size="549628" archiver="lzma">0.2</version>
  </versions>
  <images>
   <icon url=""/>

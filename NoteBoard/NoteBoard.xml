@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>NoteBoard!</name>
+ <name>NoteBoard</name>
  <description>An Adium chat style theme from the Adiumxtras site.</description>
  <tags>
   <tag>azoth</tag>
@@ -9,7 +9,7 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version>1.4</version>
+  <version size="102497" archiver="lzma">1.4</version>
  </versions>
  <images>
   <icon url=""/>
