@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Ninja</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="275800" archiver="xz">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ninja.png"/>
+ </images>
+ <long>&lt;div>&lt;div>&lt;div>&lt;div>&lt;b>Ninja Chat&lt;/b> is a message style with the art of ninjitsu as it's theme. This theme is for those who like dark backgrounds with nice colored foregrounds.&lt;/div>&lt;div>&lt;i>Header Support&lt;/i>&lt;/div>&lt;div>The header has a silhouette of a cartoon ninja in the middle with two ninja stars beside it. The incoming and outgoing icons are on the outer edges of the header. By click on the header, a bigger header appears with the start time and date showing under the ninja head. The chat icons are also doubled in size.&lt;/div>&lt;div>&lt;i>Backgrounds&lt;/i>&lt;/div>&lt;div>There are two selectable backgrounds in this first release.&amp;nbsp;&lt;/div>&lt;div>Ninja Star is a background of a ninja star.&lt;/div>&lt;div>Calligraphy has the Japanese characters that symbolize "ninjitsu"as background.&lt;/div>&lt;div>&lt;i>Thanks&lt;/i>&lt;/div>&lt;div>&lt;ul>&lt;li>The author thanks the Adium-included Plastic message style as it's initial code set.&amp;nbsp;&lt;/li>&lt;li>The author also thanks Tiff for the motivation to create this message style.&lt;/li>&lt;/ul>&lt;/div>&lt;/div>&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2734">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2734&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

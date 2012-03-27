@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<base href="%@">
+
+	<script type="text/javascript">
+
+	// Set this variable to false to disable animation!
+	doAnimation = true;
+	
+	isDebug = false;
+
+		//Do this on load
+		function initEvents() {
+			if(document.getElementById("heading") == null){
+				document.getElementById("bodyNode").style.marginTop = "5px";
+			}
+
+			if(isDebug == false) {
+				document.getElementById("debug").style.display = "none";
+			}
+			
+			alignChat(true);
+		}
+		
+		//Debugging function
+		function trace(msg) {
+			var node = document.createElement("div");
+			var debugCon = document.getElementById("debug");
+			node.innerHTML = msg;
+			debugCon.appendChild(node);
+		}
+		
+		//Load correct js files
+		function loadtemplate()
+		{
+			var js = document.createElement("script");
+			js.type = "text/javascript";
+			js.src = client.getTemplateURL("Template.js");
+			document.getElementsByTagName("head")[0].appendChild(js);
+		}
+	
+		//Appending new content to the message view
+		function appendMessage(html) {
+			shouldScroll = nearBottom();
+		
+			//Remove any existing insertion point
+			insert = document.getElementById("insert");
+			if(insert) insert.parentNode.removeChild(insert);
+
+			//Append the new message to the bottom of our chat block [ AND ANIMATE ]
+			chat = document.getElementById("Chat");
+			var inner = document.createElement("div");
+			inner.innerHTML = html;
+
+			if (inner.firstChild.className != "status") {
+				var wrapper = inner.firstChild.getElementsByTagName("p")[0].parentNode;
+				chat.appendChild(inner);
+			
+				if (doAnimation) {
+					var oldheight = wrapper.offsetHeight;
+					if (oldheight) {
+						YAHOO.util.Dom.setStyle(wrapper,"height","0px");
+						//YAHOO.util.Dom.setStyle(wrapper,"opacity","0");
+						
+						//var myAnim = new YAHOO.util.Anim(wrapper, { height: { to: oldheight }, opacity: { to: 1 } }, 0.5);
+						var myAnim = new YAHOO.util.Anim(wrapper, { height: { to: oldheight } }, 0.5);
+						myAnim.onTween.subscribe(function(e) { scrollToBottom(); },this,true);
+						myAnim.animate();
+					}
+				}
+			} else {
+				chat.appendChild(inner);
+			}
+			
+			alignChat(shouldScroll);
+		}
+
+		function appendNextMessage(html){
+			shouldScroll = nearBottom();
+
+			insert = document.getElementById("insert");
+
+			var inner = document.createElement("div");
+			inner.innerHTML = html;
+
+			if (doAnimation) {
+				if ((inner.firstChild.className == "next")) {					
+					var wrapper = inner.firstChild;
+
+					insert.parentNode.appendChild(inner);
+					var oldheight = wrapper.offsetHeight;
+
+					if (oldheight) {
+						YAHOO.util.Dom.setStyle(wrapper,"height","0px");
+						//YAHOO.util.Dom.setStyle(wrapper,"opacity","0");
+
+						//var myAnim = new YAHOO.util.Anim(wrapper, { height: { to: oldheight }, opacity: { to: 1 } }, 0.5);
+						var myAnim = new YAHOO.util.Anim(wrapper, { height: { to: oldheight } }, 0.5);
+						myAnim.onTween.subscribe(function(e) { scrollToBottom(); },this,true);
+						myAnim.animate();
+					} else {
+						insert.parentNode.appendChild(inner); // safety net
+					}
+				} else {
+					insert.parentNode.appendChild(inner); // safety net
+				}
+			} else {
+				insert.parentNode.appendChild(inner); // safety net
+			}
+
+			alignChat(shouldScroll);
+		}
+		
+		//Auto-scroll to bottom.  Use nearBottom to determine if a scrollToBottom is desired.
+		function nearBottom() {
+			return ( document.body.scrollTop >= ( document.body.offsetHeight - ( window.innerHeight * 1.2 ) ) );
+		}
+		function scrollToBottom() {
+			document.body.scrollTop = document.body.offsetHeight;
+		}
+
+		//Dynamically exchange the active stylesheet
+		function setStylesheet( id, url ) {
+			code = "<style id=\"" + id + "\" type=\"text/css\" media=\"screen,print\">";
+			if( url.length ) code += "@import url( \"" + url + "\" );";
+			code += "</style>";
+			range = document.createRange();
+			head = document.getElementsByTagName( "head" ).item(0);
+			range.selectNode( head );
+			documentFragment = range.createContextualFragment( code );
+			head.removeChild( document.getElementById( id ) );
+			head.appendChild( documentFragment );
+		}
+		
+		//Swap an image with its alt-tag text on click
+		document.onclick = imageCheck;
+		function imageCheck() {		
+			node = event.target;
+			if(node.tagName == 'IMG' && node.alt) {
+				a = document.createElement('a');
+				a.setAttribute('onclick', 'imageSwap(this)');
+				a.setAttribute('src', node.src);
+				text = document.createTextNode(node.alt);
+				a.appendChild(text);
+				node.parentNode.replaceChild(a, node);
+			}
+		}
+		function imageSwap(node) {
+			shouldScroll = nearBottom();
+
+			//Swap the image/text
+			img = document.createElement('img');
+			img.setAttribute('src', node.src);
+			img.setAttribute('alt', node.firstChild.nodeValue);
+			node.parentNode.replaceChild(img, node);
+			
+			alignChat(shouldScroll);
+		}
+		
+		//Align our chat to the bottom of the window.  If true is passed, view will also be scrolled down
+		function alignChat(shouldScroll) {			
+			if (shouldScroll) scrollToBottom();
+		}
+		function windowDidResize(){
+			alignChat(true/*nearBottom()*/); //nearBottom buggy with inavtive tabs
+		}
+		
+		window.onresize = windowDidResize;
+	</script>
+	
+	<style id="mainStyle" type="text/css" media="screen,print">	@import url( "%@" ); </style>
+
+</head>
+<body onload="initEvents()" style="==bodyBackground==">
+%@
+<div id="Chat">
+</div>
+%@
+<div id="debug"></div>
+</body>
+</html>

@@ -1,0 +1,61 @@
+@import url("base.css");
+
+/* ---------------------- */
+/* -- INCOMING: Orange -- */
+/* ---------------------- */
+
+.incoming .top {
+	background:#ff7962 url(img/orange/title_bg.gif) repeat-x;
+}
+
+.incoming .top span.author {
+	background:#ffffff url(img/orange/title_side1.gif) no-repeat top right;
+}
+
+.incoming .top span.time {
+	background:#aa4c3c url(img/orange/title_side2.gif) no-repeat top right;
+	color:#e6cac5;
+}
+
+.incoming p span.time {
+	background:#ff7962 url(img/orange/time_left.gif) no-repeat top left;
+	color:#ffe4e0;
+}
+
+.incoming p span.time:after {
+	background:#ff7962 url(img/orange/time_right.gif) no-repeat top right;
+}
+
+.incoming p {
+	background:#ffe4e0;
+}
+
+/* ---------------------- */
+/* -- OUTGOING: Yellow -- */
+/* ---------------------- */
+
+.outgoing .top {
+	background:#e5c24c url(img/yellow/title_bg.gif) repeat-x;
+}
+
+.outgoing .top span.author {
+	background:#ffffff url(img/yellow/title_side1.gif) no-repeat top right;
+}
+
+.outgoing .top span.time {
+	background:#a18834 url(img/yellow/title_side2.gif) no-repeat top right;
+	color:#e6cac5;
+}
+
+.outgoing p span.time {
+	background:#e5c24c url(img/yellow/time_left.gif) no-repeat top left;
+	color:#faf3db;
+}
+
+.outgoing p span.time:after {
+	background:#e5c24c url(img/yellow/time_right.gif) no-repeat top right;
+}
+
+.outgoing p {
+	background:#faf3db;
+}
