@@ -1,0 +1,61 @@
+@import url("../main.css");
+
+/* ---------------------- */
+/* -- INCOMING: Yellow -- */
+/* ---------------------- */
+
+.incoming .top {
+	background:#e5c24c url(../img/yellow/title_bg.gif) repeat-x;
+}
+
+.incoming .top span.author {
+	background:#ffffff url(../img/yellow/title_side1.gif) no-repeat top right;
+}
+
+.incoming .top span.time {
+	background:#a18834 url(../img/yellow/title_side2.gif) no-repeat top right;
+	color:#e6cac5;
+}
+
+.incoming p span.time {
+	background:#e5c24c url(../img/yellow/time_left.gif) no-repeat top left;
+	color:#faf3db;
+}
+
+.incoming p span.time:after {
+	background:#e5c24c url(../img/yellow/time_right.gif) no-repeat top right;
+}
+
+.incoming p {
+	background:#faf3db;
+}
+
+/* -------------------- */
+/* -- OUTGOING: Grey -- */
+/* -------------------- */
+
+.outgoing .top {
+	background:#a7a7a7 url(../img/grey/title_bg.gif) repeat-x;
+}
+
+.outgoing .top span.author {
+	background:#ffffff url(../img/grey/title_side1.gif) no-repeat top right;
+}
+
+.outgoing .top span.time {
+	background:#666666 url(../img/grey/title_side2.gif) no-repeat top right;
+	color:#c3c3c3;
+}
+
+.outgoing p span.time {
+	background:#a7a7a7 url(../img/grey/time_left.gif) no-repeat top left;
+	color:#ededed;
+}
+
+.outgoing p span.time:after {
+	background:#a7a7a7 url(../img/grey/time_right.gif) no-repeat top right;
+}
+
+.outgoing p {
+	background:#ededed;
+}

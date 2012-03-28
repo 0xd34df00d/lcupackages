@@ -1,0 +1,228 @@
+
+
+body {
+    margin: 20px;
+    background: url(../images/bg_ninjastar2.png) bottom repeat;
+}
+
+#menu1 {
+	background: #FFFFFF url(../images/header_big.png) repeat top;
+}
+
+#menu2 {
+	background: #FFFFFF url(../images/header_big.png) repeat top;
+}
+
+.header_blue {
+	background: url("../images/header_yellow_trans.png") bottom left repeat-x;
+	color:#ffffff;
+        margin-left: 0px;
+        margin-right: 5px;
+}
+
+.header_red {
+	background: url("../images/header_orange_trans.png") bottom left repeat-x;
+	color:#ffffff;
+        margin-left: 0px;
+        margin-right: 5px;
+}
+
+.header_context {
+	background: url("../images/header_context_background.png") bottom left repeat-x;
+	color:#999999;
+        margin-left: 0px;
+        margin-right: 5px;
+}
+
+.message_red a {
+	background: url("../images/header_context_background.png") bottom left repeat-x;
+	color: #ffffff;
+}
+
+.message_blue a {
+	color: #ffffff;
+}
+
+.message_context a {
+	background: url("../images/header_context_background.png") bottom left repeat-x;
+	color: #999999;
+}
+
+.message_red {
+        background: url("../images/header_context_background.png") top left repeat-x;
+
+	color: #ffffff;
+}
+
+.message_blue {
+        background: url("../images/header_context_background.png") top left repeat-x;
+
+	color: #ffffff;
+}
+
+.message_context {
+        background: url("../images/header_context_background.png") top left repeat-x;
+
+	color: #ffffff;
+}
+
+.next_timestamp {
+        float: right;
+        position:relative;
+        right:-5px;
+
+        color: green;
+
+        font-family: "Lucida Grande";
+        font-size: 9px;
+        font-weight: bold;
+
+        margin: 0 2px 0 -1px;
+}
+
+
+/********************************/
+/** status bar formatting      **/
+/********************************/
+
+/** left box of status bar **/
+.status_left {
+        color: #00bb00;
+
+        margin: 0;
+        padding: 7px 0px 0px 8px;
+        float: left;
+
+        font-family: "Lucida Grande";
+        font-size: 9px;
+        font-weight: bold;
+
+        background: url("../images/status_left_box.png") top left no-repeat;
+        height: 29px;
+        width: 38px;
+
+        z-index: 3;
+
+        position: relative;
+}
+
+
+
+.message_status {
+        background: url("../images/status_left_box.png") top left repeat-x;
+
+        line-height: 1.3em;
+
+        padding: 3px 10px 0px 8px;
+
+        color: #fff333;
+
+        margin-left: 38px;
+        margin-right: 10px;
+}
+
+/** timestamp on right of status bar  **/
+
+.status_timestamp {
+        float: right;
+        position:relative;
+        right:0px;
+
+        color: yellow;
+
+        font-family: "Lucida Grande";
+        font-size: 9px;
+        font-weight: bold;
+
+        margin: 0 2px 0 -1px;
+}
+
+/** bottom of status bar  **/
+
+.container_bottom {
+        position: relative;
+}
+
+.bottom_left_status {
+        height: 12px;
+        width: 5px;
+        position: absolute;
+        left: 33px;
+}
+
+
+.bottom_center_status {
+        height: 12px;
+        position: absolute;
+        right: 13px;
+        left: 38px;
+}
+
+.bottom_right_status {
+        height: 12px;
+        width: 13px;
+        position: absolute;
+        right: 0px;
+}
+
+/** status bar border **/
+.top_status {
+        height:3px;
+        position:absolute;
+        top:-3px;
+        left:38px;
+        right:4px;
+
+}
+
+.left_status {
+        width: 5px;
+        height: 100%;
+        position: absolute;
+        left: 33px;
+}
+
+.right_status {
+        width: 5px;
+        position: absolute;
+        right: 0px;
+        top:0px;
+        bottom:-5px;
+    z-index:20;
+}
+
+.left {
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        width: 5px;
+}
+
+.right {
+        margin-right: -15px;
+        padding-right: 15px;
+}
+
+.right2 {
+        margin-right: -15px;
+        padding-right: 15px;
+}
+
+.middle_right {
+        float: right;
+        position: relative;
+        right: -12px;
+        top: -7px;
+        height: 7px;
+        width:5px;
+}
+
+.top {
+        height:3px;
+        position:absolute;
+        top:-3px;
+        left:4px;
+        right:4px;
+
+}
+

@@ -1,0 +1,36 @@
+	<script type="text/javascript">
+	function growshrink(id)
+		{
+        one = document.getElementById("menu1")
+        two = document.getElementById("menu2")
+
+        if (one.style.display=="block") {
+                one.style.display="none"
+                two.style.display="block"
+        } else {
+                one.style.display="block"
+                two.style.display="none"
+	        }
+		}
+	</script>
+
+<a href="javascript:growshrink(1)" title="Click to grow header">
+  <div id="menu1" style="display: block;">
+    <img class="buddyIconHeader" src="%incomingIconPath%" width="48px" height="48px" />
+    <img class="myIconHeader" src="%outgoingIconPath%" width="48px" height="48px" />
+    <div class="menubottom1">
+    </div>
+  </div>
+</a>
+
+<a href="javascript:growshrink(2)" title="Click to shrink header">
+  <div id="menu2" style="display: none;">
+    <img class="buddyIconHeader" src="%incomingIconPath%" width="96px" height="96px" />
+    <div class="time2" align=center>
+        %timeOpened{%B %e, %Y %I:%M:%S %p}%
+    </div>
+    <img class="myIconHeader" src="%outgoingIconPath%" width="96px" height="96px" />
+    <span class="menubottom2">
+    </span>
+  </div>
+</a>
