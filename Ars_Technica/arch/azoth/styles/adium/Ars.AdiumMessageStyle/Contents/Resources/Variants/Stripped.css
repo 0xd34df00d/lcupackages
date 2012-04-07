@@ -1,0 +1,13 @@
+@import url(../Main.css);
+
+.buddyicon {
+	display: none;
+}
+
+.buddyicon img {
+	display: none;	
+}
+
+.container {
+	margin-left: 8px;
+}

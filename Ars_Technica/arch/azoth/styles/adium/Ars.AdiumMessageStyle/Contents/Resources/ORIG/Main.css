@@ -1,0 +1,146 @@
+body {
+	font-size: 10pt;
+	font-family: Lucida Grande, sans-serif;
+	
+}
+
+.header {
+	height: 46px;
+	
+}
+
+.remoteUser {
+	color: #ffffff;
+	background-color: #ff5b00;
+	font-size: 18pt;
+	float: left;
+	height: 46px;
+	line-height: 46px;
+	vertical-align: middle;
+	
+}
+
+.remoteUser img {
+	vertical-align: middle;
+	position: relative;
+	top: -3px;	
+}
+
+.openTime {
+	color: #ffffff;
+	background-color: #39393f;
+	font-size: 18pt;
+	display: block;
+	height: 46px;
+	line-height: 46px;
+	text-align: right;
+	padding-right: 4px;
+	
+}
+
+/*
+.remoteUser:before {
+	content: url('small_chevron.png');
+	
+}
+
+.remoteUser:after {
+	content: url('large_chevron.png');
+	
+}
+*/
+
+a {
+	color: #ff5b00;
+	text-decoration: none;
+	
+}
+
+a:visited {
+	color: #ff9000;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	color: #ff9000;
+	text-decoration: none;
+	
+}
+
+.buddyicon {
+	float: left;
+	margin-left: 4px;
+	margin-right: 4px;
+	-webkit-border-radius: 5px;
+	overflow: hidden;
+
+}
+
+.buddyicon img {
+	height: 40px;
+	width: 40px;
+	
+}
+
+.container {
+	color: #333233;
+	margin-left: 56px;
+	margin-right: 32px;
+	
+}
+
+.msg {
+	clear: both;
+	
+}
+
+.msg + .msg {
+	margin-top: 8px;
+	
+}
+
+.nextcontent {
+	margin-top: 4px;
+	border-top: 1px solid #ddd;
+	
+}
+
+.sender {
+	color: #333233;
+	font-size: 12pt;
+	margin-left: -8px;
+}
+
+.status {
+	color: #ffffff;
+	background-color: #ff5b00;
+	margin: 8px 0;
+	padding-left: 4px;
+	
+}
+
+.status .time {
+	color: #ffffff;
+	font-size: 8pt;
+	margin-right: 4px;
+	
+}
+
+.time {
+	color: #a8abb0;
+	font-size: 8pt;
+	float: right;
+	margin-right: -28px;
+	
+}
+
+.msg.context .container {
+	color: #a8abb0;
+	
+}
+
+.status.context {
+	background-color: #ff9000;
+	
+}

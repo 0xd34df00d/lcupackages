@@ -1,0 +1,54 @@
+<!-- scroll.js borrowed from Cinematic message style -->
+
+<script src="scroll.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- inlineImgs.js courtesy of darkcooger -->
+
+<script type="text/javascript" src="inlineImgs.js"></script>
+
+<script type="text/javascript">
+ 	// Putting the #Chat container into another div.
+ 	// This allows the custom scrollbar to appear.
+	var d_chat = document.getElementById("Chat");
+	var d_header = document.getElementById("Header");
+	var d_container = document.createElement('div');
+ 	
+ 	d_container.setAttribute('id', 'container');
+ 	document.body.appendChild(d_container);
+ 	d_container.appendChild(d_chat);
+ 	d_chat.appendChild(d_header);
+ 	
+ 	
+ 	// overrides of the functions form Webkit Message View Plugin's Template.html
+ 	// This is necessary for the #container's content to be scrolled down
+ 	// when new messages are displayed.
+	function nearBottom() {
+		return ( d_container.scrollTop >= ( d_chat.offsetHeight - ( window.innerHeight * 1 ) ) );
+	}
+	
+//	function scrollToBottom() {
+//		d_container.scrollTop = d_chat.offsetHeight;
+//	}
+	
+	function scrollToBottom() {
+	
+		// This is the default snappy-scroll, commented out.
+		//document.body.scrollTop = document.body.offsetHeight;
+		
+		//And here's our new scrolling.
+		if ( intervall_scroll ) clearInterval( intervall_scroll );
+		intervall_scroll = setInterval( function() {
+			var target_scroll = (d_container.scrollHeight-window.innerHeight);
+			var scrolldiff = target_scroll - d_container.scrollTop;
+			if ( d_container.scrollTop != target_scroll ) {
+				var saved_scroll = d_container.scrollTop;
+				d_container.scrollTop += scrolldiff / 5 + ( scrolldiff >= 0 ? (scrolldiff != 0 ) : -1 );
+			 } else {
+			 	saved_scroll = -1;
+				clearInterval( intervall_scroll );
+			 }
+		} , 10 );
+	}
+	
+	
+</script>

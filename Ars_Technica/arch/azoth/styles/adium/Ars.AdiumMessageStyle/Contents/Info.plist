@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AllowTextColors</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleGetInfoString</key>
+	<string>Ars Message Style</string>
+	<key>CFBundleIdentifier</key>
+	<string>mud212.adiumstyles.ArsTechnica</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>1.5</string>
+	<key>CFBundleName</key>
+	<string>ArsTechnica</string>
+	<key>CFBundlePackageType</key>
+	<string>AdIM</string>
+	<key>DefaultVariant</key>
+	<string>Ars</string>
+	<key>DefaultBackgroundColor</key>
+	<string>ffffff</string>
+	<key>DefaultFontFamily</key>
+	<string>Lucida Grande</string>
+	<key>DefaultFontSize</key>
+	<integer>10</integer>
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+</dict>
+</plist>
