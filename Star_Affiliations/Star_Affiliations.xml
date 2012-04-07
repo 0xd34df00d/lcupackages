@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Star_Affiliations</name>
+ <description>Star affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="14714" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/Star_Affiliations.png"/>
+ </images>
+ <long>Affiliation icons set with stars from suse@conference.jabber.ru/pendruk</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
