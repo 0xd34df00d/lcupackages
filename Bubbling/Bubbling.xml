@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Bubbling</name>
+ <description>Nice bubbling sound pack.</description>
+ <tags>
+  <tag>advancednotifications</tag>
+  <tag>sound notifications</tag>
+ </tags>
+ <versions>
+  <version size="72028" archiver="xz">0.1</version>
+ </versions>
+ <long>Nice bubbling sound notifications pack from me ( dap.darkness@gmail.com ).
+
+There are two files now:
+ - im-incoming-message;
+ - im-muc-highlight.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
