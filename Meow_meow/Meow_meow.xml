@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Meow_meow</name>
+ <description>Cats sounds.</description>
+ <tags>
+  <tag>advancednotifications</tag>
+  <tag>sound notifications</tag>
+ </tags>
+ <versions>
+  <version size="143257" archiver="lzma">1.0</version>
+ </versions>
+ <long>&lt;div>Many different sounds of cats...&amp;nbsp;For every one who loves cats ;)&lt;/div>&lt;div>Sounds are available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2156">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2156&lt;/a>&lt;/div></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
