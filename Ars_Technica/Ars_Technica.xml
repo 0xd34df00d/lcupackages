@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Ars_Technica</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="53665" archiver="lzma">1.6</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ars_Technica.png"/>
+ </images>
+ <long>&lt;div>&lt;div>A straightforward message style inspired by the latest Ars Technica layout. Features inline images (click to load, again to revert to a link, and shift-click to load in your default browser), as well as inline video playback.&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7338">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7338&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

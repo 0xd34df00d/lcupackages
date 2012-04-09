@@ -1,0 +1,40 @@
+@import url(../Main.css);
+
+.remoteUser {
+	background-color: rgb(160, 17, 18);
+	background-image: url(../img/small_chevron_red.png);
+}
+
+.largeChevron:before {
+	content: url(../img/large_chevron_red.png);
+}
+
+a {
+	color: rgb(160, 17, 18);
+	text-decoration: none;
+}
+
+a:visited {
+	color: #FF4F3F;
+	text-decoration: none;	
+}
+
+a:hover {
+	color: #FF4F3F;
+	text-decoration: none;	
+}
+
+.buddyicon {
+	margin-left: 2px;
+	margin-right: 2px;
+	height: 32px;
+	width: 32px;
+}
+
+.status {
+	background-color: rgb(160, 17, 18);
+}
+
+.status.context {
+	background-color: rgb(160, 17, 18);	
+}

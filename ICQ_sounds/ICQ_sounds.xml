@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>ICQ_sounds</name>
+ <description>Sounds from ICQ IM.</description>
+ <tags>
+  <tag>sound themes</tag>
+ </tags>
+ <versions>
+  <version size="185491" archiver="lzma">0.1</version>
+ </versions>
+ <long>ICQ IM sound notifications pack from suse@conference.jabber.ru/pendruk</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

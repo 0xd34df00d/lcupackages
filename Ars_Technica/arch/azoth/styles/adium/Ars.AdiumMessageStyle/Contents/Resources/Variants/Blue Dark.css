@@ -1,0 +1,53 @@
+@import url(../Main.css);
+
+body {
+	background: #000000;
+}
+
+.remoteUser {
+	background-color: rgb(16, 120, 152);
+	background-image: url(../img/small_chevron_blue.png);
+}
+
+.largeChevron:before {
+	content: url(../img/large_chevron_darkblue.png);
+}
+
+a {
+	color: rgb(16, 120, 152);
+	text-decoration: none;
+}
+
+a:visited {
+	color: #5FBFEF;
+	text-decoration: none;	
+}
+
+a:hover {
+	color: #5FBFEF;
+	text-decoration: none;	
+}
+
+.container {
+	color: rgb(238,238,238);
+}
+
+.nextcontent {
+	border-top: 1px solid rgb(56,56,62);
+}
+
+.sender {
+	color: rgb(238,238,238);
+}
+
+.status {
+	background-color: rgb(16, 120, 152);
+}
+
+.status.context {
+	background-color: rgb(16, 120, 152);	
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgb(238,238,238);
+	-webkit-border-radius: 7px;

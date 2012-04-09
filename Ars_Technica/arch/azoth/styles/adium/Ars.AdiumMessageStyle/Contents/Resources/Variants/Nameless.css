@@ -1,0 +1,17 @@
+@import url(../Main.css);
+
+.buddyicon {
+	margin-left: 4px;
+	margin-right: 4px;
+	height: 40px;
+	width: 40px;
+}
+
+.buddyicon img {
+	height: 40px;
+	width: 40px;
+}
+
+.sender {
+	display: none;
+}

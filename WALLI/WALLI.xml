@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>WALLI</name>
+ <description>Sounds from WALL-E the movie.</description>
+ <tags>
+  <tag>sound themes</tag>
+ </tags>
+ <versions>
+  <version size="289285" archiver="lzma">0.1</version>
+ </versions>
+ <long>WALL-E sound notifications pack from suse@conference.jabber.ru/pendruk</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

@@ -1,0 +1,25 @@
+@import url(../Main.css);
+
+body {
+	background: #000000;
+}
+
+.largeChevron:before {
+	content: url(../img/large_chevron_dark.png);
+}
+
+.container {
+	color: rgb(238,238,238);
+}
+
+.nextcontent {
+	border-top: 1px solid rgb(56,56,62);
+}
+
+.sender {
+	color: rgb(238,238,238);
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: rgb(238,238,238);
+	-webkit-border-radius: 7px;
