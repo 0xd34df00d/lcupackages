@@ -9,16 +9,16 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="206030">1.0</version>
+  <version size="76765" archiver="lzma">1.0.3</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/modern_bubbling.png"/>
  </images>
- <long>A nice theme with lots of variants.&lt;br />&lt;br /> This package contains two variants: plain Modern Bubbling and Compact version, which allows to group consecutive messages into a single message bubble.&lt;br />&lt;br /> This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=3629">http://www.adiumxtras.com/index.php?a=xtras&amp;xtra_id=3629&lt;/a></long>
+ <long>&lt;div>&lt;div>Author: "It's been a long time coming — almost 3 years — but I've finally released an update for Modern Bubbling. I have been working on the 1.x branch for about a year and a half. The 1.0 branch is based on code from about a year ago, which I have been using myself since then without any problems. The latest state of the art code which adds a number of features is part of the 1.1 branch, which I'll be finalizing very soon."&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3629">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3629&lt;/a></long>
  <maintainer>
-  <name>Georg Rudoy</name>
-  <email>0xd34df00d@gmail.com</email>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
  </maintainer>
  <depends/>
 </package>
