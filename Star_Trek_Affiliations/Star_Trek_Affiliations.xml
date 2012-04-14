@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>Star_Trek</name>
+ <name>Star_Trek_Affiliations</name>
  <description>Star Trek affiliation icons.</description>
  <tags>
   <tag>azoth</tag>
@@ -11,7 +11,7 @@
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Star_Trek.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Star_Trek_Affiliations.png"/>
  </images>
  <long>Engage! Affiliation icons set from Star Trek by suse@conference.jabber.ru/pendruk</long>
  <maintainer>
