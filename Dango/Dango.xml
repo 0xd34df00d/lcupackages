@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Dango</name>
+ <description>Dango status icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+ </tags>
+ <versions>
+  <version size="24288" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Dango.png"/>
+ </images>
+ <long>Set of Dango-like pictures by suse@conference.jabber.ru/pendruk
+Dango (団子) is a Japanese dumpling made from mochiko (rice flour), related to mochi. It is often served with green tea. Dango are eaten year-round, but the different varieties are traditionally eaten in given seasons. Three to four dango are often served on a skewer.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
