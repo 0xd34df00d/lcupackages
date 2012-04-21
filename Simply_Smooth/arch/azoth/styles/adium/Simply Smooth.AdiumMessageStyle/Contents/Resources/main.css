@@ -1,0 +1,166 @@
+/*Message Style: Simply Smooth*/
+/*Original Creator: Brad Smith (Smooth Operator)*/
+/*Version 0.4.7*/
+
+
+body {
+    background: url(images/pinstripe.png) repeat;
+	font-weight: normal;
+	overflow-x: hidden;
+	word-break: break-word;
+	margin: 0px;
+}
+
+#top {
+    height: 20px;
+    background: url(images/Header.png) repeat-x;
+    border-bottom: 1px solid #b0b0b0;
+    line-height: 15pt; 
+    overflow: hidden;
+    font-size: 9pt;
+    text-align: center;
+    position: fixed;
+    padding-left: 11px;
+    z-index: 5;
+    color: #6a6a6a;
+    top: 0px;
+    opacity: .85;
+    left: 0px;
+    width: 100%;
+}
+
+
+
+/* Message */
+	                
+.incoming { color: #ff6600; }
+.outgoing { color: #0066ff; }
+
+
+.container {
+    position: relative;
+    background: url("images/bottom_right.png") bottom right no-repeat;
+	margin: 20px 0px 0px 43px;
+}
+
+.context {
+	background: url("images/context_bottom_right.png") bottom right no-repeat;
+	color: #6a6a6a;
+}
+
+
+.sender {
+    top: -16px;
+    left: -41px;
+    right: 38px;
+    position: absolute;
+    background: url("images/top_left.png") top left no-repeat;
+    font: 9pt "Myriad Pro";
+    font-weight: bold;
+    text-transform: normal;
+    padding: 13px 0 0 15px;
+    margin-bottom: 0;
+    z-index: 1;
+}
+
+.context .sender {
+	background: url("images/context_top_left.png") top left no-repeat; 
+}
+    
+.time_initial {
+    position: absolute;
+    right: 0;
+    top: -16px;
+    background: url("images/top_right.png") top right no-repeat;
+    font-size: 8pt;
+    font-weight: normal;
+    text-transform: lowercase;
+    text-shadow: 1px 1px 3px #ccc;
+    color: #9a9a9a;
+    padding: 13px 16px 0 5px;
+    margin-bottom: 0;
+    z-index: 4;
+    }
+    
+.context .time_initial {
+	background: url("images/context_top_right.png") top right no-repeat;
+}
+    
+
+.divider {
+	background: url(images/divider.png) repeat-x  center;
+	height: 2px;
+	z-index: 100;
+	opacity: .15;
+	margin: 4px 4px;
+
+}
+
+.buddyicon {
+	display: none;
+	
+    }
+
+
+.message {
+    position: relative;
+    background: url("images/bottom_left.png") bottom left repeat-y;
+    top: 0px;
+    left: -41px;
+    margin-right: -24px;
+    text-shadow: 2px 2px 3px #ccc;
+    padding: 6px 0 15px 15px;
+    color: #6a6a6a;
+    }
+ 
+.context .message {
+	background: url("images/context_bottom_left.png") bottom left repeat-y;
+	color: #666666;
+	}   
+   
+ p {
+    padding: 0;
+    margin-bottom: 6px;
+	overflow: auto;
+}
+
+/* Status */
+    
+.status_container {
+    position: relative;
+    text-shadow: 1px 1px 3px #ccc;
+    font-size: 8pt;
+    text-transform: normal;
+    top: 2px;
+   
+}
+
+.status_container:first-child {
+    padding-top: 6px;
+}
+
+.status_container + .status_container {
+    display: none;
+}
+
+.status_message {
+    text-align: center;
+    font: 8pt "Myriad Pro";
+    color: #9a9a9a;
+}
+
+.status_time {
+    display: none;
+}
+
+IMG {
+	vertical-align: middle;
+        top: -3px;
+}
+
+img.scaledToFitImage{ width:auto; }
+
+#Chat {
+	overflow: hidden;
+	padding: 8px;
+}
