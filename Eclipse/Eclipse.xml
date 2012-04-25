@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Eclipse</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="383152" archiver="xz">0.2</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Eclipse0.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Eclipse1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Eclipse2.png"/>
+ </images>
+ <long>&lt;div>Transparency abound, Eclipse can stand in front of anything. It's fun, subtle, beautiful, utterly kick-ass, and any other adjective you want it to be.&amp;nbsp;Now with more variants and cleaner code.&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=374">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=374&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

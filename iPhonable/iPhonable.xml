@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>iPhonable</name>
+ <description>iPhone status icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+ </tags>
+ <versions>
+  <version size="57516" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/iPhonable.png"/>
+ </images>
+ <long>Author was inspired by the Apple iPhone Icons. Original pictures are available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4619">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4619&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
