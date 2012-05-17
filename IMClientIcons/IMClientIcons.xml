@@ -8,15 +8,13 @@
   <tag>client icons</tag>
  </tags>
  <versions>
-  <version size="266601">1.0</version>
+  <version size="227891" archiver="lzma">1.0.1</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/imdefaulticonset.png"/>
  </images>
- <long>The client icons are borrowed from the Psi+ project.&lt;br/>&lt;br/>
-
-This is the default set of client icons for Azoth. It is included in LeechCraft distribution by default, but may be absent in some distros due to unclear licensing status of some icons in the pack.</long>
+ <long>The client icons are borrowed from the Psi+ project.&lt;br/>&lt;br/> This is the default set of client icons for Azoth. It is included in LeechCraft distribution by default, but may be absent in some distros due to unclear licensing status of some icons in the pack.</long>
  <maintainer>
   <name>Georg Rudoy</name>
   <email>0xd34df00d@gmail.com</email>
