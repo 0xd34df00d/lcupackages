@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="iconset">
+ <name>JEY_style_Remix</name>
+ <description>LeechCraft-wide iconset originally built for KDE.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>iconset</tag>
+ </tags>
+ <versions>
+  <version>1.2.6</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/JEY_style_Remix.png"/>
+ </images>
+ <long>An awesome and top-rated icon theme for KDE is also available for LeechCraft!&lt;br/>&lt;br/>This is just a re-package of the original &lt;a href="http://kde-look.org/content/show.php/JEY!style+Remix?content=132818">JEY!style Remix&lt;/a> theme for LeechCraft.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
