@@ -1,5 +1,7 @@
-a:link {
-color : #49f;
+
+#header .link {
+display : block;
+height : 3px;
 }
 #Chat {
 overflow : hidden;
@@ -9,6 +11,38 @@ background : #666;
 opacity: 0.8;
 color : #bbb;
 }
+.disabled {
+	cursor	: default;
+}
+.busy {
+	cursor	: wait;
+}
+.clickable:hover {
+	cursor	: pointer;
+}
+.block em {
+	display	: block;
+}
+.inline h4, .inline p {
+	display	: inline;
+}
+a:link {
+text-decoration : none;
+color : #49f;
+}
+a:visited {
+text-decoration : none;
+color : #336699;
+}
+a:active {
+text-decoration : underline;
+color : #ff0000;
+}
+a:hover {
+text-decoration : underline;
+color : #ff0000;
+}
+
 body {
 margin : 0 3px 0 3px;
 background-image : url(sky.png);
@@ -30,10 +64,9 @@ background : #111;
 opacity : 0.6;
 border-style : solid;
 border-width : 1px;
-border-color : #333;
 }
 .incoming .name {
-color : #00f;
+color : #436b31;
 }
 .outgoing .name {
 color : #f00;
@@ -96,43 +129,16 @@ opacity : 0.8;
 color : #ffffff;
 }
 
-/*<group=Borders>*/
-
-.r {
-position : absolute;
-top : 0;
-right : 0;
-bottom : 0;
-left : 0;
-background-repeat : no-repeat;
-}
-.tb {
-top : 0;
-right : 0;
-bottom : 0;
-left : 0;
-border-style : solid;
-border-width : 1px 0;
-}
 .incoming .tb {
 border-color : #666666;
 }
 .outgoing .tb {
 border-color : #444444;
 }
-.lr {
-top : 0;
-right : 0;
-bottom : 0;
-left : 0;
-border-style : solid;
-border-width : 0 1px;
-}
+
 .incoming .lr {
 border-color : #555555;
 }
 .outgoing .lr {
 border-color : #333333;
 }
-
-/*</group>*/
