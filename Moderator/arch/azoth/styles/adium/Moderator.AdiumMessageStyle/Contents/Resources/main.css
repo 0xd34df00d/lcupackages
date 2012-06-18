@@ -1,0 +1,23 @@
+@import url(defaults.css);.incoming .icon {background:url(images/green_icon.png) no-repeat;}
+.incoming .bar {background:url(images/green_bar.png) repeat-x;}
+.incoming .space {background:url(images/green_space.png) no-repeat;}
+.incoming .time {background:url(images/green_end.png) no-repeat right;}
+.incoming .next .timeBar {background:url(images/green_time.png) no-repeat left;}
+.incomingOld .icon {background:url(images/green_icon_old.png) no-repeat;}
+.incomingOld .bar {background:url(images/green_bar_old.png) repeat-x;}
+.incomingOld .space {background:url(images/green_space_old.png) no-repeat;}
+.incomingOld .time {background:url(images/green_end_old.png) no-repeat right;}
+.incomingOld .next .timeBar {background:url(images/green_time_old.png) no-repeat left;}
+.outgoing .icon {background:url(images/blue_icon.png) no-repeat;}
+.outgoing .bar {background:url(images/blue_bar.png) repeat-x;}
+.outgoing .space {background:url(images/blue_space.png) no-repeat;}
+.outgoing .time {background:url(images/blue_end.png) no-repeat right;}
+.outgoing .next .timeBar {background:url(images/blue_time.png) no-repeat left;}
+.outgoingOld .icon {background:url(images/blue_icon_old.png) no-repeat;}
+.outgoingOld .bar {background:url(images/blue_bar_old.png) repeat-x;}
+.outgoingOld .space {background:url(images/blue_space_old.png) no-repeat;}
+.outgoingOld .time {background:url(images/blue_end_old.png) no-repeat right;}
+.outgoingOld .next .timeBar {background:url(images/blue_time_old.png) no-repeat left;}
+.incoming .next p,.incomingOld .next p {border-top:1px solid #00C60E;}
+.outgoing .next p,.outgoingOld .next p {border-top:1px solid #0062C6;}
+
