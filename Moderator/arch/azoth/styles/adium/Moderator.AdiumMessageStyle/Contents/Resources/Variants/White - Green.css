@@ -1,5 +1,5 @@
 @import 
-body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;background-color : #fbfffa;}
+body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;text-shadow:0 1px 0.8px #555;background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/white.jpg);}
 url(../defaults.css);.incoming .icon {background:url(../images/green_icon.png) no-repeat;}
 .incoming .bar {background:url(../images/green_bar.png) repeat-x;}
 .incoming .space {background:url(../images/green_space.png) no-repeat;}

@@ -6,10 +6,9 @@ display:block;
 font-style:normal;
 font-weight:400;
 color:#fffefc;
-margin:0;
-background:#110d12;
 text-shadow:0 1px 0.8px #555;
-}
+margin:0;
+background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/leechcraft-black.jpg);}
 .incoming .icon { background: url(../images/blue_icon.png) no-repeat; }
 .incoming .bar {background: url(../images/blue_bar.png) repeat-x; }
 .incoming .space {background: url(../images/blue_space.png) no-repeat; }
