@@ -1,5 +1,6 @@
 @import url(../defaults.css);
-body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;text-shadow:0 1px 0.8px #555;background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/white.jpg);}
+body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;text-shadow:0 1px 0.8px #555;background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/pink.jpg);}
+a:link {color:#ff1c49;}
 .incoming .icon { background: url(../images/blue_icon.png) no-repeat; }
 .incoming .bar {background: url(../images/blue_bar.png) repeat-x; }
 .incoming .space {background: url(../images/blue_space.png) no-repeat; }
