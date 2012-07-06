@@ -20,4 +20,29 @@
 .outgoingOld .next .timeBar {background:url(images/blue_time_old.png) no-repeat left;}
 .incoming .next p,.incomingOld .next p {border-top:1px solid #00C60E;}
 .outgoing .next p,.outgoingOld .next p {border-top:1px solid #0062C6;}
+.buddyicon img {
+	position: absolute;
+	top: 5px;
+	left: 10px;
+	width: 32px;
+	z-index: 2;
+	-webkit-transition-property: width, top;
+	-webkit-transition-duration: 0.3s;
+}
+
+.buddyicon img:hover {
+	top: -28px;
+	width: 128px;
+	z-index: 3;
+	-webkit-box-shadow: #000 0 0 10px;
+}
+
+.sender {
+	color: white;
+	display: block; 
+	font-size: 13px;
+	font-weight: bold;
+	margin-bottom: 2px;
+}
+
 
