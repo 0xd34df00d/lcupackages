@@ -1,0 +1,236 @@
+* {
+margin : 0;
+padding : 0;
+}
+body {
+background-color : #8b8b8b;
+}
+.message {
+margin : 0 5px 0 5px;
+}
+.redmal {
+color : #b50404;
+font-size : 11px;
+}
+.out {
+margin-left : 45px;
+}
+.t {
+background : url(images/t.png) top repeat-x;
+background-color : #eeeeee;
+}
+.l {
+background : url(images/l.png) left repeat-y;
+}
+.r {
+background : url(images/r.png) right repeat-y;
+}
+.b {
+background : url(images/b.png) bottom repeat-x;
+}
+.tl {
+background : url(images/tl.png) top left no-repeat;
+}
+.tr {
+background : url(images/tr.png) top right no-repeat;
+}
+.bl {
+background : url(images/bl.png) bottom left no-repeat;
+}
+.br {
+background : url(images/br.png) bottom right no-repeat;
+}
+.inside {
+padding : 8px 12px 10px 12px;
+}
+.old {
+color : #666;
+}
+.next {
+border-top : 1px solid #aaa;
+margin : 4px -1px 3px -1px;
+}
+.status {
+margin-right : auto;
+margin-left : auto;
+text-align : center;
+}
+a:link {
+color : #0f0fa6;
+text-decoration : none;
+}
+a:visited {
+color : purple;
+text-decoration : none;
+}
+a:active {
+background-color : yellow;
+text-decoration : none;
+}
+a:hover {
+color : red;
+text-decoration : none;
+}
+.msgin .nickname {
+color : blue;
+}
+.msgout .nickname {
+color : red;
+}
+.statusmsg {
+color : green;
+}
+.datetime {
+color : silver;
+}
+.msgin .nickname {
+color : green;
+}
+.msgout .nickname {
+color : red;
+}
+.eventmsg {
+color : purple;
+}
+.statusmsg {
+color : green;
+}
+.highlightchatmsg {
+color : red;
+}
+.slashmechatmsg {
+color : fuchsia;
+}
+.slashmechatmsg .nickname {
+color : fuchsia;
+}
+#Chat {
+overflow : hidden;
+}
+.msgin .nickname {
+color : blue;
+}
+.msgout .nickname {
+color : red;
+}
+.statusmsg {
+color : green;
+}
+.datetime {
+color : silver;
+}
+.msgin .nickname {
+color : green;
+}
+.msgout .nickname {
+color : red;
+}
+.eventmsg {
+color : purple;
+}
+.statusmsg {
+color : green;
+}
+.highlightchatmsg {
+color : red;
+}
+.slashmechatmsg {
+color : fuchsia;
+}
+.slashmechatmsg .nickname {
+color : fuchsia;
+}
+p::first-letter {
+font-weight : bold;
+color : #f00;
+}
+td {
+text-align : center;
+}
+all {
+width : 500px;
+font-weight : bold;
+text-align : center;
+}
+.all em {
+display : block;
+width : 0;
+height : 0;
+overflow : hidden;
+border-top : 12px solid #007fa6;
+border-left : 12px dotted transparent;
+border-right : 12px dotted transparent;
+margin-left : 50px;
+}
+.all span {
+display : block;
+width : 0;
+height : 0;
+color : #fff;
+overflow : hidden;
+border-top : 10px solid #c7eaff;
+border-left : 10px dotted transparent;
+border-right : 10px dotted transparent;
+margin-left : 52px;
+margin-top : -15px;
+}
+.b1, .b2, .b3, .b4, .b5, .b6 {
+height : 1px;
+}
+.b4, .b5, .b6, .b7 {
+border-left : 1px solid #007fa6;
+border-right : 1px solid #007fa6;
+}
+.b1 {
+margin : 0 8px;
+background : #007fa6;
+}
+.b2 {
+margin : 0 6px;
+background : #007fa6;
+}
+.b3 {
+margin : 0 4px;
+background : #007fa6;
+}
+.b4 {
+margin : 0 3px;
+background : #c7eaff;
+border-width : 0 5px;
+}
+.b5 {
+margin : 0 2px;
+background : #c7eaff;
+border-width : 0 4px;
+}
+.b6 {
+margin : 0 2px;
+background : #c7eaff;
+border-width : 0 3px;
+}
+.b7 {
+margin : 0 1px;
+background : #c7eaff;
+border-width : 0 3px;
+height : 2px;
+}
+content {
+display : block;
+background : #c7eaff;
+border : #007fa6 solid 3px;
+border-width : 0 3px;
+padding : 10px;
+}
+#block a {
+background : #c7e1ff;
+padding : 50px 0;
+width : 190px;
+display : block;
+text-decoration : none;
+color : #333;
+text-align : center;
+border : #024591 solid 1px;
+}
+#block a:hover {
+background : #77b7ff;
+}
