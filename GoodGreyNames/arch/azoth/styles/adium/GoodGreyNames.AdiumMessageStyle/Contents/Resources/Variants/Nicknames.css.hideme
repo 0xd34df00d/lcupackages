@@ -1,0 +1,16 @@
+.sender {
+	display: block;
+	float: left;
+	width: 6em;
+	margin: 0.75em 0 0 0.75em;
+}
+.content:after, .context:after {
+	content: "."; 
+	display: block; 
+	height: 0; 
+	clear: both; 
+	visibility: hidden;
+}
+.messages {
+	margin-left: 7em;
+}

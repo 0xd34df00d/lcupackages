@@ -1,0 +1,16 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+<meta name="generator" content="HTML Tidy for Linux (vers 6 November 2007), see www.w3.org">
+<meta name="coloring" content="hash">
+<meta name="themename" content="range">
+<meta name="author" content="Pendruk">
+
+<title></title>
+</head>
+<body>
+<div class="conversationIncomingIcon"><img src="%incomingIconPath%"/></div>
+<div class="conversationWith">%chatName%</div>
+<div id="header">Conversation started at %timeOpened%</div>
+</body>
+</html>

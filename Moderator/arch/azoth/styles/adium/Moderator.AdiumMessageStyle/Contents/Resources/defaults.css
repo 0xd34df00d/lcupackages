@@ -1,0 +1,40 @@
+body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;}
+.icon {width:64px;height:64px;float:left;position:relative;top:0;left:-32px;}
+.buddy {float:left;position:relative;top:10px;left:22px;z-index:auto;background-repeat:no-repeat;
+background-position:50%;
+background-attachment:fixed;text-align:center;-webkit-border-radius: 15px;
+-moz-border-radius: 15px;
+border-radius: 15px;width:44px;height:46px;margin-top: 0;margin-bottom:0;}
+.bar {font-size:12px;margin-left:104px;margin-right:-20px;color:#FFF;font-weight:700;position:relative;left:-26px;padding:4px 0 5px;}
+.space {width:14px;height:64px;float:left;position:relative;top:0;left:-32px;}
+.time {float:right;position:relative;left:13px;top:-4px;height:15px;font-size:11px;padding:5px 12px 0 0;}
+p {font-size:12px;position:relative;top:0;left:-30px;margin:0 11px 0 103px;}
+.next p {padding:3px 0 5px;}
+.next .time {top:0;}
+.next .timeBar {float:right;text-align:right;font-size:11px;color:#FFF;font-weight:700;margin:2px 11px 0 5px;}
+.spacer {clear:both;height:5px;}
+.incoming,.incomingOld,.outgoing,.outgoingOld,.status {margin-right:15px;}
+.status .icon {background:url(./images/red_icon.png) no-repeat;}
+.status .bar {background:url(./images/red_bar.png) repeat-x;}
+.status .space {background:url(./images/red_space.png) no-repeat;}
+.status .time {background:url(./images/red_end.png) no-repeat right;}
+.status .next p {border-top:1px solid #0062C6;}
+.msgout .nickname {text-shadow:#fff 0 1px 1px;color:red;}
+h1 {clear:left;text-align:center;}
+h2 {text-transform:capitalize;}
+main {overflow:hidden;}
+a {white-space:nowrap;}
+a:active,a:focus {outline:none;}
+.msgout .nickname {text-shadow:#fff 0 1px 1px;color:red;}
+.datetime {color:#5dbd93;}
+.eventmsg {color:#0500bc;text-align:center;}
+a { color: #2aaeff; }
+a:link {color:#036800;}
+a:visited {color:#26ad73;}
+A:hover{COLOR: #ff7847;TEXT-DECORATION: none;border-width:}
+a:active {text-decoration:none;}
+a.nicklink {text-decoration:none;color:red;}
+a.nicklink:hover {color:#ad42ff;text-decoration:none;}
+p.date,p.main {text-align:justify;}
+a:hover,a:active {border-bottom-style:dotted;}
+.highlightchatmsg { color: #ff724f; font-weight: bold;text-shadow:#fff 0 1px 1px; }

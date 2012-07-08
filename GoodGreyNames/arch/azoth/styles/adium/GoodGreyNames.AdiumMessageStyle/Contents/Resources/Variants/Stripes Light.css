@@ -1,0 +1,30 @@
+/* message containers */
+.outgoing .content, .outgoing .context, .container {
+	text-shadow: #ffffff 0px 1px 0px;
+}
+.incoming .content {
+	background-image: url(../Images/incoming-bg.jpg);
+	background-color: #AAAFBB;
+	border-bottom-color: #888e9f;
+	border-top-color: #AAAFBB;
+	color: #1E1F22;
+	text-shadow: #ffffff 0px 1px 0px;
+}
+/* older outgoing & incoming messages */
+.incoming .context {
+	background-image: url(../Images/incoming-bg.jpg);
+	background-color: #d9d9d9;
+	border-color: #BFBFBF;
+}
+.incoming .context, .outgoing .context {
+	color: #7F7F7F !important;
+}
+/* Links */
+a:link,a:visited {
+	color: #1e1f22;
+	font-style: italic;
+}
+a:hover {
+	color: #dddddd;
+	font-style: italic;
+}

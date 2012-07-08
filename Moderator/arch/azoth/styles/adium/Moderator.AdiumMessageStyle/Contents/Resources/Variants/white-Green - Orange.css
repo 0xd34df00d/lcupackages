@@ -1,0 +1,30 @@
+@import url(../defaults.css);
+body {font-family:sans-serif;font-size:10pt;font-weight:400;font-style:normal;font-variant:normal;display:block;text-shadow:0 1px 0.8px #555;background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/white.jpg);}
+.incoming .icon { background: url(../images/orange_icon.png) no-repeat; }
+.incoming .bar {background: url(../images/orange_bar.png) repeat-x; }
+.incoming .space {background: url(../images/orange_space.png) no-repeat; }
+.incoming .time { background: url(../images/orange_end.png) right no-repeat; }
+.incoming .next p { border-top: 1px solid #FF5000; }
+.incoming .next .timeBar { background: url(../images/orange_time.png) left no-repeat; }
+
+.incomingOld .icon { background: url(../images/orange_icon_old.png) no-repeat; }
+.incomingOld .bar {background: url(../images/orange_bar_old.png) repeat-x; }
+.incomingOld .space {background: url(../images/orange_space_old.png) no-repeat; }
+.incomingOld .time { background: url(../images/orange_end_old.png) right no-repeat; }
+.incomingOld .next p { border-top: 1px solid #FF5000; }
+.incomingOld .next .timeBar { background: url(../images/orange_time_old.png) left no-repeat; }
+
+
+.outgoing .icon { background: url(../images/green_icon.png) no-repeat; }
+.outgoing .bar {background: url(../images/green_bar.png) repeat-x; }
+.outgoing .space {background: url(../images/green_space.png) no-repeat; }
+.outgoing .time { background: url(../images/green_end.png) right no-repeat; }
+.outgoing .next p { border-top: 1px solid #00C60E; }
+.outgoing .next .timeBar { background: url(../images/green_time.png) left no-repeat; }
+
+.outgoingOld .icon { background: url(../images/green_icon_old.png) no-repeat; }
+.outgoingOld .bar {background: url(../images/green_bar_old.png) repeat-x; }
+.outgoingOld .space {background: url(../images/green_space_old.png) no-repeat; }
+.outgoingOld .time { background: url(../images/green_end_old.png) right no-repeat; }
+.outgoingOld .next p { border-top: 1px solid #00C60E; }
+.outgoingOld .next .timeBar { background: url(../images/green_time_old.png) left no-repeat; }

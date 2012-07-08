@@ -1,0 +1,39 @@
+@import url(../defaults.css);
+body {
+font-size:10pt;
+font-family:'\"DejaVu Sans Mono\"', monospace;
+display:block;
+font-style:normal;
+font-weight:400;
+color:#fffefc;
+text-shadow:0 1px 0.8px #555;
+margin:0;
+background-attachment: fixed;background-position: right bottom;background-repeat: no-repeat; background-image: url(../images/honeycomb.jpg);}
+.incoming .icon { background: url(../images/orange_icon.png) no-repeat; }
+.incoming .bar {background: url(../images/orange_bar.png) repeat-x; }
+.incoming .space {background: url(../images/orange_space.png) no-repeat; }
+.incoming .time { background: url(../images/orange_end.png) right no-repeat; }
+.incoming .next p { border-top: 1px solid #FF5000; }
+.incoming .next .timeBar { background: url(../images/orange_time.png) left no-repeat; }
+
+.incomingOld .icon { background: url(../images/orange_icon_old.png) no-repeat; }
+.incomingOld .bar {background: url(../images/orange_bar_old.png) repeat-x; }
+.incomingOld .space {background: url(../images/orange_space_old.png) no-repeat; }
+.incomingOld .time { background: url(../images/orange_end_old.png) right no-repeat; }
+.incomingOld .next p { border-top: 1px solid #FF5000; }
+.incomingOld .next .timeBar { background: url(../images/orange_time_old.png) left no-repeat; }
+
+
+.outgoing .icon { background: url(../images/white_icon.png) no-repeat; }
+.outgoing .bar { background: url(../images/white_bar.png) repeat-x; color: black; }
+.outgoing .space { background: url(../images/white_space.png) no-repeat; }
+.outgoing .time { background: url(../images/white_end.png) right no-repeat; }
+.outgoing .next p { border-top: 1px solid #EEEEEE; }
+.outgoing .next .timeBar { background: url(../images/white_time.png) left no-repeat; color: black; }
+
+.outgoingOld .icon { background: url(../images/white_icon_old.png) no-repeat; }
+.outgoingOld .bar { background: url(../images/white_bar_old.png) repeat-x; color: black; }
+.outgoingOld .space { background: url(../images/white_space_old.png) no-repeat; }
+.outgoingOld .time { background: url(../images/white_end_old.png) right no-repeat; }
+.outgoingOld .next p { border-top: 1px solid #EEEEEE; }
+.outgoingOld .next .timeBar { background: url(../images/white_time_old.png) left no-repeat; color: black; }
