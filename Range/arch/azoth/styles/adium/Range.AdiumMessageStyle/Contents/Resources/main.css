@@ -102,3 +102,13 @@ color : fuchsia;
 .slashmechatmsg .nickname {
 color : fuchsia;
 }
+a { color: #2aaeff; }
+a:link {color:#036800;}
+a:visited {color:#26ad73;}
+A:hover{COLOR: #ff7847;TEXT-DECORATION: none;border-width:}
+a:active {text-decoration:none;}
+a.nicklink {text-decoration:none;color:red;}
+a.nicklink:hover {color:#ad42ff;text-decoration:none;}
+p.date,p.main {text-align:justify;}
+a:hover,a:active {border-bottom-style:dotted;}
+.highlightchatmsg { color: #ff724f; font-weight: bold;text-shadow:#fff 0 1px 1px; }
