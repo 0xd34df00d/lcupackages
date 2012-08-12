@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="iconset">
+ <name>KFaenza</name>
+ <description>LeechCraft-wide iconset originally built for KDE.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>iconset</tag>
+ </tags>
+ <versions>
+  <version size="38668396" archiver="xz">0.8.9</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/kfaenza-1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/kfaenza-2.png"/>
+ </images>
+ <long>An awesome and top-rated icon theme for KDE is also available for LeechCraft!&lt;br/>&lt;br/>This is just a re-package of the original &lt;a href="http://kde-look.org/content/show.php/KFaenza?content=143890">KFaenza&lt;/a> theme for LeechCraft.</long>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
