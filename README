@@ -1,5 +1,14 @@
 This repository contains the userspace packages for LeechCraft.
 
-List of packages:
+List of package types:
 * Poshuku CleanWeb Subscriptions
-* Private Browsing
+* Private Browsing for Poshuku
+* Global iconsets
+* Dictionaries for Azoth Rosenthal
+* Sound themes for AdvancedNotifications
+* Affiliation icons for Azoth MUC
+* Chat styles for Azoth
+* Jabber client icons for Azoth
+* Jabber mood icons for Azoth
+* Emoticons for Azoth
+* Status icons for Azoth
