@@ -1,0 +1,118 @@
+/* textonly by Mark Fickett, 2004. Poke/edit/maul, but leave credit - think GPL */
+/* Generally: naib.webhop.org Adium-related: naib.webhop.org/~markfickett/adium */
+/* Modified by phrenzy, 2005 - http://www.baproducers.com */
+
+
+
+body {
+    background: #575757 url(images/bg.gif) fixed;
+	font-weight: normal;
+}
+
+
+
+div {
+	overflow: auto;
+}
+
+a { color: #0000ff; }
+a:link { text-decoration: underline; 	text-shadow:1px 1px 7px #0000ff; }
+a:visited { color: #aa0000; text-decoration: underline; text-shadow:1px 1px 1px #aa0000;  }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+
+.incoming, .outgoing 
+{
+    font-weight: normal;
+	text-indent: -10px;
+	padding-left: 10px;}
+
+/* --------- Time --------- */
+.time 
+{
+    
+	color: #007700;
+}
+    .incoming .time 
+{
+	color: #aa6600;
+}
+
+/* ---------- Names --------- */
+.sender 
+{
+    color:#007700;
+}
+
+.incoming .sender 
+{
+	color: #aa6600;
+}
+
+
+/*  --------- Messages  --------- */
+.outgoing .message 
+{
+	color: #00ff00;
+	text-shadow:2px 2px 7px #00dd00;}
+
+
+
+/* ---------  History  --------- */
+.contexttime, .contextsender 
+{
+	color: #777777;
+}
+
+
+.contextmessage 
+{
+    font-style: normal;
+	color: #666666;
+}
+
+
+
+#Chat 
+{
+	margin-bottom: -8px;
+	overflow: inherit;
+}
+
+/*  --------- Status  --------- */
+.status 
+{
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	margin-right: 20px;
+	border: 1px dotted #880000;
+	background: rgb(0,0,0,.50);
+}
+
+.status .message  
+{
+	color: #aa0000;
+    text-shadow:0px 0px 0px #000077; 
+}
+
+
+/* -- Incoming messages -- */
+
+
+.incoming .message 
+{
+    font-weight: normal;
+    color: #ffaa00;
+    text-shadow:2px 2px 7px #ee9900; 
+}
+
+
+incoming .contextmessage 
+{
+    font-weight: normal;
+	color: #666666;
+}
+
