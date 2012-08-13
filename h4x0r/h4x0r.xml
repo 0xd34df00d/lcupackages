@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>h4x0r</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="34437" archiver="lzma">1.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/h4x0r.png"/>
+ </images>
+ <long>&lt;div>Author: "Hopefully it will make you feel all l33t and remind you of that exciting feeling you used to get when that BBS you loved finally gave you a carrier after getting a busy signal for hours.&amp;nbsp;Have phun l4m3rz!"&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=1907">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=1907&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

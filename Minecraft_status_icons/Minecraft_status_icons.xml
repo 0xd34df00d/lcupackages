@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Minecraft_status_icons</name>
+ <description>Minecraft status icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+ </tags>
+ <versions>
+  <version size="16693" archiver="gz">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Minecraft_status_icons.png"/>
+ </images>
+ <long>There are pictures in the style of Minecraft the game by suse@conference.jabber.ru/pendruk</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
