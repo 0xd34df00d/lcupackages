@@ -1,0 +1,41 @@
+<script type="text/javascript">
+	if ( !document.getElementById ( "mainScript" ) ) {
+		var mainScript  = document.createElement ( "script" );
+		mainScript.id   = "mainScript"; mainScript.setAttribute ( "id", "mainScript" );
+		mainScript.src  = "./main.js"; mainScript.setAttribute ( "src", "./main.js" );
+		mainScript.type = "text/javascript"; mainScript.setAttribute ( "type", "text/javascript" );
+		document.head.appendChild ( mainScript );
+		}
+</script>
+<div id="ircVerify" className="%service%"></div>
+<div id="StackBoxUpdated" class="update" style="background-color: #F00 !important; position: fixed; top: -100px; right: 0; left: 0; z-index: 1; -webkit-transition: top .5s ease-in-out">
+	<div class="statusBox">
+		<div class="statusContent">
+			<img src="Alert.png" title="StackBox updated" class="messageIcon statusIcon" />
+			<div class="statusMessage" style="padding: 10px"><span class="arrowLight"></span><span class="arrow"></span>
+				StackBox has been updated to version <span id="StackBoxVersion">0</span>
+				<a href="http://www.adiumxtras.com/index.php?a=xtras&xtra_id=8201" style="display: inline-block; margin-left: 10px"><button class="default"><img src="Download.png" />Get update</button></a>
+				<button class="reject" onclick="document.getElementById('StackBoxUpdated').style.display='none'"><img src="Cancel.png" />Not now</button>
+				<button class="reject" onclick="stopUpdating()" style="float: right"><img src="Cancel.png" />Stop telling me!</button>
+			</div>
+		</div>
+	</div>
+</div>
+<div id="PreferenceFocus">
+	<div id="Preferences">
+		<h1>StackBox Preferences</h1>
+		<div class="body">
+			<p>These settings change or limit the way StackBox looks or behaves and will be loaded when a new window opens</p>
+			<form action="javascript:null">
+				<label for="KeepStamps"><input type="checkbox" id="KeepStamps" />Keep timestamps visible</label>
+				<label for="AlwaysIRC"><input type="checkbox" id="AlwaysIRC" />Always use compact IRC mode</label>
+				<label for="NoUpdates"><input type="checkbox" id="NoUpdates" />Don't tell me about updates</label>
+				<div class="buttons">
+					<span id="VersionNumber"></span>
+					<button class="reject" onclick="showPreferences()"><img src="Cancel.png" />Cancel</button>
+					<button class="default" onclick="savePreferences()"><img src="Accept.png" />Save Preferences</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

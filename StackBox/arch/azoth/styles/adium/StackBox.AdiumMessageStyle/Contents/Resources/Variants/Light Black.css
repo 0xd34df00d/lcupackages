@@ -1,0 +1,3 @@
+@import url('Light.css');
+
+div.outgoing.content, div.outgoing div.messageMessage a { color: #000; }

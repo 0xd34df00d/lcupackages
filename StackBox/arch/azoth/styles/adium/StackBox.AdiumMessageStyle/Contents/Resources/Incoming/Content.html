@@ -1,0 +1,11 @@
+<div class="%userIcons% %messageClasses% content">
+	<img src="%userIconPath%" title="%senderScreenName%" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+	<div class="messageBox">
+		<h2><span class="time">%time%<span class="hidden">&nbsp;</span></span>%sender%<img src="%senderStatusIcon%" title="%status%" class="statusIcon" /></h2>
+		<img src="Blank.png" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" style="display: none" />
+		<div class="first messageMessage">
+			<span class="time">%time%<span class="hidden">&nbsp;</span></span>%message%
+		</div>
+		<span id="insert"></span>
+	</div>
+</div>
