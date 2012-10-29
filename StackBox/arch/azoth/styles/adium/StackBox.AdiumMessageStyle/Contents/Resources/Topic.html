@@ -1,0 +1,21 @@
+<script type="text/javascript">
+	if ( !document.getElementById ( "mainScript" ) ) {
+		var mainScript  = document.createElement ( "script" );
+		mainScript.id   = "mainScript"; mainScript.setAttribute ( "id", "mainScript" );
+		mainScript.src  = "./main.js"; mainScript.setAttribute ( "src", "./main.js" );
+		mainScript.type = "text/javascript"; mainScript.setAttribute ( "type", "text/javascript" );
+		document.head.appendChild ( mainScript );
+		}
+</script>
+<div id="header" class="topic">
+	<img src="%incomingIconPath%" title="%destinationScreenName%" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+	<div id="headerCollapse" onclick="slideHeader()"><span></span></div>
+	<a id="showPreferences" href="#" title="Show Preferences" onclick="showPreferences(1)"></a>
+	<a id="headerCollapse" href="#" title="Toggle Header" onclick="slideHeader()"><span></span></a>
+	<div class="messageBox">
+		%service% group chat
+		<div id="headerMessage">
+			%topic%
+		</div>
+	</div>
+</div>
