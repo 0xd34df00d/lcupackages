@@ -1,0 +1,14 @@
+@import url('../Main.css');
+
+body{ background-color: rgba(150,150,150,.75); }
+
+div#header { background-color: #222; background-image: -webkit-linear-gradient(top,#555,#444 50%,#333 50%); }
+div#headerMessage { color: #CCC !important; }
+
+div.content { background-color: rgba(235,235,235,.95); }
+div.incoming.content { background-color: rgba(250,250,250,.95); }
+
+div.messageBox h2 { text-shadow: 0 0 5px rgba(255,255,255,.6); }
+
+div.messageMessage, div#headerMessage { border-top: 1px solid rgba(0,0,0,.05); color: rgba(0,0,0,.75); }
+div.content.mention { border: 1px solid #666; -webkit-box-shadow: 0 0 10px #666 inset, 0 0 1px #999 inset; }

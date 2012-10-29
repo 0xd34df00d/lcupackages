@@ -1,0 +1,17 @@
+<div class="file update">
+	<div class="statusBox">
+		<img src="Blank.png" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" style="display: none" />
+		<div class="statusContent">
+			<img src="File.png" title="%status%" class="messageIcon statusIcon" />
+			<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+				<img src="Blank.png" title="%fileName%" class="messageIcon fileIcon" style="background-image: url('%fileIconPath%')" />
+				<span class="time">%time%<span class="hidden">&nbsp;</span></span>%sender% wants to send you <span class="file">%fileName%</span>
+				<div class="buttons">
+					<button class="default" onclick="%saveFileHandler%;this.parentNode.innerHTML='File accepted'"><img src="Download.png" />Download file</button>
+					<button onclick="%saveFileAsHandler%;this.parentNode.innerHTML='File accepted'">Save as …</button>
+					<button class="reject" onclick="%cancelRequestHandler%;this.parentNode.innerHTML='File rejected'"><img src="Cancel.png" />Not now</button>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

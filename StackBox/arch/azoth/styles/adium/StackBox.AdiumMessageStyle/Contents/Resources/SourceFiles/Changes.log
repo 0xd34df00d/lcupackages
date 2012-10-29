@@ -1,0 +1,146 @@
+================================================================================
+VERSION 0.1
+================================================================================
++ Structure laid out
++ Style built according to specifications
+
+================================================================================
+VERSION 1.0
+================================================================================
++ Added JavaScript graceful %userIcon% fallback to variant settings
++ Consecutive status messages now collapse
+
+x Fixed bug with %_FileHandler% and file transfer dialogs by upgrading to Adium 1.4.4
+x Fixed file transfer dialog size
+x Fixed display issues with timestamps
+x Fixed display issues with header and topic
+
+================================================================================
+VERSION 1.0.1
+================================================================================
++ Added mention class: messages now have a highlighted border when the user-defined mentions are said
++ Added focus class: messages now have a red border when the window is out of focus
+
+o Replaced and added new variant icons
+o Replaced and added new variants:
+-> Dark
+-> Dark Blue
+-> Dark Green
+-> Dark Orange
+-> Dark Pink
+-> Light
+-> Light Blue
+-> Light Green
+-> Light Orange
+-> Light Pink
+
+================================================================================
+VERSION 1.0.2
+================================================================================
+o Reduced variants' file sizes
+o Updated the file transfer dialog to give it its own icon instead of the default alert
+
+================================================================================
+VERSION 1.0.3
+================================================================================
++ Added IRC-specific look
+
+================================================================================
+VERSION 1.0.4
+================================================================================
++ Added automatic update warning
+
+================================================================================
+VERSION 1.0.5
+================================================================================
++ Added topic collapse function
+
+o Changed mentions and focus styles for consecutive messages
+
+================================================================================
+VERSION 1.0.6
+================================================================================
+o Fixed mentions and focus styles for consecutive messages
+
+================================================================================
+VERSION 1.0.7
+================================================================================
+o Minor aesthetic changes
+
+================================================================================
+VERSION 1.0.8
+================================================================================
+o File size reduction
+o Minor performance updates
+
+================================================================================
+VERSION 1.1
+================================================================================
+x Fixed display bug that prevented user-defined fonts from working properly
+
+================================================================================
+VERSION 1.1.1
+================================================================================
+x Fixed history message appearance
+
+================================================================================
+VERSION 1.1.2
+================================================================================
+x Fixed IRC message titles
+
+o Compressed and sped up update function
+o Added pulsating style to default buttons
+
+================================================================================
+VERSION 1.1.3
+================================================================================
+o Various minor changes
+
+================================================================================
+VERSION 1.1.4
+================================================================================
+o Changed some textures
+
+================================================================================
+VERSION 1.1.5
+================================================================================
+x Fixed display bug in Status messages
+
+================================================================================
+VERSION 1.2
+================================================================================
++ Added beautifier for select & copy text and emoticons
++ Update box only appears if the update has been approved
++ Added dark and light styles with permanent time stamps
+
+o Header now collapses gracefully, leaving scroll position intact
+
+================================================================================
+VERSION 1.3
+================================================================================
++ Added experimental preference panel (see header)
+//Let me know if you want to use the preference panel to define variant, too!
+
+================================================================================
+VERSION 1.3.1
+================================================================================
+o Cleaned up the preference panel
+//Let me know if you want to use the preference panel to define variant, too!
+
+================================================================================
+VERSION 1.3.2
+================================================================================
+x Fixed mentioned/window focus display bug
+
++ Added a timeout function to the updates, so it checks once in 12 hours
++ Added "Don't tell me about updates" function to update notifier
+
+================================================================================
+VERSION 1.3.3
+================================================================================
+x Fixed various visual and functionality issues that appeared in Mountain Lion (fixes are temporary and experimental!)
+================================================================================
+
+VERSION 1.3.4
+================================================================================
+x Fixed even more bugs for Mountain Lion

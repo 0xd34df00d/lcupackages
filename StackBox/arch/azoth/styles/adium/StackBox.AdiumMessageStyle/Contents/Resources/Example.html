@@ -1,0 +1,244 @@
+<html>
+	<head>
+		<title>Adium Message Style Example: StackBox</title>
+		<link rel="StyleSheet" href="./Variants/Dark Pink.css" type="text/css" />
+		<style type="text/css">
+			html { font: 10pt Monaco; }
+		</style>
+	</head>
+	<body>
+		<div id="header">
+			<img src="Blank.png" title="AIMLover1479" class="messageIcon userIcon" />
+			<a id="showPreferences" href="#" title="Show Preferences" onclick="showPreferences(1)"></a>
+			<a id="headerCollapse" href="#" title="Toggle Header" onclick="slideHeader()"><span></span></a>
+			<div id="headerBox" class="messageBox">
+				AIMLover1479
+				<div id="headerMessage">
+					Conversation between <span class="in">My Contact</span> and <span class="out">you</span>
+				</div>
+			</div>
+		</div>
+		<div id="Chat" class="">
+		<div class="update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:30:10<span class="hidden">&nbsp;</span></span>Tuesday 15 december 2011
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="incoming history content">
+			<img src="Blank.png" title="AIMLover1479" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-15<span class="hidden">&nbsp;</span></span>My Contact<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">14:05:24<span class="hidden">&nbsp;</span></span>Hello! Are you there?
+				</div>
+				<img src="Blank.png" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" style="display: none" />
+				<div class="consecutive messageMessage">
+					<span class="time">14:05:27<span class="hidden">&nbsp;</span></span>I've been trying to reach you for a few days.. so I figured I'd try here
+				</div>
+			</div>
+		</div>
+		<div class="update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:30:10<span class="hidden">&nbsp;</span></span>Monday 19 december 2011
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="online update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:30:10<span class="hidden">&nbsp;</span></span>My Contact came online
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="incoming content">
+			<img src="Blank.png" title="AIMLover1479" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-19<span class="hidden">&nbsp;</span></span>My Contact<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">19:30:56<span class="hidden">&nbsp;</span></span>Oh, there you are!
+				</div>
+				<img src="Blank.png" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" onload="this.parentNode.removeChild(this);setTimeout('fixStyle()',150)" style="display: none" />
+				<div class="consecutive mention messageMessage">
+					<span class="time">19:30:56<span class="hidden">&nbsp;</span></span>Hi, AIMisforlosers!
+				</div>
+			</div>
+		</div>
+		<div class="outgoing content">
+			<img src="Blank.png" title="AIMisforlosers" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-19<span class="hidden">&nbsp;</span></span>Me<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">19:34:12<span class="hidden">&nbsp;</span></span>Hey! :)
+				</div>
+				<div class="messageMessage">
+					<span class="time">19:34:12<span class="hidden">&nbsp;</span></span>How are you?<br />
+					Hope you didn't have to wait too long...
+					<img class="emoticon" src="file://localhost/Users/Kashidom/Library/Application%20Support/Adium%202.0/Emoticons/Wub.AdiumEmoticonset/lessthanthree.png" alt="&lt;3" width="16" height="16">
+					c:
+				</div>
+			</div>
+		</div>
+		<div class="incoming content">
+			<img src="Blank.png" title="AIMLover1479" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-19<span class="hidden">&nbsp;</span></span>My Contact<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">19:34:27<span class="hidden">&nbsp;</span></span>I've got something for you... hang on, let me get it
+				</div>
+			</div>
+		</div>
+		<div class="outgoing content">
+			<img src="Blank.png" title="AIMisforlosers" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-19<span class="hidden">&nbsp;</span></span>Me<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">19:34:51<span class="hidden">&nbsp;</span></span>Alright :D
+				</div>
+			</div>
+		</div>
+		<div class="file update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="File.png" title="%status%" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<img src="Blank.png" title="%fileName%" class="messageIcon fileIcon" style="background-image: url('SourceFiles/FileIcon.png')" />
+						<span class="time">19:35:42<span class="hidden">&nbsp;</span></span>My Contact wants to send you <span class="file">incomingfile.png</span>
+						<div class="buttons">
+							<button class="default" onclick="this.parentNode.innerHTML='File accepted'"><img src="Download.png" />Download file</button>
+							<button onclick="this.parentNode.innerHTML='File accepted'">Save as …</button>
+							<button class="reject" onclick="this.parentNode.innerHTML='File rejected'"><img src="Cancel.png" />Not now</button>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="purple update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:35:42<span class="hidden">&nbsp;</span></span>My Contact is offering incomingfile.png
+					</div>
+		<div class="purple update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:35:58<span class="hidden">&nbsp;</span></span>File transfer canceled
+					</div>
+				</div>
+			</div>
+		</div>
+				</div>
+			</div>
+		</div>
+		<div class="outgoing content">
+			<img src="Blank.png" title="AIMisforlosers" class="messageIcon userIcon" onload="loadIcon(this)" onerror="loadIcon(this,1)" />
+			<div class="messageBox">
+				<h2><span class="time">2011-12-19<span class="hidden">&nbsp;</span></span>Me<img src="SourceFiles/UserStatus.png" title="online" class="statusIcon" /></h2>
+				<div class="first messageMessage">
+					<span class="time">19:36:34<span class="hidden">&nbsp;</span></span>Sorry, file transfers aren't working for me... try to find it online, somewhere? c:
+				</div>
+			</div>
+		</div>
+		<div class="offline update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:50:37<span class="hidden">&nbsp;</span></span>My Contact signed off
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="update">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+					<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+						<span class="time">19:30:10<span class="hidden">&nbsp;</span></span>This is a
+						very very very very very very very very very very very very very very very very very very very very very very very very
+						very very very very very very very very very very very very very very very very very very very very very very very very
+						very very very very very very very very very very very very very very very very very very very very very very very very
+						long long long long long long long long long long long long long long long long long long long long long long long long
+						long long long long long long long long long long long long long long long long long long long long long long long long
+						long long long long long long long long long long long long long long long long long long long long long long long long
+						status message
+					</div>
+			<div class="update">
+				<div class="statusBox">
+					<div class="statusContent">
+						<img src="Alert.png" title="online" class="messageIcon statusIcon" />
+						<div class="statusMessage"><span class="arrowLight"></span><span class="arrow"></span>
+							<span class="time">19:30:10<span class="hidden">&nbsp;</span></span>This is a
+							veryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryvery<!-
+							->veryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryveryvery_<!-
+							->longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglong<!-
+							->longlonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglonglong
+							line in a status message
+						</div>
+					</div>
+				</div>
+			</div>
+				</div>
+			</div>
+		</div>
+		</div>
+		<div id="StackBoxUpdated" class="update" style="background-color: #F00 !important; position: fixed; top: -100px; right: 0; left: 0; z-index: 1; -webkit-transition: top .5s ease-in-out">
+			<div class="statusBox">
+				<div class="statusContent">
+					<img src="Alert.png" title="StackBox updated" class="messageIcon statusIcon" />
+					<div class="statusMessage" style="padding: 10px"><span class="arrowLight"></span><span class="arrow"></span>
+						StackBox has been updated to version <span id="StackBoxVersion">0</span>
+						<a href="http://www.adiumxtras.com/index.php?a=xtras&xtra_id=8201" style="display: inline-block; margin-left: 10px"><button class="default"><img src="Download.png" />Get update</button></a>
+						<button class="reject" onclick="document.getElementById('StackBoxUpdated').style.display='none'"><img src="Cancel.png" />Not now</button>
+						<button class="reject" onclick="stopUpdating()" style="float: right"><img src="Cancel.png" />Stop telling me!</button>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="PreferenceFocus">
+			<div id="Preferences">
+				<h1>StackBox Preferences</h1>
+				<div class="body">
+					<p>These settings change or limit the way StackBox looks or behaves and will be loaded when a new window opens</p>
+					<form action="javascript:null">
+						<label for="KeepStamps"><input type="checkbox" id="KeepStamps" />Keep timestamps visible</label>
+						<label for="AlwaysIRC"><input type="checkbox" id="AlwaysIRC" />Always use compact IRC mode</label>
+						<label for="NoUpdates"><input type="checkbox" id="NoUpdates" />Don't tell me about updates</label>
+						<br />Some test examples:
+						<label for="test1"><input type="checkbox" id="test1" />Test</label>
+						<label for="test2"><input type="checkbox" id="test2" checked />Test</label>
+						<label for="test3"><input type="checkbox" id="test3" disabled />Test</label>
+						<label for="test4"><input type="radio" id="test4" name="test4" checked />Test</label>
+						<label for="test5"><input type="radio" id="test5" name="test4" />Test</label>
+						<label for="test6"><input type="radio" id="test6" name="test4" disabled />Test</label>
+						<label for="test7"><select id="test7">
+							<option>Testing</option>
+						</select></label>
+						<div class="buttons">
+							<span id="VersionNumber"></span>
+							<button class="reject" onclick="showPreferences()"><img src="Cancel.png" />Cancel</button>
+							<button class="default" onclick="savePreferences()"><img src="Accept.png" />Save Preferences</button>
+						</div>
+					</form>
+				</div>
+			</div>
+		</div>
+		<script src="./main.js" type="text/javascript"></script>
+		<div id="ircVerify" className="%service%"></div>
+	</body>
+</html>

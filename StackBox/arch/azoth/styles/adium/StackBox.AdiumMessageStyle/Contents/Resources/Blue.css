@@ -1,0 +1,11 @@
+div.update { background-color: #0CF; background-image: url('Hearts.png') !important; }
+
+span.in,  div.incoming.content, div.incoming.content div.messageMessage a { color: #F90; }
+span.out, div.outgoing.content, div.outgoing.content div.messageMessage a { color: #0CF; }
+
+div.incoming.content.mention { border-color: #F90; -webkit-box-shadow: 0 0 10px #F90 inset, 0 0 1px #FC0 inset; }
+div.incoming.content.mention img.userIcon { -webkit-box-shadow: 0 0 1px #000 inset, 0 0 5px #0CF; }
+
+div#header img.userIcon,
+div.incoming.content img.userIcon { background-image: url('Orange.png'); }
+div.outgoing.content img.userIcon { background-image: url('Blue.png'); }

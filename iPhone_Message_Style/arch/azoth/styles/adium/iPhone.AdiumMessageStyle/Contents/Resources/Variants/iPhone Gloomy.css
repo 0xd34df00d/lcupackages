@@ -1,0 +1,109 @@
+@import url("../main.css");
+
+body {
+	color:#fbfffa;font-size:10pt;font-family:'\"DejaVu Sans Mono\"', monospace;display:block;font-style:normal;font-weight:400;text-shadow:0 1px .8px #555;margin:0;
+	background: #201F1F url(../images/light-at-sea.jpg) repeat-x fixed 0 bottom;
+}
+
+a {
+	color: #3b4149;
+	text-decoration: underline;
+}
+p.main {text-align:justify;}
+a:link {color:#11ab26;text-shadow:0 1px .8px #555;}
+a:visited {color:#26ad73;}
+a:hover {color:#ff3053;}
+
+#infoBar {
+	height: 12px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 12px;
+	white-space: nowrap;
+	width: 100%;
+  	color: rgba(81,91,104,0.91);
+  	font-weight: bold;
+	text-shadow: #ffffff 0 1px 0;
+	background: url(../images/slateInfobar.gif) repeat-x;
+}
+
+#titleBar {
+	background: url(../images/slateTitlebar.gif) repeat-x;
+	height: 12px;
+	color: #fff;
+	font-size: 12px;
+	text-align: center;
+	line-height: 8px;
+	white-space: nowrap;
+	width: 100%;
+	font-weight: bold;
+}
+
+/* Messages */
+
+.container, .container_next, .statusContainer {
+	border-top: 1px solid rgba(80,86,100,0.5);
+	border-bottom: 1px solid rgba(205,205,205,0.5);
+	padding-top: 9px;
+	width: 100%;
+	float: left;
+	position: relative;
+}
+
+.sender {
+	font-weight: bold;
+	font-size: 12px;
+	display: block;
+	padding-right: 15px;
+	margin-top: 2px;
+	margin-bottom: 0;
+	overflow: hidden;
+	padding-bottom: 3px;
+  	color: rgba(81,91,104,0.91);
+	text-shadow: rgba(255,255,255,0.39) 0 1px 0;
+}
+
+.status {
+	font-weight: bold;
+	font-size: 12px;
+	color: #000;
+	letter-spacing: normal;
+	  	color: rgba(81,91,104,0.91);
+	text-shadow: rgba(255,255,255,0.39) 0 1px 0;
+
+}
+
+.time_initial {
+	color: #626d7f;
+	font-size: 8px;
+	
+}
+p.date {text-align:right;}
+.message, .context_message {
+	color: #f7fff2;
+	padding-left: 12px;
+	padding-right: 12px;
+	font: 12px Helvetica;
+}
+
+/* Message History */
+
+.old img {
+	opacity: 0.5;
+}
+
+.old .sender {
+	color: rgba(81,91,104,0.91);
+	opacity: 0.5;
+}
+
+.old p {
+	color: #262a31;
+	opacity: 0.5;
+}
+
+.old .time_initial, .old a {
+	color: #262a31;
+	text-shadow: #000000 0 0 0;
+	opacity: 0.5;
+}

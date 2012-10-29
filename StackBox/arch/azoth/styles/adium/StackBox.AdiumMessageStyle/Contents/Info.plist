@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>MessageViewVersion</key>
+	<integer>4</integer>
+	<key>CFBundleName</key>
+	<string>StackBox</string>
+	<key>CFBundleIdentifier</key>
+	<string>net.manthadesigns.StackBox.style</string>
+	<key>CFBundleGetInfoString</key>
+	<string>version 1.3.4</string>
+	<key>DefaultFontFamily</key>
+	<string>Helvetica</string>
+	<key>DefaultFontSize</key>
+	<string>12</string>
+	<key>ShowsUserIcons</key>
+	<true/>
+	<key>DisableCombineConsecutive</key>
+	<false/>
+	<key>DefaultBackgroundIsTransparent</key>
+	<true/>
+	<key>DisableCustomBackground</key>
+	<false/>
+	<key>AllowTextColors</key>
+	<true/>
+	<key>DefaultVariant</key>
+	<string>Dark</string>
+</dict>
+</plist>
