@@ -1,0 +1,20 @@
+@import url("../main.css");
+a, .statusContainer a {
+	color: #f8efdc;
+}
+.sender {/* Blue */
+	color:#a7d0f7;
+	text-shadow:1px 1px 2px #000,0 0 6px #0b8cf9;
+}
+.in .sender{/* Green */
+	color:#c3eeab;
+	text-shadow:1px 1px 2px #000,0 0 6px #74b74b;
+}
+.statusContainer {/* Purple */
+	color: #191720;
+	text-shadow: 0 1px 0 #7C7C7C;
+	background: #7f79a5;
+	background: -webkit-linear-gradient(top, #7f79a5 0%,#6a6293 100%); /* Chrome10+,Safari5.1+ */
+	background: linear-gradient(to bottom, #7f79a5 0%,#6a6293 100%); /* W3C */	
+	border-color:#9791b5 #6e6987 #6e688b #6e6987;
+}

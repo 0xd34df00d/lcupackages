@@ -1,0 +1,53 @@
+@import "../main.css";
+
+.status_message {
+	color: #99ff55;
+}
+
+.status_time {
+	color: #4F94CD;
+	float: right;
+}
+
+.sender_incoming {
+	color: #2E8B57;
+	padding-left: 35px;
+}
+
+.time_incoming {
+	color: #2E8B57;
+	float: right;
+}
+
+.message_incoming {
+	padding-left: 35px;
+}
+
+.sender_outgoing {
+	color: #4F94CD;
+}
+
+.time_outgoing {
+	color: #4F94CD;
+	float: right;
+	padding-right: 3px;
+}
+
+.message_outgoing {
+	padding-right: 3px;
+}
+
+a:link {
+	color: #5599ff;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #CC99CC;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FF9999;
+	text-decoration: underline;
+}

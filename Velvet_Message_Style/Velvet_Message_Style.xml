@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Velvet_Message_Style</name>
+ <description>An Adium chat style theme from the KDE-look site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="4971" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Velvet_Message_Style.png"/>
+ </images>
+ <long>&lt;html>&lt;head>&lt;/head>&lt;body>&lt;div>Here it is a nice dark chat theme. This theme is available at&amp;nbsp;&lt;a href="http://kde-look.org/content/show.php/Velvet+Chat+Style+for+KTelepathy?content=156481">http://kde-look.org/content/show.php/Velvet+Chat+Style+for+KTelepathy?content=156481&lt;/a>&lt;/div>&lt;/body>&lt;/html></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

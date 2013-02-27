@@ -1,0 +1,86 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 TRANSITIONAL//EN">
+<html>
+
+	<head>
+		<title>TEST</title>
+	</head>
+	<style type="text/css">
+		@import "Variants/Normal.css";
+	</style>
+	<body>
+
+<!-- BEGIN Status -->
+
+<div class="container" style="padding-top:9px;padding-left:10px;padding-right:10px;padding-bottom:0;">
+	<div class="text">
+		<span class="status_time">%time%</span>
+		<span class="status_message">%message%</span>
+	</div>
+	
+	<div class="nw edge"></div>
+	<div class="w edge"></div>
+	<div class="e edge"></div>
+	<div class="ne edge"></div>
+	<div class="n edge"></div>
+</div>
+
+<div class="container" style="padding-top:0;padding-left:0;padding-right:0;padding-bottom:12px">
+	<div class="sw edge"></div>
+	<div class="se edge"></div>
+	<div class="s edge"></div>
+</div>
+
+<div id="insert"></div>
+
+<!-- END Status -->
+	
+<div class="container" style="padding-top:9px;padding-left:10px;padding-right:10px;padding-bottom:0;">
+	<div class="text" style="padding-bottom:6px;">
+		<div class="icon_outgoing">
+			<!--<img src="%userIconPath%" width="32" height="32" align="left" />-->
+			<img src="Outgoing/buddy_icon.png" width="32" height="32" align="left" />
+		</div>
+		<div class="time_outgoing">
+			%time%
+		</div>
+		<div class="sender_outgoing">
+			%sender%
+		</div>
+		<div class="message_outgoing">
+			%message%
+		</div>
+	</div>
+	
+	<div class="n edge"></div>
+	<div class="nw edge"></div>
+	<div class="ne edge"></div>
+	<div class="w edge"></div>
+	<div class="e edge"></div>
+</div>
+
+<!-- BEGIN Next -->
+
+<div class="container" style="padding-top:0;padding-left:10px;padding-right:10px;padding-bottom:0;">
+	<div class="w edge" style="top:0;"></div>
+	<div class="e edge" style="top:0;"></div>
+	
+	<div class="text" style="border-top:1px solid #333333;padding-top:3px;padding-bottom:3px;">
+		<div class="time_outgoing" style="padding-right:38px;">
+			%time%
+		</div>
+		<div class="message_outgoing">
+			%message%
+		</div>
+	</div>
+</div>
+
+<!-- END Next -->
+
+<div class="container" style="padding-top:0;padding-left:0;padding-right:0;padding-bottom:12px">
+	<div class="sw edge"></div>
+	<div class="se edge"></div>
+	<div class="s edge"></div>
+</div>
+	
+	</body>
+</html>
