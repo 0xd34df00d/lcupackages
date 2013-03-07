@@ -1,0 +1,100 @@
+/**** Smoke Adium Theme CSS Style Sheet ****/
+
+.container {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+        max-height: auto;
+        max-width: auto;
+
+}
+
+.text {
+	color: #FFFFFF;
+	font: 12px 'helvetic neue', sans-serif;
+       	background-image: url('images/center.png');
+}
+
+.edge {
+	position: absolute;
+}
+
+.nw {
+	background-image: url('images/nw.png');
+	left: 0;
+	top: 0;
+	width: 10px;
+	height: 9px;
+}
+
+.ne {
+	background-image: url('images/ne.png');
+	right: 0;
+	top: 0;
+	width: 10px;
+	height: 9px;
+}
+
+.n {
+	background-image: url('images/n.png');
+	left: 10px;
+	right: 10px;
+	top: 0;
+	height: 9px;
+}
+
+.w {
+	background-image: url('images/w.png');
+	left: 0;
+	top: 9px;
+	bottom: 0;
+	width: 10px;
+}
+
+.sw {
+	background-image: url('images/sw.png');
+	left: 0;
+	bottom: 0;
+	width: 9px;
+	height: 12px;
+}
+
+.s {
+	background-image: url('images/s.png');
+	left: 9px;
+	right: 9px;
+	bottom: 0;
+	height: 12px;
+}
+
+.se {
+	background-image: url('images/se.png');
+	right: 0px;
+	bottom: 0px;
+	width: 9px;
+	height: 12px;
+}
+
+.e {
+	background-image: url('images/e.png');
+	top: 9px;
+	bottom: 0;
+	width: 10px;
+	right: 0;
+}
+
+a:link {
+	color: #DA70D6;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #CC99CC;
+	text-decoration: underline;
+}
+
+a:active {
+	color: #FF9999;
+	text-decoration: underline;
+}
+

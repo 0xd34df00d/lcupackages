@@ -1,0 +1,42 @@
+@import "../main.css";
+
+.status_message {
+	color: #00BFFF;
+}
+
+.status_time {
+	color: #00BFFF;
+	float: right;
+}
+
+.sender_incoming {
+	color: #CD2626;
+	padding-left: 35px;
+}
+
+.time_incoming {
+	color: #CD2626;
+	float: right;
+}
+
+.message_incoming {
+	padding-left: 35px;
+}
+
+.sender_outgoing {
+	color: #00BFFF;
+}
+
+.time_outgoing {
+	color: #00BFFF;
+	float: right;
+	padding-right: 3px;
+}
+
+.message_outgoing {
+	padding-right: 3px;
+}
+a:link {
+	color: #40E0D0;
+	text-decoration: underline;
+}

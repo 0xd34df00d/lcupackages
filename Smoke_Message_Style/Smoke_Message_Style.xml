@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Smoke_Message_Style</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="11208" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Smoke_Message_Style.png"/>
+ </images>
+ <long>&lt;html>&lt;head>&lt;/head>&lt;body>&lt;div>Author: "This is an Adium message style designed to fit in with the Growl alert style and OS X volume/brightness bezels."&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4244">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=4244&lt;/a>&lt;/body>&lt;/html></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
