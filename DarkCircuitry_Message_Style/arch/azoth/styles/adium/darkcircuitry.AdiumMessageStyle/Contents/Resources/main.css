@@ -1,0 +1,167 @@
+a:link {
+    color: #49F;
+}
+
+#Chat {
+	overflow: hidden;
+}
+
+#Chat .context .message {
+	background: #666;
+	opacity: 0.8;
+	color: #BBB;
+}
+
+body {
+	margin: 0px 3px 0px 3px;
+	background-image: url(board2.png);
+}
+
+.chatbox {
+	margin: 3px 0 3px 0;
+}
+
+.buddyicon {
+	margin: 3px 0 0;
+	float: left;
+}
+
+.name {
+    text-align: left;
+    margin: 0px 4px 2px 35px;
+	font: 11px "Lucida Grande";
+	font-weight: bold;
+	height: 13px;
+	background: #111;
+	opacity: 0.6;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #333;
+}
+
+.incoming .name {
+	color: #00F;
+}
+
+.outgoing .name {
+	color: #F00;
+}
+
+
+
+.incoming.context .name {
+	color: #668;
+	background: #333;
+	border-color: #555;
+}
+
+.outgoing.context .name {
+	color: #866;
+	background: #333;
+	border-color: #555;
+}
+
+.timestamp {
+    float: right;
+	font: 10px "Helvetica";
+	font-weight: normal;
+	color: #AAA;
+	display: inline;
+	margin: 1px 4px 1px 4px;
+}
+
+.timestamp.additional {
+	display: none;
+}
+
+.message {
+    margin: 0 4px 0 35px;
+	padding: 3px 6px;
+	position: relative;
+	a
+}
+
+.status_message {
+	text-align: center;
+	font: 11px Helvetica, sans-serif;
+	color: gray;
+}
+
+.message p {
+	margin: 0;
+	overflow: auto;
+}
+
+.message p.additional {
+	margin: 2px 0 0;
+	padding: 2px 0 0;
+	border-style: solid;
+	border-width: 1px 0 0;
+}
+
+.incoming p.additional {
+	border-color: #333333;
+}
+
+.outgoing p.additional {
+	border-color: #222222;
+}
+
+.incoming .message {
+	background: #222222;
+	opacity: 0.8;
+	color: #ffffff;
+}
+
+.outgoing .message {
+	background: #000000;
+    opacity: 0.75;
+	color: #ffffff;
+}
+
+/*<group=Borders>*/
+
+.r {
+	position: static;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-repeat: no-repeat;
+}
+
+.tb {
+	top: 0;
+	right: 0px;
+	bottom: 0;
+	left: 0px;
+	border-style: solid;
+	border-width: 1px 0;
+}
+
+.incoming .tb {
+	border-color: #666666;
+}
+
+.outgoing .tb {
+	border-color: #444444;
+}
+
+.lr {
+	top: 0px;
+	right: 0;
+	bottom: 0px;
+	left: 0;
+	border-style: solid;
+	border-width: 0 1px;
+}
+
+.incoming .lr {
+	border-color: #555555;
+}
+
+.outgoing .lr {
+	border-color: #333333;
+}
+	
+/*</group>*/
