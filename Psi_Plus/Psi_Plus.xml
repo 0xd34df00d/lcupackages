@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Psi_Plus</name>
+ <description>Sounds from Psi+ Jabber/XMPP client.</description>
+ <tags>
+  <tag>sound themes</tag>
+ </tags>
+ <versions>
+  <version size="81373" archiver="lzma">0.1</version>
+ </versions>
+ <long>Sounds from Psi+ Jabber/XMPP client.</long>
+ <maintainer>
+  <name>Boris Pek</name>
+  <email>tehnick-8@mail.ru</email>
+ </maintainer>
+ <depends/>
+</package>
