@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Stockholm_Message_Style</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="17047" archiver="lzma">4.4</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Stockholm_Message_Style.png"/>
+ </images>
+ <long>&lt;html>&lt;head>&lt;/head>&lt;body>&lt;div>The aim (no pun intended) of this message style is to provide a clean and simple interface that organizes information in an inherently understandable way.&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=1760">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=1760&lt;/a>&lt;/body>&lt;/html></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

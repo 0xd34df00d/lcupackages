@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Ravenant_Message_Style</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="55245" archiver="lzma">2.2</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ravenant_Message_Style.png"/>
+ </images>
+ <long>&lt;html>&lt;head>&lt;/head>&lt;body>&lt;div>Ravenant is an updated hybrid of Ravenesque. Taking elements from both Na Wong's "Light" Bluebird theme and author's Ravenesque message style, with help from Matthew Rex and Pritthish and Josh Priddle, Ravenant is one of the most elegant message styles out there. It comes with multiple colour variations, so you can give it the look you want. Enjoy!&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6766">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6766&lt;/a>&lt;/body>&lt;/html></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
