@@ -118,6 +118,14 @@ a:hover {
 	position: relative !important;
 	float: right;
 }
+.timestamp {
+    float: right;
+	font: 10px "Helvetica";
+	font-weight: normal;
+	color: #AAA;
+	display: inline;
+	margin: 1px 4px 1px 4px;
+}
 
 .message .time {
 	width: 56px;
