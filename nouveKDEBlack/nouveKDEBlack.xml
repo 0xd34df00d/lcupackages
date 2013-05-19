@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="iconset">
+ <name>nouveKDEBlack</name>
+ <description>LeechCraft-wide iconset originally built for KDE.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>iconset</tag>
+ </tags>
+ <versions>
+  <version size="22" archiver="xz">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/nouveKDEBlack1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/nouveKDEBlack1.png"/>
+ </images>
+ <long>Awesome KDE icon theme ported to LeechCraft!&lt;br>&lt;br>This theme is better used with darker color schemes, like on the screenshots.&lt;br>&lt;br>This is just a re-package of the original &lt;a href="http://kde-look.org/content/show.php/nouveKDEBlack?content=157868">nouveKDEBlack&lt;/a> theme by adarkman for LeechCraft.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
