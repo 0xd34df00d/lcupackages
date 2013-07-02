@@ -1,0 +1,82 @@
+@import url(../main.css);
+
+/* CSSPortal : Tue, 28 May 2013 11:09:53 -0700 */
+a:link {
+color:#59f;
+text-decoration:none;
+}
+
+a:visited {
+color:#C9C;
+text-decoration:none;
+}
+
+a:active {
+color:#F99;
+text-decoration:none;
+}
+
+a:hover {
+color:maroon;
+text-decoration:underline;
+}
+
+.message1 .userName,.message1 .date,#headerChatStarted h2 {
+color:#568aa8;
+}
+
+.message2 .userName,.message2 .date {
+color:#aac0cd;
+}
+
+.content {
+border-top:3px solid #568aa8;
+border-bottom:1px solid #568aa8;
+}
+
+.message2 .content {
+border-top:3px solid #aac0cd;
+border-bottom:1px solid #aac0cd;
+}
+
+.message1 a {
+color:#4d85a9;
+}
+
+.message1 a:hover {
+color:#7cadcc;
+}
+
+.message2 a {
+color:#b7cad6;
+}
+
+.message2 a:hover {
+color:#c5d6e1;
+}
+
+.name {
+text-align:left;
+font:11px "Lucida Grande";
+font-weight:700;
+height:13px;
+background:#111;
+opacity:0.6;
+border-color:#333;
+border-style:solid;
+border-width:1px;
+margin:0 4px 2px 35px;
+}
+
+.timestamp {
+float:right;
+font:10px Helvetica;
+font-weight:400;
+color:#AAA;
+display:inline;
+margin:1px 4px;
+}
+
+.timestamp.additional {
+display:none;
+}

@@ -1,0 +1,88 @@
+@import url('../main.css');
+
+a:link {
+color:#59f;
+text-decoration:none;
+}
+
+a:visited {
+color:#C9C;
+text-decoration:none;
+}
+
+a:active {
+color:#F99;
+text-decoration:none;
+}
+
+a:hover {
+color:maroon;
+text-decoration:underline;
+}
+.name {
+text-align:left;
+font:11px "Lucida Grande";
+font-weight:700;
+height:13px;
+background:#111;
+opacity:0.6;
+border-color:#333;
+border-style:solid;
+border-width:1px;
+margin:0 4px 2px 35px;
+}
+
+.timestamp {
+float:right;
+font:10px Helvetica;
+font-weight:400;
+color:#AAA;
+display:inline;
+margin:1px 4px;
+}
+
+.timestamp.additional {
+display:none;
+}
+
+.message1 .userName, .message1 .date {
+	color: #00a1ff;
+}
+
+.message2 .userName, .message2 .date {
+	color: #7fadcd;
+}
+
+.content {
+	border-top: 3px solid #00a1ff;
+	border-bottom: 1px solid #00a1ff;
+}
+
+.message2 .content {
+	border-top: 3px solid #7fadcd;
+	border-bottom: 1px solid #7fadcd;
+}
+
+
+#headerChatStarted h2 {
+	color: #00a1ff;
+}
+
+
+.message1 a {
+	color: #2fb5ff;
+}
+
+.message1 a:hover {
+	color: #66e7ff;
+}
+
+.message2 a {
+	color: #a3d5f7;
+}
+
+.message2 a:hover {
+	color: #cfecff;
+}
+
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Aqua</name>
+ <description>Aqua qml color theme.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>color themes</tag>
+ </tags>
+ <versions>
+  <version size="1070" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Aqua.png"/>
+ </images>
+ <long>A greyish violet qml color theme by suse@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
