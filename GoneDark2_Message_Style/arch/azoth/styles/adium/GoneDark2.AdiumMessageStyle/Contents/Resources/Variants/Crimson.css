@@ -1,84 +1,16 @@
-@import url('../main.css');
-
-a:link {
-color:#59f;
-text-decoration:none;
-}
-
-a:visited {
-color:#C9C;
-text-decoration:none;
-}
-
-a:active {
-color:#F99;
-text-decoration:none;
-}
-
-a:hover {
-color:maroon;
-text-decoration:underline;
-}
-
-.message1 .userName, .message1 .date, #headerChatStarted h2 {
-	color: #e1000b;
-}
-
-.message2 .userName, .message2 .date {
-	color: #b50000;
-}
-
-.content {
-	border-top: 3px solid #e1000b;
-	border-bottom: 1px solid #e1000b;
-}
-
-.message2 .content {
-	border-top: 3px solid #b50000;
-	border-bottom: 1px solid #b50000;
-}
-
-.name {
-text-align:left;
-font:11px "Lucida Grande";
-font-weight:700;
-height:13px;
-background:#111;
-opacity:0.6;
-border-color:#333;
-border-style:solid;
-border-width:1px;
-margin:0 4px 2px 35px;
-}
-
-.timestamp {
-float:right;
-font:10px Helvetica;
-font-weight:400;
-color:#AAA;
-display:inline;
-margin:1px 4px;
-}
-
-.timestamp.additional {
-display:none;
-}
-
-.message1 a {
-	color: #d3000a;
-}
-
-.message1 a:hover {
-	color: #f4222c;
-}
-
-.message2 a {
-	color: #d0000a;
-}
-
-.message2 a:hover {
-	color: #f0151f;
-}
-
-
-
+@import url(../main.css);
+a:link{color:#59f;text-decoration:none;}
+a:visited{color:#C9C;text-decoration:none;}
+a:active{color:#F99;text-decoration:none;}
+a:hover{color:maroon;text-decoration:underline;}
+.message1 .username,.message1 .date,#headerchatstarted h2{color:#e1000b;}
+.message2 .username,.message2 .date{color:#b50000;}
+.content{border-bottom:1px solid #e1000b;border-top:3px solid #e1000b;}
+.message2 .content{border-bottom:1px solid #b50000;border-top:3px solid #b50000;}
+.name{background:#111;border-color:#333;border-style:solid;border-width:1px;font:11px "Lucida Grande";font-weight:700;height:13px;margin:0 4px 2px 35px;text-align:left;}
+.timestamp{color:#AAA;display:inline;float:right;font:10px Helvetica;font-weight:400;margin:1px 4px;}
+.timestamp.additional{display:none;}
+.message1 a{color:#d3000a;}
+.message1 a:hover{color:#f4222c;}
+.message2 a{color:#d0000a;}
+.message2 a:hover{color:#f0151f;}

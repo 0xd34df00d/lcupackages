@@ -9,10 +9,11 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="48425" archiver="lzma">0.4</version>
+  <version size="49327" archiver="lzma">0.4.1</version>
  </versions>
  <images>
   <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/ArtHero0.png"/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/ArtHero.png"/>
  </images>
  <long>&lt;div>&lt;div>&lt;div>&lt;div>&lt;div>Author: "Ok, now that this is out of the way, let me tell you a little bit about this new Message Style.&lt;/div>&lt;div>I decided to put something a little extra into the style, animation.&lt;/div>&lt;div>This style is the first to utilize Yahoo! UI Library (YUI). Getting this implemented was tricky, but upcoming version of AdiumX will have a better way of handling JavaScript. Either way, it makes chatting a bliss.&lt;/div>&lt;div>I've been meaning to create a Message Style of my own for a while, but haven't had the time or will. The release of AntiPropaganda Message Style pushed me over the edge. My hat is off for the creator of that style as it is simple and beautiful."&lt;/div>&lt;/div>&lt;/div>&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3674">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3674&lt;/a></long>

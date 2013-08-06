@@ -9,10 +9,11 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="24882" archiver="lzma">0.3</version>
+  <version size="25011" archiver="lzma">0.3.1</version>
  </versions>
  <images>
   <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Anna0.png"/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Anna.png"/>
  </images>
  <long>&lt;div>&lt;div>A simple theme inspired by the interfaces of mobile chats.&lt;/div>&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7890">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=7890&lt;/a></long>

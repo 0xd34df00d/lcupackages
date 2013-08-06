@@ -1,129 +1,24 @@
-/* CSSPortal:Tue, 28 May 2013 10:56:06 -0700 */
-body {
-    background-image:url(board2.png);
-    margin:0 3px;
-}
-#header {
-    display:block;
-    height:50px;
-    position:fixed;
-    top:0;
-    width:100%;
-    z-index:100;
-}
-#headerImage {
-    width:32px;
-    height:32px;
-    margin-left:20px;
-    margin-top:4px;
-    float:left;
-    padding:3px;
-}
-#headerChatStarted {
-    color:#ccc;
-    font:10px Eurostile, Eurostile;
-    float:left;
-    margin-left:10px;
-    margin-top:6px;
-}
-#headerChatStarted h2 {
-    color:#86ce4c;
-    font-size:11px;
-    font-weight:700;
-    margin:0;
-    padding:0;
-}
-#headerSpace {
-    height:50px;
-}
-.userName {
-    font:bold 12px Eurostile, Eurostile;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom:auto;
-    text-shadow:0 -1px 5px #000;
-}
-.service {
-    float:right;
-    font-size:10px;
-    margin-right:20px;
-    line-height:15px;
-    color:#fff;
-    opacity:.4;
-    font-family:Eurostile, Eurostile;
-}
-.message1 .userName,.message1 .date {
-    color:#86ce4c;
-}
-.content {
-    border-top:3px solid #86ce4c;
-    border-bottom:1px solid #86ce4c;
-    color:#fff;
-    font-size:10px;
-    line-height:1.3em;
-    font-family:Eurostile;
-    background-color:word-wrap:break-word;
-}
-.message1 a {
-    color:#b4fe2b;
-    text-decoration:underline;
-}
-.message1 a:hover {
-    color:#f2fd0d;
-}
-.contentText {
-    padding-top:5px;
-    padding-bottom:5px;
-    margin-right:60px;
-    margin-left:20px;
-    font-size:12px;
-}
-.divider {
-    height:2px;
-}
-.shadow {
-    height:9px;
-}
-.date {
-    float:right;
-    font-size:10px;
-    margin: 1px 4px 1px 4px;
-    display: inline;
-    text-shadow:#000 1px 1px 0;
-}
-.date.additional {
-	display: none;
-}
-.message2 .userName,.message2 .date {
-    color:#42b6ff;
-}
-.message2 a {
-    color:#42b6ff;
-    text-decoration:underline;
-}
-.message2 a:hover {
-    color:#73ddfe;
-}
-.message2 .content {
-    border-top:3px solid #42b6ff;
-    border-bottom:1px solid #42b6ff;
-}
-.status {
-    color:#fff;
-    text-align:center;
-    margin-bottom:.3em;
-    opacity:.7;
-    font:bold 10px Eurostile, Eurostile;
-}
-#Chat {
-    overflow:hidden;
-    padding-top:50px;
-    padding-bottom:6px;
-    margin-bottom:0;
-}
-.context {
-    opacity:.6;
-}
-img.scaledToFitImage {
-    width:auto;
-}
+body{background-image:url(board2.png);margin:0 3px;}
+#header{display:block;height:50px;position:fixed;top:0;width:100%;z-index:100;}
+#headerimage{float:left;height:32px;margin-left:20px;margin-top:4px;padding:3px;width:32px;}
+#headerchatstarted{color:#ccc;float:left;font:10px Eurostile, Eurostile;margin-left:10px;margin-top:6px;}
+#headerchatstarted h2{color:#86ce4c;font-size:11px;font-weight:700;margin:0;padding:0;}
+#headerspace{height:50px;}
+.username{font:bold 12px Eurostile, Eurostile;margin-bottom:auto;margin-left:20px;margin-right:20px;}
+.service{color:#fff;float:right;font-family:Eurostile, Eurostile;font-size:10px;line-height:15px;margin-right:20px;}
+.message1 .username,.message1 .date{color:#86ce4c;}
+.content{background-color:word-wrap:break-word;border-bottom:1px solid #86ce4c;border-top:3px solid #86ce4c;color:#fff;font-family:Eurostile;font-size:10px;line-height:1.3em;}
+.message1 a{color:#b4fe2b;text-decoration:underline;}
+.message1 a:hover{color:#f2fd0d;}
+.contenttext{font-size:12px;margin-left:20px;margin-right:60px;padding-bottom:5px;padding-top:5px;}
+.divider{height:2px;}
+.shadow{height:9px;}
+.date{display:inline;float:right;font-size:10px;margin:1px 4px;}
+.date.additional{display:none;}
+.message2 .username,.message2 .date{color:#42b6ff;}
+.message2 a{color:#42b6ff;text-decoration:underline;}
+.message2 a:hover{color:#73ddfe;}
+.message2 .content{border-bottom:1px solid #42b6ff;border-top:3px solid #42b6ff;}
+.status{color:#fff;font:bold 10px Eurostile, Eurostile;margin-bottom:.3em;text-align:center;}
+#chat{margin-bottom:0;overflow:hidden;padding-bottom:6px;padding-top:50px;}
+img.scaledtofitimage{width:auto;}
