@@ -1,170 +1,25 @@
-A:link{
-color: #ff358b;
-}
-A:visited{
-color: #ff358b;
-}
-A:active{
-color: #ff358b;
-}
-A:hover{
-color:#fff;}
-
-
-
-body{
-font-family: Helvetica;
-background-color: #403f3f;}
-
-#header-c{
-display: block;
-position: fixed;
-width: 100%;
-height: 104px;
-z-index: 100;
-top: 0;
-left: 0;
-right: 0;
-	}
-
-#header{
-background-color: white;
-border-bottom: 1px solid #272727;
-padding: 8px;
-z-index: 100;
-}
-
-#text-h{
-font-size: 12px;
-color: #626262;
-width: 100%;
-font-weight: lighter;
-	}
-
-
-#bar{
-height: 28px;
-width: 100%;
-border-bottom: 1px solid #272727;
-background-image: url(../img/bar.png);
-background-repeat: repeat-x;
-	}
-
-#mensaje{
-background-color: #403f3f;
-border-top: 1px solid #757575;
-border-bottom: 1px solid #272727;
-padding: 8px;
-top: 0;
-left: 0;
-right: 0;
-	}
-	
-#mensaje_yo{
-background-color: #403f3f;
-border-top: 1px solid #757575;
-border-bottom: 1px solid #272727;
-padding: 8px;
-top: 0;
-left: 0;
-right: 0;
-	}	
-	
-	
-#avatar{
-margin-right: 20px;
-width: 52px;
-height: 52px;
-	}
-	
-#name_a{
-padding-bottom: 3px;
-font-size: 14px;
-color: #00e1ff;
-font-weight: bold;
-	}
-
-#name_b{
-padding-bottom: 3px;
-font-size: 14px;
-color: #ff358b;
-font-weight: bold;
-	}	
-
-#text{
-font-size: 12px;
-color: #fff;
-width: 100%;
-	}
-	
-#hora{
-color: #fff;
-font-size: 12px;
-font-weight: lighter
-	}
-
-#trans{
-position: absolute;
-background-image: url(../img/trans.png);
-z-index: 2;
-height: 52px;
-width: 52px;
-	}
-
-.avatar_img{
--webkit-border-radius: 5px;
-width: 52px;
-height: 52px;
-}
-
-#text-next{
-border-top: 1px solid #626262;
-margin-top: 3px;
-padding-top: 2px;
-	}
-	
-#hora-next{
-text-align: right;
-color: #fff;
-font-size: 12px;
-padding-left: 8px;
-	}
-	
-#alert{
-background-color: #403f3f;
-border-top: 1px solid #757575;
-border-bottom: 1px solid #272727;
-height: 29px;
-top: 0;
-left: 0;
-right: 0;
-	}
-	
-#b-alert{
-background-image: url(../img/alert.png);
-width:77px;
-height: 29px;
-float: left;
-	}	
-	
-#text-alert{
-width: auto;;
-height: 29px;
-background-image: url(../img/alert-r.png);
-background-repeat: repeat-x;
-vertical-align: 50%;
-font-size: 14px;
-color: #403f3f;
-font-weight: bold;
-}
-
-#little{
-	font-size: 10px;
-	color:#8c8c8c;
-	padding-right: 5px;
-	padding-left: 15px;
-	}
-	
-.bold{
-	font-weight: bold;
-	font-size: 14px;}
+a:link{color:#ff358b;}
+a:visited{color:#ff358b;}
+a:active{color:#ff358b;}
+a:hover{color:#fff;}
+body{background-color:#403f3f;font-family:Helvetica;}
+#header-c{display:block;height:104px;left:0;position:fixed;right:0;top:0;width:100%;z-index:100;}
+#header{background-color:#FFF;border-bottom:1px solid #272727;padding:8px;z-index:100;}
+#text-h{color:#626262;font-size:12px;font-weight:lighter;width:100%;}
+#bar{background-image:url(../img/bar.png);background-repeat:repeat-x;border-bottom:1px solid #272727;height:28px;width:100%;}
+#mensaje{background-color:#403f3f;border-bottom:1px solid #272727;border-top:1px solid #757575;left:0;padding:8px;right:0;top:0;}
+#mensaje_yo{background-color:#403f3f;border-bottom:1px solid #272727;border-top:1px solid #757575;left:0;padding:8px;right:0;top:0;}
+#avatar{height:52px;margin-right:20px;width:52px;}
+#name_a{color:#00e1ff;font-size:14px;font-weight:700;padding-bottom:3px;}
+#name_b{color:#ff358b;font-size:14px;font-weight:700;padding-bottom:3px;}
+#text{color:#fff;font-size:12px;width:100%;}
+#hora{color:#fff;font-size:12px;font-weight:lighter;}
+#trans{background-image:url(../img/trans.png);height:52px;position:absolute;width:52px;z-index:2;}
+.avatar_img{height:52px;width:52px;}
+#text-next{border-top:1px solid #626262;margin-top:3px;padding-top:2px;}
+#hora-next{color:#fff;font-size:12px;padding-left:8px;text-align:right;}
+#alert{background-color:#403f3f;border-bottom:1px solid #272727;border-top:1px solid #757575;height:29px;left:0;right:0;top:0;}
+#b-alert{background-image:url(../img/alert.png);float:left;height:29px;width:77px;}
+#text-alert{background-image:url(../img/alert-r.png);background-repeat:repeat-x;color:#403f3f;font-size:14px;font-weight:700;height:29px;vertical-align:50%;width:auto;}
+#little{color:#8c8c8c;font-size:10px;padding-left:15px;padding-right:5px;}
+.bold{font-size:14px;font-weight:700;}

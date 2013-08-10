@@ -6,9 +6,10 @@
   <tag>azoth</tag>
   <tag>theme</tag>
   <tag>chat styles</tag>
+  <tag>standard styles</tag>
  </tags>
  <versions>
-  <version size="1171" archiver="gz">0.1.1</version>
+  <version size="1437" archiver="gz">0.1.2</version>
  </versions>
  <images>
   <icon url=""/>

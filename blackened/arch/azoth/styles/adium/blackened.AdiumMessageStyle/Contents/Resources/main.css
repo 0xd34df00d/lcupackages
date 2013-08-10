@@ -1,135 +1,21 @@
-/**
- * Blackened
- * Inspiration from Iphone application Tweetie
- *
- * @author	Andreas Lanjerud, andreas@lanjerud.se
- */
-
-body {
-	background: black;
-	color: white;
-	
-	font-family: Helvetica, Verdana;
-	font-size: 12px;
-	line-height: 1.4em;
-	
-	margin: 0;
-	padding: 0;
-}
-
-a {
-	color: #0099ff;
-	text-decoration: none;
-	border-bottom: 1px dotted #0099ff;
-}
-
-br {
-	display: none;
-}
-
-a:hover {
-	border-bottom: 1px solid #0099ff;
-}
-
-.content,
-.context,
-.nextcontent {
-	background: #0d0d0d url(images/message.gif) repeat-x left top;
-	border-bottom: 1px solid black;
-	border-top: 1px solid #393939;
-
-	display: block;
-	position: relative;
-	padding: 5px 10px 10px 50px;
-}
-
-.outgoing .content,
-.outgoing .context,
-.outgoing .nextcontent {
-	background: #111d17 url(images/message_from.gif) repeat-x left top;
-	border-top: 1px solid #3e4a46;
-}
-
-.mention .content,
-.mention .context,
-.mention .nextcontent {
-	background: #16263c url(images/message_to.gif) repeat-x left top;
-	border-top: 1px solid #444d5c;	
-}
-
-.content,
-.context {
-	min-height: 35px;
-}
-
-.context {
-	background: #000;
-	color: #606062;
-}
-
-.buddyicon img {
-	position: absolute;
-	top: 5px;
-	left: 10px;
-	width: 32px;
-	z-index: 2;
-	-webkit-transition-property: width, top;
-	-webkit-transition-duration: 0.3s;
-}
-
-.buddyicon img:hover {
-	top: -28px;
-	width: 128px;
-	z-index: 3;
-	-webkit-box-shadow: #000 0 0 10px;
-}
-
-.sender {
-	color: white;
-	display: block; 
-	font-size: 13px;
-	font-weight: bold;
-	margin-bottom: 2px;
-}
-
-.message {
-	color: #a0a0a0;
-}
-
-.message .message {
-	overflow: auto;
-}
-
-.mention .message,
-.mention .sender {
-	color: #a9b3c3;
-}
-
-.context .message {
-	color: #606062;
-}
-
-.message .message img { vertical-align: middle; }
-
-.time {
-	color: #606062;
-	font-size: 10px;
-	display: none; 
-	position: absolute;
-	top: 5px;
-	right: 10px;
-}
-
-.incoming:hover .time,
-.outgoing:hover .time { 
-	display: block;
-}
-
-.status {
-	text-align: center;
-	padding: 5px 0;
-}
-
-.status .message {
-	color: #606062;
-}
+body{background:#000;color:#FFF;font-family:Helvetica, Verdana;font-size:12px;line-height:1.4em;margin:0;padding:0;}
+a{border-bottom:1px dotted #09f;color:#09f;text-decoration:none;}
+br{display:none;}
+a:hover{border-bottom:1px solid #09f;}
+.content,.context,.nextcontent{background:#0d0d0d url(images/message.gif) repeat-x left top;border-bottom:1px solid #000;border-top:1px solid #393939;display:block;padding:5px 10px 10px 50px;position:relative;}
+.outgoing .content,.outgoing .context,.outgoing .nextcontent{background:#111d17 url(images/message_from.gif) repeat-x left top;border-top:1px solid #3e4a46;}
+.mention .content,.mention .context,.mention .nextcontent{background:#16263c url(images/message_to.gif) repeat-x left top;border-top:1px solid #444d5c;}
+.content,.context{min-height:35px;}
+.context{background:#000;color:#606062;}
+.buddyicon img{left:10px;position:absolute;top:5px;width:32px;z-index:2;}
+.buddyicon img:hover{top:-28px;width:128px;z-index:3;}
+.sender{color:#FFF;display:block;font-size:13px;font-weight:700;margin-bottom:2px;}
+.message{color:#a0a0a0;}
+.message .message{overflow:auto;}
+.mention .message,.mention .sender{color:#a9b3c3;}
+.context .message{color:#606062;}
+.message .message img{vertical-align:middle;}
+.time{color:#606062;display:none;font-size:10px;position:absolute;right:10px;top:5px;}
+.incoming:hover .time,.outgoing:hover .time{display:block;}
+.status{padding:5px 0;text-align:center;}
+.status .message{color:#606062;}
