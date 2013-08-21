@@ -9,10 +9,11 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="11552" archiver="lzma">1.2</version>
+  <version size="13165" archiver="lzma">1.2.1</version>
  </versions>
  <images>
   <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Boxes0.png"/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Boxes.png"/>
  </images>
  <long>&lt;div>Super clean "boxes" message style from&amp;nbsp;iChat.&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6187">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=6187&lt;/a></long>
