@@ -1,18 +1,18 @@
 [ToolButton]
-TopColor=25,66,86
-BottomColor=25,66,86
+TopColor=0,34,52
+BottomColor=0,34,52
 BorderColor=22,68,120
-HoverBottomColor=22,68,120
+HoverBottomColor=19,51,51
 HoverTopColor=16,44,58
 SelectedTopColor=66,65,64
-SelectedBottomColor=22,68,120
+SelectedBottomColor=19,51,51
 SelectedBorderColor=66,65,64
 HoveredBorderColor=66,65,64
 PressedBorderColor=16,44,58
 
 [Panel]
-TopColor=22,68,120
-BottomColor=16,44,58
+TopColor=0,34,52
+BottomColor=19,51,51
 TextColor=170,170,170
 
 [TextBox]

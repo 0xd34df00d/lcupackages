@@ -2,6 +2,8 @@
 TopColor=55,55,55
 BottomColor=90,98,109
 BorderColor=55,55,55
+HoverBottomColor=55,55,55
+HoverTopColor=50,50,50
 SelectedTopColor=50,50,50
 SelectedBottomColor=55,55,55
 SelectedBorderColor=55,55,55

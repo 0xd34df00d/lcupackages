@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>Cyan</name>
- <description>Cyan dark qml color theme.</description>
+ <name>StrikingBlue</name>
+ <description>Striking Blue qml color theme.</description>
  <tags>
   <tag>theme</tag>
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1119" archiver="lzma">0.1.1</version>
+  <version size="1200" archiver="lzma">0.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Cyan.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Luna.png"/>
  </images>
- <long>A cyan dark qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <long>A dark blue qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>

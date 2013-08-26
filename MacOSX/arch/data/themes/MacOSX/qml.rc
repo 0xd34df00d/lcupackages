@@ -2,6 +2,8 @@
 TopColor=248,247,246
 BottomColor=245,248,248
 BorderColor=245,248,248
+HoverBottomColor=245,248,248
+HoverTopColor=245,248,248
 SelectedTopColor=186,223,252
 SelectedBottomColor=245,248,248
 SelectedBorderColor=245,248,248
@@ -18,7 +20,7 @@ TopColor=245,248,248
 BottomColor=245,248,248
 BorderColor=245,248,248
 HighlightTopColor=120,180,249
-HighlightBottomColor=2245,248,248
+HighlightBottomColor=245,248,248
 HighlightBorderColor=120,180,249
 TitleTextColor=221,221,221
 TextColor=170,170,170
