@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>StrikingBlue</name>
+ <description>Striking Blue qml color theme.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>color themes</tag>
+ </tags>
+ <versions>
+  <version size="1200" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Luna.png"/>
+ </images>
+ <long>A dark blue qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
