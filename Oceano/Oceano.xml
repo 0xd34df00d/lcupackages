@@ -7,13 +7,13 @@
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1271" archiver="gz">0.1</version>
+  <version size="1142" archiver="lzma">0.1.1</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Oceano.png"/>
  </images>
- <long>Another dark blue qml color theme by suse@conference.jabber.ru/pendruk.</long>
+ <long>Another dark blue qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>

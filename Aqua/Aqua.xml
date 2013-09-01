@@ -7,13 +7,13 @@
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1070" archiver="lzma">0.1</version>
+  <version size="1101" archiver="lzma">0.1.1</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Aqua.png"/>
  </images>
- <long>A greyish violet qml color theme by suse@conference.jabber.ru/pendruk.</long>
+ <long>A greyish violet qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>

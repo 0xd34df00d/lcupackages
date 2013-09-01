@@ -7,13 +7,13 @@
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1226" archiver="gz">0.1</version>
+  <version size="1119" archiver="lzma">0.1.1</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Cyan.png"/>
  </images>
- <long>A cyan dark qml color theme by suse@conference.jabber.ru/pendruk.</long>
+ <long>A cyan dark qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>

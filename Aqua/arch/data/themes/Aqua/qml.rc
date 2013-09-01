@@ -2,6 +2,8 @@
 TopColor=102,102,102
 BottomColor=80,80,80
 BorderColor=80,80,80
+HoverBottomColor=102,102,102
+HoverTopColor=80,80,80
 SelectedTopColor=186,223,252
 SelectedBottomColor=102,102,102
 SelectedBorderColor=80,80,80
