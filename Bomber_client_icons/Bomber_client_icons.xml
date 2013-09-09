@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>gajim_client_icons</name>
+ <name>Bomber_client_icons</name>
  <description>Icons for different IM clients for Azoth</description>
  <tags>
   <tag>azoth</tag>
@@ -8,13 +8,13 @@
   <tag>client icons</tag>
  </tags>
  <versions>
-  <version size="380760" archiver="lzma">0.1.1</version>
+  <version size="128587" archiver="lzma">0.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/gajim_client_icons.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Bomber_client_icons.png"/>
  </images>
- <long>Here it is a set of client icons for Azoth that is included in gajim distribution by default with some icons from LeechCraft's set.</long>
+ <long>Here it is a set of client icons for Azoth from BomberMan.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>
