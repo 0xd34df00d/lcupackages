@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>pendruk_qml</name>
- <description>Pendruk qml color theme.</description>
+ <name>Alienware</name>
+ <description>Alienware qml color theme.</description>
  <tags>
   <tag>theme</tag>
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1019" archiver="lzma">0.1.1</version>
+  <version size="1131" archiver="lzma">0.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/pendruk_qml.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Alienware.png"/>
  </images>
- <long>Another dark qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <long>A dark grey qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>
