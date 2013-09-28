@@ -6,7 +6,7 @@ HoverBottomColor=212,219,230
 HoverTopColor=212,219,230
 SelectedTopColor=186,223,252
 SelectedBottomColor=212,219,230
-SelectedBorderColor=212,219,230
+SelectedBorderColor=0,70,170
 HoveredBorderColor=212,219,230
 PressedBorderColor=120,180,249
 
