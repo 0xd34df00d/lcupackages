@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <package type="theme">
- <name>Oceano</name>
- <description>Oceano qml color theme.</description>
+ <name>Velvet</name>
+ <description>Velvet qml color theme.</description>
  <tags>
   <tag>theme</tag>
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1100" archiver="lzma">0.1.3</version>
+  <version size="1062" archiver="lzma">0.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Oceano.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Velvet.png"/>
  </images>
- <long>Another dark blue qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <long>Another dark qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>

@@ -6,7 +6,7 @@ HoverBottomColor=245,248,248
 HoverTopColor=245,248,248
 SelectedTopColor=186,223,252
 SelectedBottomColor=245,248,248
-SelectedBorderColor=75,71,67
+SelectedBorderColor=0,170,170
 HoveredBorderColor=245,248,248
 PressedBorderColor=120,180,249
 
@@ -31,7 +31,7 @@ Aux3TextColor=51,71,67
 [TextView]
 TopColor=187,223,222
 BottomColor=75,71,67
-TitleTextColor=221,221,221
+TitleTextColor=56,56,56
 TextColor=75,71,67
 Aux1TextColor=153,153,153
 Aux2TextColor=51,71,67
