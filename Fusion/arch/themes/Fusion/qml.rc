@@ -6,14 +6,14 @@ HoverBottomColor=212,219,230
 HoverTopColor=212,219,230
 SelectedTopColor=186,223,252
 SelectedBottomColor=212,219,230
-SelectedBorderColor=212,219,230
+SelectedBorderColor=0,70,170
 HoveredBorderColor=212,219,230
 PressedBorderColor=120,180,249
 
 [Panel]
 TopColor=212,219,230
 BottomColor=212,219,230
-TextColor=181,186,195
+TextColor=56,56,56
 
 [TextBox]
 TopColor=181,186,195
@@ -22,17 +22,17 @@ BorderColor=212,219,230
 HighlightTopColor=120,180,249
 HighlightBottomColor=212,219,230
 HighlightBorderColor=120,180,249
-TitleTextColor=221,221,221
-TextColor=170,170,170
+TitleTextColor=136,136,136
+TextColor=56,56,56
 Aux1TextColor=153,153,153
 Aux2TextColor=136,136,136
-Aux3TextColor=119,119,119
+Aux3TextColor=46,56,56
 
 [TextView]
 TopColor=212,219,230
 BottomColor=248,247,246
-TitleTextColor=221,221,221
-TextColor=170,170,170
+TitleTextColor=56,56,56
+TextColor=46,56,56
 Aux1TextColor=153,153,153
 Aux2TextColor=136,136,136
-Aux3TextColor=119,119,119
+Aux3TextColor=46,56,56
