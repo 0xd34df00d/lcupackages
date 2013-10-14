@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<icondef>
+	<meta>
+		<name>Kadu Penguins</name>
+		<home>http://www.kadu.im/</home>
+	</meta>
+
+  <icon>
+    <text>0:)</text>
+    <text>0:-)</text>
+    <text>0=)</text>
+    <text>O:)</text>
+    <text>O:-)</text>
+    <text>O=)</text>
+    <object mime='image/gif'>aniolek.gif</object>
+  </icon>
+
+  <icon>
+    <text>:)</text>
+    <text>=)</text>
+    <text>:-)</text>
+    <text>(:</text>
+    <text>(=</text>
+    <text>(-:</text>
+    <object mime='image/gif'>usmiech.gif</object>
+  </icon>
+
+  <icon>
+    <text>:(</text>
+    <text>=(</text>
+    <text>:-(</text>
+    <text>):</text>
+    <text>)=</text>
+    <text>)-:</text>
+    <object mime='image/gif'>smutny.gif</object>
+  </icon>
+
+  <icon>
+    <text>;)</text>
+    <text>;-)</text>
+    <object mime='image/gif'>oczko.gif</object>
+  </icon>
+
+  <icon>
+    <text>:P</text>
+    <text>:-P</text>
+    <object mime='image/gif'>jezyk.gif</object>
+  </icon>
+
+  <icon>
+    <text>;P</text>
+    <text>;-P</text>
+    <object mime='image/gif'>jezyk_oko.gif</object>
+  </icon>
+
+  <icon>
+    <text>8)</text>
+    <text>8-)</text>
+    <text>B)</text>
+    <text>B-)</text>
+    <object mime='image/gif'>okularnik.gif</object>
+  </icon>
+
+  <icon>
+    <text>:D</text>
+    <text>:-D</text>
+    <object mime='image/gif'>lol2.gif</object>
+  </icon>
+
+  <icon>
+    <text>:[</text>
+    <text>:-[</text>
+    <object mime='image/gif'>zawstydzony.gif</object>
+  </icon>
+
+  <icon>
+    <text>=-O</text>
+    <text>o.0</text>
+    <text>0.o</text>
+    <text>o_0</text>
+    <text>0_o</text>
+    <object mime='image/gif'>szok.gif</object>
+  </icon>
+
+  <icon>
+    <text>:*</text>
+    <text>:-*</text>
+    <object mime='image/gif'>cmok.gif</object>
+  </icon>
+
+  <icon>
+    <text>:'(</text>
+    <object mime='image/gif'>placze.gif</object>
+  </icon>
+
+  <icon>
+    <text>:X</text>
+    <text>:x</text>
+    <text>:-X</text>
+    <text>:-x</text>
+    <object mime='image/gif'>nie_powiem.gif</object>
+  </icon>
+
+  <icon>
+    <text>:|</text>
+    <text>:-|</text>
+    <object mime='image/gif'>yyyy.gif</object>
+  </icon>
+
+  <icon>
+    <text>:\</text>
+    <text>:/</text>
+    <text>:-\</text>
+    <text>:-/</text>
+    <object mime='image/gif'>uoeee.gif</object>
+  </icon>
+
+  <icon>
+    <text>*JOKINGLY*</text>
+    <object mime='image/gif'>zeby.gif</object>
+  </icon>
+
+  <icon>
+    <text>]:&gt;</text>
+    <text>]:-&gt;</text>
+    <object mime='image/gif'>diabelek.gif</object>
+  </icon>
+
+  <icon>
+    <text>:&gt;</text>
+    <text>:-&gt;</text>
+    <object mime='image/gif'>chytry.gif</object>
+  </icon>
+
+  <icon>
+    <text>[:-}</text>
+    <object mime='image/gif'>muza.gif</object>
+  </icon>
+
+  <icon>
+    <text>*KISSED*</text>
+    <object mime='image/gif'>onajego.gif</object>
+  </icon>
+
+  <icon>
+    <text>:-!</text>
+    <object mime='image/gif'>rzygi.gif</object>
+  </icon>
+
+  <icon>
+    <text>*TIRED*</text>
+    <object mime='image/gif'>zniesmaczony.gif</object>
+  </icon>
+
+  <icon>
+    <text>*STOP*</text>
+    <object mime='image/gif'>stop.gif</object>
+  </icon>
+
+  <icon>
+    <text>*KISSING*</text>
+    <object mime='image/gif'>buziak.gif</object>
+  </icon>
+
+  <icon>
+    <text>@}-&gt;--</text>
+    <object mime='image/gif'>roza.gif</object>
+  </icon>
+
+  <icon>
+    <text>*THUMBS UP*</text>
+    <object mime='image/gif'>okok.gif</object>
+  </icon>
+
+  <icon>
+    <text>*DRINK*</text>
+    <object mime='image/gif'>szampan.gif</object>
+  </icon>
+
+  <icon>
+    <text>*IN LOVE*</text>
+    <object mime='image/gif'>zakochany.gif</object>
+  </icon>
+
+  <icon>
+    <text>*HELP*</text>
+    <object mime='image/gif'>pomocy.gif</object>
+  </icon>
+
+  <icon>
+    <text>%)</text>
+    <text>%-)</text>
+    <object mime='image/gif'>figielek.gif</object>
+  </icon>
+
+  <icon>
+    <text>*BRAVO*</text>
+    <object mime='image/gif'>oklasky.gif</object>
+  </icon>
+
+  <icon>
+    <text>*LOL*</text>
+    <object mime='image/gif'>haha.gif</object>
+  </icon>
+
+  <icon>
+    <text>*ROFL*</text>
+    <text>*ROTFL*</text>
+    <object mime='image/gif'>rotfl.gif</object>
+  </icon>
+
+  <icon>
+    <text>*NO*</text>
+    <object mime='image/gif'>nie.gif</object>
+  </icon>
+
+  <icon>
+    <text>*CRAZY*</text>
+    <object mime='image/gif'>glupek.gif</object>
+  </icon>
+
+  <icon>
+    <text>*DANCE*</text>
+    <object mime='image/gif'>tancze.gif</object>
+  </icon>
+
+  <icon>
+    <text>*HI*</text>
+    <text>*PREVED*</text>
+    <text>*PRIVET*</text>
+    <text>*HELLO*</text>
+    <object mime='image/gif'>hejka.gif</object>
+  </icon>
+
+  <icon>
+    <text>*BYE*</text>
+    <object mime='image/gif'>papa2.gif</object>
+  </icon>
+
+  <icon>
+    <text>*YES*</text>
+    <object mime='image/gif'>tak.gif</object>
+  </icon>
+
+  <icon>
+    <text>*WALL*</text>
+    <text>*DASH*</text>
+    <object mime='image/gif'>sciana.gif</object>
+  </icon>
+
+  <icon>
+    <text>*RTFM*</text>
+    <object mime='image/gif'>czytaj.gif</object>
+  </icon>
+
+  <icon>
+    <text>*BOOK*</text>
+    <text>*READ*</text>
+    <object mime='image/gif'>nauka.gif</object>
+  </icon>
+
+  <icon>
+    <text>*TEA*</text>
+    <text>*COFFEE*</text>
+    <object mime='image/gif'>kawa.gif</object>
+  </icon>
+
+  <icon>
+    <text>*WC*</text>
+    <text>*TOILET*</text>
+    <object mime='image/gif'>wc.gif</object>
+  </icon>
+
+  <icon>
+    <text>*PHOTO*</text>
+    <object mime='image/gif'>aparat.gif</object>
+  </icon>
+
+  <icon>
+    <text>*BATH*</text>
+    <object mime='image/gif'>wanna.gif</object>
+  </icon>
+
+  <icon>
+    <text>*PIE*</text>
+    <text>*CAKE*</text>
+    <text>*BIRTHDAY*</text>
+    <object mime='image/gif'>tort.gif</object>
+  </icon>
+
+  <icon>
+    <text>*PHONE*</text>
+    <object mime='image/gif'>telefon.gif</object>
+  </icon>
+
+</icondef>

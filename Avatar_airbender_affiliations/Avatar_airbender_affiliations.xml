@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Avatar_airbender_affiliations</name>
+ <description>Avatar The Last Airbender affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="39845" archiver="gz">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Avatar_airbender_affiliations.png"/>
+ </images>
+ <long>Avatar: The Last Airbender (Avatar: The Legend of Aang in some parts of Europe) is an American animated television series. Avatar: The Last Airbender is set in an Asian-influenced world wherein some are able to manipulate the classical elements by use of psychokinetic variants of Chinese martial arts known as "bending". The show combined the styles of anime and American cartoons, and relied on the imagery of various East-Asian, Inuit, Indian and South-American societies. Due to this style, the series regularly enters the conversation regarding its consideration as an anime work.
+Here it is an affiliation icons pack with main characters faces.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
