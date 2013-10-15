@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Kadu_emoticons</name>
+ <description>Kadu IM emoticons pack.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+  <tag>smiles</tag>
+ </tags>
+ <versions>
+  <version size="51221" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/Kadu_emoticons.png"/>
+ </images>
+ <long>Here it is an emoticons pack with pretty penguins from Kadu IM that is licensed under terms of GPL.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

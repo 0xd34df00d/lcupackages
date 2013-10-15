@@ -1,0 +1,20 @@
+    /* CSSPortal : Wed, 02 Oct 2013 13:29:51 -0500 */body{background-color:#2E2E2E;color:#FFFFF0;margin:0;padding:0;}
+    p{margin:0;overflow:auto;padding:0;}
+    img{border:none;}
+    .container{clear:both;margin:0 2px 0 6px;padding-bottom:4px;position:relative;}
+    .contents_left{float:left;margin:0;padding:0;width:37px;}
+    .contents_right{margin:11px 5px 0 37px;position:relative;width:auto;}
+    .buddyicon{-khtml-border-bottom-left-radius:2px;-khtml-border-top-left-radius:2px;background:#222;border-color:#AAA;border-style:solid;border-width:1px 0 1px 1px;height:36px;position:absolute;width:36px;}
+    .sender{height:15px;overflow:hidden;padding:2px 30px 0 6px;}
+    .time{position:absolute;right:5px;top:2px;}
+    .message{-khtml-border-bottom-right-radius:2px;background-color:#222;border-color:#AAA;border-style:solid;border-width:0 1px 1px;}
+    .message_top{overflow:hidden;position:relative;}
+    .text{line-height:15px;padding:1px 10px 1px 8px;}
+    .nextoutgoingmessage{border-top:1px solid #FFFFF0;margin-top:3px;padding-top:2px;}
+    .nextou .nextoutgoingmessage .nomtime{color:#FFFFF0;float:right;margin-right:-5px;text-align:right;top:14px;visibility:hidden;}
+    .status_container{-khtml-border-radius:2px;background-color:#222;border:1px solid #FFFFF0;clear:both;color:#777;font-size:10px;margin:11px 7px 0 6px;padding:2px;position:relative;}
+    a:active{color:#F99;text-decoration:underline;}
+    a:link{color:#59f;text-decoration:underline;}
+    a:visited{color:#C9C;text-decoration:underline;}
+    .incomingheader_center,.incomingheader_right{background:#222;}
+    .outgoingheader_center,.outgoingheader_right{background:#333;}

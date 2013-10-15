@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Kadu_sounds</name>
+ <description>Kadu IM sound pack.</description>
+ <tags>
+  <tag>sound themes</tag>
+ </tags>
+ <versions>
+  <version size="18271" archiver="lzma">0.1</version>
+ </versions>
+ <long>Here it is a sound theme from Kadu IM.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

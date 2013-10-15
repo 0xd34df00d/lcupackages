@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Sticker_statuses</name>
+ <description>Sticker status icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>status icons</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="80094" archiver="gz">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Sticker_statuses.png"/>
+ </images>
+ <long>Here it is a nice status icons set by leechcraft@conference.jabber.ru/pendruk</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
