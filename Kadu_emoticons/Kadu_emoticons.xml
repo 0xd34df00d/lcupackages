@@ -8,11 +8,11 @@
   <tag>smiles</tag>
  </tags>
  <versions>
-  <version size="51221" archiver="lzma">0.1</version>
+  <version size="50719" archiver="lzma">0.1.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/Kadu_emoticons.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Kadu_emoticons.png"/>
  </images>
  <long>Here it is an emoticons pack with pretty penguins from Kadu IM that is licensed under terms of GPL.</long>
  <maintainer>
