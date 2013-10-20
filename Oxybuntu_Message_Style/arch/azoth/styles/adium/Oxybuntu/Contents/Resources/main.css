@@ -1,0 +1,284 @@
+body 
+{
+	font-family:Verdana, sans-serif;
+	font-size : 12px;
+	background: url("images/photo-right.png")repeat-x;
+	background-attachment:fixed;
+	background-size : 100% ;
+	background-position : relative;
+	overflow: hidden;
+}
+
+.nextoutgoingmessage {
+    margin-top: 3px;
+    padding-top: 2px;
+    border-top: 1px solid #DEDEDE;
+	padding-left: 10px;
+}
+.nextoutgoingmessage:hover .nomtime {
+    visibility: visible;
+}
+.nextoutgoingmessage .nomtime {
+    float: right; 
+    color: #BBB;
+    top: 14px;
+    margin-right: -5px;
+    text-align:right;
+    visibility: hidden;
+}
+
+#Header 
+{ 
+        font: 6px;
+        background: url("images/header.png") repeat-x right top; 
+	position: fixed; 
+	z-index: 100; 
+	top: 0; 
+	right: 0; 
+	left: 0; 
+	height: 32px; 
+}
+
+.Header-text
+{
+        vertical-align: top;
+        font: 4px;
+    	text-align: center;
+        color: #2d2d2d;
+	text-shadow: rgba(240, 240, 240, 200) 0 1px;
+
+	min-width: 240px;	
+}
+
+div.buddyicon img, div.photo img {position:absolute;}
+div.buddyicon_right img, div.photo_right img {position:absolute;}
+
+.buddyicon 
+{
+    height: 42px;
+    width: 42px;
+    z-index: 2;
+    padding-top: 7px;
+    padding-left: 8px;
+    padding-bottom: 8px;
+}
+
+.photo 
+{
+    margin-top: -1px;
+    margin-left: -2px;
+    height: 46px;
+    width: 46px;
+    z-index: -2;
+}
+
+.buddyicon_right 
+{
+
+    height: 42px;
+    width: 42px;
+    z-index: 2;
+    padding-top: 7px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
+
+.photo_right 
+{
+    margin-top: -1px;
+    margin-right: -2px;
+    height: 46px;
+    width: 46px;
+    z-index: -2;
+}
+
+
+.table-in-left
+{
+    background: url("images/left.png");
+    height:100%;
+}
+
+.table-in-center
+{
+    background-color : #ed6f34;
+    background-image : url(images/mask.png);
+    background-position : top;
+    background-repeat : repeat-x;
+    height:100%;
+    z-index: 0;
+}
+
+.table-in-right
+{
+    background: url("images/right.png");
+    height:100%;
+}
+
+.table-in
+{
+        margin: 0px -10px 0px -10px;
+}
+
+.table-out
+{
+        margin: 0px -10px 0px -10px;
+	bottom: 0px;
+}
+
+.status-table
+{
+        margin: 0px -10px 0px -10px;
+}
+
+.s-table-left
+{
+    background: url("images/s-left.png");
+    height:100%;
+}
+
+.s-table-center
+{
+    background-color : #008500;
+    background-image : url(images/s-mask.png);
+    background-position : top;
+    background-repeat : repeat-x;
+    height:100%;
+    z-index: 0;
+}
+
+.s-table-right
+{
+    background: url("images/s-right.png");
+    height:100%;
+}
+
+.contenu_incoming .corps_message
+{
+	text-decoration: none; 
+	text-shadow: rgba(0,0,0,0.4) 0 0 3px;
+	padding-top: 2 px;
+	margin: 0px 0px 0px 0px;
+	background-color: transparente;
+	color: black; 
+	border: 2px solid #365396;
+}
+
+.contenu_outgoing .corps_message
+{
+	text-decoration: none; 
+	text-shadow: rgba(0,0,0,0.4) 0 0 3px;
+	padding-top: 2 px;
+	margin: 0px 0px 0px 0px;
+	background-color: transparente;
+	color: black; 	
+	border: 2px solid #365396;
+}
+
+.status
+{
+	margin-left: -60px;
+	background-color: transparent;
+	color: #005800;
+	text-shadow: rgba(0, 218, 0, 0.4) 0 1px;
+}
+
+.nom-in
+{
+	color: #b54500;
+    	font-variant: small-caps;
+	font-weight: bold;
+}
+
+.nom-out
+{
+	color: #757575;
+    	font-variant: small-caps;
+	font-weight: bold;
+}
+
+.space
+{
+        width: 16px;
+}
+
+.space-right
+{
+        width: 16px;
+}
+
+.texte-in
+{
+    	font: 10px;
+    	text-align: left;
+        color: #903700;
+	text-shadow: rgba(244, 215, 191, 200) 0 1px;
+	text-overflow: ellipsis;
+	width: 400px;
+}
+
+.texte-out
+{
+        text-align:right;
+    	font: 10px;
+        color: #4d4d4d;
+	text-shadow: rgba(255, 255, 255, 0.4) 0 1px;
+	text-overflow: ellipsis;
+	width: 400px;
+}
+
+.event, .name, .service, .time, .ctime, .stime 
+{
+	text-shadow: rgba(0,0,0,0.4) 0 0 3px;
+}
+.emoticon {
+	border-style: none;
+	position: relative;
+	margin: -3px 0px -5px 0px;
+}
+
+
+#history {
+	color: ab764b;
+        opacity: 2.6;
+	-webkit-transition: opacity 0.2s linear;
+}
+
+.history:hover {
+	opacity: 1;
+}
+
+.nextoutgoingmessage {
+    margin-top: 3px;
+    padding-top: 2px;
+    border-top: 1px solid #DEDEDE;
+}
+.nextoutgoingmessage:hover .nomtime {
+    visibility: visible;
+}
+.nextoutgoingmessage .nomtime {
+    float: right; 
+    color: #BBB;
+    top: 14px;
+    margin-right: -5px;
+    text-align:right;
+    visibility: hidden;
+}
+/**** Animations and Transitions ****/
+
+	/*Define Animations*/
+	
+		@-webkit-keyframes fade-in {
+			0% 		{opacity:1;}
+			50% 	{opacity:0.8;}
+			100% 	{opacity:1;}
+		}
+
+		@-webkit-keyframes header-slide-in {
+			0% 		{top:-30px;}
+			100% 	{top:0;} 
+		}
+		@-webkit-keyframes container-slide-in {
+			0% 		{top:0px;}
+			100% 	{top:27px;}
+		}
