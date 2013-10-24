@@ -1,0 +1,53 @@
+.outcontainer .buddyicon {
+    position: absolute;
+    z-index: 4;
+    height: 40px;
+    width: 40px;
+    left: auto !important;
+    top: 7px;
+    right: 10px;
+}
+
+.outcontainer .buddyicon img {
+    position: absolute;
+    left: auto !important;
+    top: 3px;
+    right: 3px;
+    z-index: 3;
+}
+
+.outcontainer .sender {
+	left: auto !important;
+	top: 8px;
+	right: 56px;
+    position: absolute;
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: lowercase;
+    text-align: right;
+}
+    
+.outcontainer .time_initial {
+    position: absolute;
+    left: 10px;
+    top: 8px;
+    font-size: 9px;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 0;
+}
+     
+.outcontainer .time_consecutive {
+    float: right;
+    margin-right: -40px;
+    margin-top: 5px;
+    font-size: 9px;
+}
+
+.outcontainer .message {
+    position: relative;
+    left: auto !important;
+    top: 0;
+    right: 0;
+    padding: 17px 56px 5px 10px;
+}
