@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>DesLustres</name>
+ <description>DesLustres qml color theme.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>color themes</tag>
+ </tags>
+ <versions>
+  <version size="1110" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/DesLustres.png"/>
+ </images>
+ <long>A green color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
