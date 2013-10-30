@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>South_park_affiliations</name>
+ <description>South Park affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="118374" archiver="gz">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/South_park_affiliations.png"/>
+ </images>
+ <long>South Park is an American adult animated sitcom created by Trey Parker and Matt Stone for the Comedy Central television network. Intended for mature audiences, the show has become famous for its crude language and dark, surreal humor that satirizes a wide range of topics. The ongoing narrative revolves around four boys — Stan Marsh, Kyle Broflovski, Eric Cartman and Kenny McCormick — and their bizarre adventures in and around the titular Colorado town.
+Here it is an affiliation icons pack with some characters.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
