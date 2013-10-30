@@ -1,0 +1,155 @@
+smile.png :) 
+smile-big.png -D
+sad.png -(
+wink.png -)
+tongue.png -P
+shock.png -O
+kiss.png -*
+glasses-cool.png (H)
+embarrassed.png -$
+crying.png :'
+angel.png (A)
+angry.png -@
+confused.png -S
+neutral.png -|
+devil.png (6)
+love.png (L)
+love-over.png (U)
+msn.png (M)
+cat.png (@)
+dog.png (&amp;)
+moon.png (S)
+star.png (*)
+film.png (~)
+musical-note.png (8)
+mail.png (E)
+rose.png (F)
+rose-dead.png (W)
+clock.png (O)
+kiss.png (K)
+present.png (G)
+cake.png (^)
+camera.png (P)
+lamp.png (I)
+coffee.png (C)
+phone.png (T)
+hug-left.png ({)
+hug-right.png (})
+beer.png (B)
+drink.png (D)
+boy.png (Z)
+girl.png (X)
+ood.png (Y)
+bad.png (N)
+vampire.png :[
+goat.png (nah)
+sun.png (#)
+rainbow.png (R)
+quiet.png -#
+teeth.png 8o|
+glasses-nerdy.png 8-|
+sarcastic.png ^o)
+secret.png :-* 
+sick.png +o(
+snail.png (sn)
+turtle.png (tu)
+plate.png (pl)
+bowl.png (||)
+pizza.png (pi)
+soccerball.png (so)
+car.png (au)
+airplane.png (ap)
+umbrella.png (um)
+island.png (ip)
+computer.png (co)
+mobile.png (mp)
+brb.png (brb)
+rain.png (st)
+highfive.png (h5)
+coins.png (mo)
+sheep.png (bah)
+dontknow.png :^)
+thinking.png *-)
+thunder.png (li)
+party.png &lt;:o)
+eyeroll.png 8-)
+yawn.png |-)
+skywalker.png C:-)
+monkey.png :-(|)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
