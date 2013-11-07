@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>latest_clients_icons</name>
+ <description>Icons for different IM clients for Azoth</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>client icons</tag>
+ </tags>
+ <versions>
+  <version size="169341" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/latest_clients_icons.png"/>
+ </images>
+ <long>Here it is a set of client icons (16x16) for Azoth by leechcraft@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

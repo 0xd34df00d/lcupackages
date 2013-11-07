@@ -8,13 +8,13 @@
   <tag>client icons</tag>
  </tags>
  <versions>
-  <version size="499046" archiver="lzma">0.2.4</version>
+  <version size="359669" archiver="lzma">0.3</version>
  </versions>
  <images>
   <icon url=""/>
   <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Clients_me.png"/>
  </images>
- <long>The default set of client icons for Azoth that is included in LeechCraft distribution by default with some changed icons from suse@conference.jabber.ru/pendruk and me.</long>
+ <long>The default set of client icons (24x24) for Azoth that is included in LeechCraft distribution by default with some changed icons from leechcraft@conference.jabber.ru/pendruk and me.</long>
  <maintainer>
   <name>Perlow Dmitriy A.</name>
   <email>dap.darkness@gmail.com</email>
