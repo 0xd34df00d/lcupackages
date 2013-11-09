@@ -1,0 +1,5 @@
+@import url(../main.css);
+
+.mainMsg .timeStamp{
+	display:none;
+}
