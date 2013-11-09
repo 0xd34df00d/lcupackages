@@ -1,0 +1,76 @@
+angel.png O:-)
+angel.png *ANGEL*
+angry.png :-o
+angry.png :o
+batman.png *BATMAN*
+cake.png *CAKE*
+clown.png *CLOWN*
+cool.png 8-)
+cool.png 8)
+cool.png 8-|
+cool.png 8|
+cool.png *COOL*
+crying.png :'(
+crying.png :'-(
+crying.png *CRY*
+devil.png ]:-&gt;
+devil.png :&gt;
+devil.png *DEVIL*
+displeased.png :-\
+displeased.png :\
+displeased.png *DISPLEASED*
+flower.png @}-&gt;-
+flower.png @}-\-
+flower.png *FLOWER*
+happy.png :-)
+happy.png :)
+happy.png *HAPPY*
+harrypotter.png Z-)
+harrypotter.png Z)
+harrypotter.png *HARRY POTTER*
+hypnotize.png @-|
+hypnotize.png @|
+hypnotize.png *HIPNOTIZE*
+hypnotized.png @-o
+hypnotized.png @o
+hypnotized.png *HIPNOTIZED*
+inlove.png *IN LOVE*
+kiss.png :-*
+kiss.png :*
+kiss.png *KISS*
+laughtingoutloud.png :-D
+laughtingoutloud.png :D
+laughtingoutloud.png *LOL*
+money.png $-)
+money.png *MONEY*
+party.png *PARTY*
+question.png ?-)
+question.png *QUESTION*
+raider.png *RAIDER*
+sad.png :-(
+sad.png :(
+sad.png *SAD*
+sleeping.png *SLEEPING*
+surprised.png =-O
+surprised.png =O
+surprised.png *SURPRISED*
+terminator.png *TERMINATOR*
+tongue.png :-P
+tongue.png :P
+tongue.png *TONGUE*
+vomited.png :-!
+vomited.png :!
+vomited.png *VOMITED*
+watermelon.png *WATERMELON*
+wink.png ;-)
+wink.png ;)
+wink.png *WINK*
+
+
+
+
+
+
+
+
+

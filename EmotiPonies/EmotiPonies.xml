@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>EmotiPonies</name>
+ <description>Ponies emoticons pack.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+  <tag>smiles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="70053" archiver="lzma">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/EmotiPonies.png"/>
+ </images>
+ <long>&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">Because ponies make everything better. FiM Mane 6 plus 7 more familiar faces! Set of 42 covers a wide range of facial expressions. Please note that EmotiPonies are larger than standard emoticons, measuring 27 x 27 pixels each. Enjoy!&lt;/p>&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">&lt;p style=" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;">This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=8022">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=8022&lt;/a>&lt;!--EndFragment-->
+&lt;/p></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
