@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Tron_affiliations</name>
+ <description>Tron affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="498310" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Tron_affiliations.png"/>
+ </images>
+ <long>Tron is a 1982 American science fiction film released by Walt Disney Productions. The film was scripted and directed by Steven Lisberger, based on a story by Lisberger and Bonnie MacBird. The film stars Jeff Bridges, Bruce Boxleitner, David Warner, Cindy Morgan, and Barnard Hughes. A computer programmer is transported inside the software world of a mainframe computer, where he interacts with various programs in his attempt to get back out.
+Here it is a colored Tron rings set by leechcraft@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

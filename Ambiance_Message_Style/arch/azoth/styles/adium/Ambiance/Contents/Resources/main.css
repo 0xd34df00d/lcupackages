@@ -1,0 +1,275 @@
+* {
+	word-wrap: break-word;
+	word-break:break-word;
+}
+
+.status_container {
+	font: 10px Myriad, Lucida Grande, Arial;
+}
+
+html,
+body {
+	position:relative;
+	display:block;
+	width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	background:url("images/bg.png") repeat-y center top;
+	background-size:100% 100%;
+}
+a{
+	color:#f07746;
+}
+a:hover{
+	color:#faad3d;
+	text-decoration: none !important;
+}
+
+#ChatParent{
+	position:relative;
+	display:table;
+	table-layout: fixed;
+	width:100%;
+	height:100%;
+}
+#Chat{
+	position:relative;
+	display:table-cell;
+	table-layout: fixed;
+	width:100%;
+	vertical-align:bottom;
+	z-index:1;
+}
+#Chat > span{
+	position:relative;
+	display:block !important;
+	z-index:1;
+}
+#Mask{
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	height:100px;
+	z-index:2;
+	background:url("images/mask.png") repeat-y center top;
+	background-size:100% 100%;
+}
+
+.chatItem{
+	position:relative;
+	display:block;
+	padding:10px;
+}
+
+.clear{
+	position:relative;
+	display:block;
+	height:0;
+	clear:both;
+}
+
+/****** Status  ******/
+
+.statusMessageContent{
+	opacity:0.5;
+	color:#fff;
+	background:#f07746;
+	padding:5px;
+	font-size:80%;
+	text-align:center;
+	border-radius: 5px;
+}
+.statusMessage .timeStamp{
+	position:relative;
+	display:block;
+	float:right;
+	opacity:0.5;
+	color:#000;
+}
+.statusMessageContent a,
+.statusMessageContent a span{
+	color:#fcfcbd !important;
+	text-decoration:underline !important;
+}
+
+.followUp{
+	position:relative;
+	display:block;
+	height:0px;
+	border-bottom:dotted 1px rgba(181,171,156,1);
+	margin-bottom:2px;
+}
+
+.message{
+	position:relative;
+	display:block;
+	margin-left:95px;
+	padding:10px;
+}
+.message .nameStamp{
+	position:relative;
+	display:block;
+	font-size:120%;
+	font-weight:bold;
+	color:#f07746;
+}
+.message .timeStamp{
+	position:relative;
+	display:block;
+	font-size:80%;
+	font-weight:bold;
+	color:#b5ab9c;
+	margin-bottom:5px;
+}
+
+
+.mainMsg{
+	position:relative;
+	display:block;
+	color:#fff;
+	font-size:100%;
+	line-height:120%;
+}
+
+/* Main message color */
+.mainMsg .msg,
+.mainMsg .msg div,
+.mainMsg .msg div *,
+.msg *,
+.msg span{
+	color:#fff !important;
+	background:none !important;
+}
+
+.mainMsg .timeStamp{
+	position:relative;
+	display:block;
+	float:right;
+	font-size:11px;
+	margin:0 0 5px 5px;
+	color:rgba(181,171,156,0.3);
+}
+.mainMsg .msg{
+	position:relative;
+	display:block;
+	margin-bottom:5px;
+}
+.mainMsg .followUp{
+	border-bottom:dotted 1px rgba(181,171,156,0.2);
+}
+
+
+
+.avatarContainer{
+	position:relative;
+	display:block;
+	float:left;
+	width:95px;
+	height:95px;
+	margin-top:-23px;
+	background:url("images/avatarFrame_bg.png") no-repeat top left;
+}
+.avatarImg{
+	position:absolute;
+	display:block;
+	left:14px;
+	top:14px;
+	width:67px;
+	height:67px;
+	background-size:100% 100%;
+	border-bottom-right-radius: 0;
+	border-bottom-left-radius: 15px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+}
+.avatarFrame{
+	position:absolute;
+	display:block;
+	left:0;
+	top:0;
+	width:95px;
+	height:95px;
+	background:url("images/avatarFrame.png") no-repeat top left;
+}
+.opacity{
+	opacity:0.25;
+}
+.opacityt{
+	top:13px;
+}
+.opacityr{
+	left:15px;
+}
+.opacityb{
+	top:15px;
+}
+.opacityl{
+	left:13px;
+}
+
+
+
+
+/*incoming */
+
+
+
+.incomingItem{
+	background:url("images/bgIcoming.png") no-repeat top left;
+	background-size:100% 100%;
+	border-top:solid 1px rgba(0,0,0,0.3);
+	border-bottom:solid 1px rgba(255,255,255,0.1);
+}
+.incomingItem .avatarContainer{
+	float:right;
+	background:url("images/avatarFrameIcoming_bg.png") no-repeat top left;
+}
+.incomingItem .avatarImg{
+	left:auto;
+	top:auto;
+	right:18px;
+	bottom:14px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 0;
+}
+.incomingItem .opacityt{
+	bottom:15px;
+}
+.incomingItem .opacityr{
+	right:17px;
+}
+.incomingItem .opacityb{
+	bottom:13px;
+}
+.incomingItem .opacityl{
+	right:19px;
+}
+
+.incomingItem .avatarFrame{
+	background:url("images/avatarFrameIcoming.png") no-repeat top left;
+}
+
+
+.incomingItem .message .nameStamp{
+	text-align:right;
+	color:#dfdbd2;
+}
+.incomingItem .message .timeStamp{
+	text-align:right;
+}
+.incomingItem .message{
+	margin-left:0;
+	margin-right:95px;
+	text-align:right;
+}
+.incomingItem .mainMsg .timeStamp{
+	float:left;
+	margin:0 5px 5px 0;
+}
+
+
+/* outgoing */
+
+

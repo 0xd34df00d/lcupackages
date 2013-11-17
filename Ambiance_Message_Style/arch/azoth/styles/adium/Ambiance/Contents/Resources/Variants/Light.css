@@ -1,0 +1,107 @@
+@import url(../main.css);
+
+html,
+body {
+	background:url("../images/Lighter_bg.png") repeat-y center top;
+	color:#4c4c4c;
+}
+
+#Mask{
+	height:30%;
+	background:url("../images/Lighter_mask.png") repeat-y center top;
+}
+#TopShadow{
+	position:fixed;
+	left:0;
+	top:0;
+	width:100%;
+	height:10px;
+	z-index:2;
+	background:url("../images/Lighter_TopShadow.png") no-repeat top center;
+	background-size:100% 10px;
+}
+#LeftShadow{
+	position:fixed;
+	left:0;
+	top:0;
+	width:10px;
+	height:100%;
+	z-index:2;
+	background:url("../images/Lighter_LeftShadow.png") no-repeat top center;
+	background-size:10px 100%;
+}
+#RightShadow{
+	position:fixed;
+	right:0;
+	top:0;
+	width:10px;
+	height:100%;
+	z-index:2;
+	background:url("../images/Lighter_RightShadow.png") no-repeat top center;
+	background-size:10px 100%;
+}
+
+.followUp{
+	border-bottom:dotted 1px rgba(76, 76, 76, 0.5);
+}
+
+
+
+/****** Status  ******/
+
+.statusMessageContent{
+	background:url("../images/lighter_bgStatus.png") no-repeat top left;
+	background-size:100% 100%;
+	text-shadow:1px 1px 2px rgba(0,0,0,1);
+}
+.statusMessage .timeStamp{
+	color:#fff;
+}
+
+
+
+
+.message .nameStamp{
+	color:#d7512b;
+	text-shadow:1px 1px 2px #aca089;
+}
+.message .timeStamp{
+	color:#b5ab9c;
+}
+/* Main message color */
+.mainMsg .msg,
+.mainMsg .msg div,
+.mainMsg .msg div *,
+.msg *,
+.msg span{
+	color:#4c4c4c !important;
+}
+.mainMsg .timeStamp{
+	color:rgba(76, 76, 76, 0.5);
+}
+.mainMsg .followUp{
+	border-bottom:dotted 1px rgba(76, 76, 76,0.2);
+}
+
+.avatarContainer{
+	background:url("../images/avatarFrame_bg.png") no-repeat top left;
+}
+.avatarFrame{
+	background:url("../images/Lighter_avatarFrame.png") no-repeat top left;
+}
+
+
+.incomingItem{
+	background:url("../images/Lighter_bgIcoming_2.png") no-repeat top center, url("../images/Lighter_bgIcoming_3.png") no-repeat bottom center,url("../images/Lighter_bgIcoming_1.png") no-repeat top center;
+	background-size:100% 10px,100% 10px,100% 100%;
+	border:none;
+}
+.incomingItem .message .nameStamp{
+	color:#4c4c4c;
+}
+.incomingItem .avatarContainer{
+	background:url("../images/Lighter_avatarFrameIcoming_bg.png") no-repeat top left;
+}
+.incomingItem .avatarFrame{
+	background:url("../images/Lighter_avatarFrameIcoming.png") no-repeat top left;
+}

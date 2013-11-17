@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Tango_emoticons</name>
+ <description>Tango emoticons pack.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>emoticons</tag>
+  <tag>smiles</tag>
+ </tags>
+ <versions>
+  <version size="200369" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Tango_emoticons.png"/>
+ </images>
+ <long>Here it is a famous Tango emoticons pack.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

@@ -5,7 +5,7 @@
  ==================================================================================== */
 
 body {
-	background: url(img/bg.jpg);
+	background:#2A2A2B;
 	background-attachment: fixed;
 	margin: 0;
 	padding: 0;
@@ -208,25 +208,25 @@ a {
 }
 
 .status .msgBody {
-	background: #FF6633 url(img/status.png) 0 0 repeat-x;
+	background: #8FBC8F 0 0 repeat-x;
 }
 
 	.status .msgBody .msgBodyInner {
 		background: none;
-		min-height: 20px;
+		min-height: 16px;
 	}
 	
 	.status .msgBody .msgContent {
 		font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif;
 		font-size: 11px;
+                text-align:center;
 		font-weight: bold;
 		color: #fff;
 		padding: 5px 0;
 		margin: 0;
-		text-shadow: 0px -1px 0px #FF0000;
 	}
 	
 	.status .msgBodyInner .msgLines {
-		border-right: solid 1px #993300;
-		border-left: solid 1px #993300;
+		border-right: solid 1px #8FBC8F;
+		border-left: solid 1px #8FBC8F;
 	}

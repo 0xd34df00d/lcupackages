@@ -1,0 +1,15 @@
+.container {
+    background-color: rgba(230,230,230,0.8);
+}
+
+.time_initial {
+    color: #333333;
+}
+
+.time_consecutive {
+    color: #111111;
+}
+
+.message {
+    color: #000;
+}

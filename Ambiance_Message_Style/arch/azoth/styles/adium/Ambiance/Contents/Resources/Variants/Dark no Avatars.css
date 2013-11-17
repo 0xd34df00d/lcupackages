@@ -1,0 +1,11 @@
+@import url('Dark.css');
+
+.avatarContainer{
+	display:none;
+}
+.message{
+	margin-left:0;
+}
+.incomingItem .message{
+	margin-right:0;
+}

@@ -1,0 +1,65 @@
+@import url('Dark.css');
+
+.avatarContainer{
+	width:60px;
+	height:60px;
+	margin-top:0;
+	background:url("../images/Small_avatarFrame_bg.png") no-repeat top left;
+}
+.avatarImg{
+	left:8px;
+	top:8px;
+	width:44px;
+	height:44px;
+}
+.avatarFrame{
+	width:60px;
+	height:60px;
+	background:url("../images/Small_avatarFrame.png") no-repeat top left;
+}
+.opacityt{
+	top:7px;
+}
+.opacityr{
+	left:9px;
+}
+.opacityb{
+	top:9px;
+}
+.opacityl{
+	left:7px;
+}
+
+.message{
+	margin-left:60px;
+	padding:5px 5px 5px 7px;
+}
+.incomingItem .avatarContainer{
+	background:url("../images/Small_avatarFrameIcoming_bg.png") no-repeat top left;
+}
+.incomingItem .avatarImg{
+	right:11px;
+	bottom:8px;
+}
+.incomingItem .avatarFrame{
+	background:url("../images/Small_avatarFrameIcoming.png") no-repeat top left;
+}
+.incomingItem .opacityt{
+	bottom:7px;
+}
+.incomingItem .opacityr{
+	right:12px;
+}
+.incomingItem .opacityb{
+	bottom:9px;
+}
+.incomingItem .opacityl{
+	right:10px;
+}
+
+
+
+.incomingItem .message{
+	margin-right:60px;
+	padding:5px 10px 5px 5px;
+}

@@ -1,0 +1,42 @@
+.incoming { color: #e8c7c7;}
+.context .incoming { color:#A65369; }
+
+.outgoing { color: #5377e7;}
+.context .outgoing { color: #47508F; }
+
+.container {
+    background-color: rgba(196,94,94,.95);
+}
+
+.time_initial {
+    color: #e4e4e4;
+}
+
+.time_consecutive {
+    color: #f0f0f0;
+}
+
+.message {
+    color: #fff;
+    font-weight: bold;
+}
+
+.context .message {
+    color: #ddd;
+}
+
+a:link {
+	color: #b4d1fb;
+}
+
+a:visited {
+	color: #b4d1fb;
+}
+
+a:hover {
+	color: #b4d1fb;
+}
+
+a:active {
+	color: #b4d1fb;
+}

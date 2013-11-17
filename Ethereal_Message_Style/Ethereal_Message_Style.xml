@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Ethereal_Message_Style</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="26036" archiver="lzma">3.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ethereal_Message_Style.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ethereal_Message_Style1.png"/>
+ </images>
+ <long>&lt;div>&lt;div>Ethereal, now with:&lt;/div>&lt;div>&lt;ul>&lt;li>8 Flavors of bubble!&lt;br />&lt;/li>&lt;li>Smooth bubble fade-in effects!&lt;br />&lt;/li>&lt;li>Alternate icon support!&lt;br />&lt;/li>&lt;li>Completely rewritten code! No more breakage when you stretch the window!&lt;br />&lt;/li>&lt;/ul>&lt;/div>&lt;/div>This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2141">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=2141&lt;/a></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

@@ -9,11 +9,11 @@
   <tag>adium</tag>
  </tags>
  <versions>
-  <version size="61113" archiver="lzma">1.4</version>
+  <version size="60776" archiver="xz">1.4.1</version>
  </versions>
  <images>
   <icon url=""/>
-  <screenshot url="http://files.leechcraft.org/satin.jpg"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/satin.jpg"/>
  </images>
  <long>A clean theme with a soft feel to it, inspired by the Smooth Operator style. &lt;i>Satin&lt;/i> includes several layout and color options. This theme is available at &lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=305">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=305&lt;/a></long>
  <maintainer>

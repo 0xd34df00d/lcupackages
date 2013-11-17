@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Ambiance_Message_Style</name>
+ <description>An Adium chat style theme from the InstantBird addons site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="103910" archiver="lzma">1.8.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ambiance_Message_Style0.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Ambiance_Message_Style1.png"/>
+ </images>
+ <long>&lt;html>&lt;head>&lt;/head>&lt;body>&lt;div>Here it is an Ambiance Message Style for Instantbird. This theme is available at &lt;a href="https://addons.instantbird.org/en-US/instantbird/addon/311">https://addons.instantbird.org/en-US/instantbird/addon/311&lt;/a>&lt;/div>&lt;/body>&lt;/html></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
