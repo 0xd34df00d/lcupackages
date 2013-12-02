@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="data">
+ <name>Analog Clock</name>
+ <description>Analog clock quark</description>
+ <tags>
+  <tag>quarks</tag>
+  <tag>panel quarks</tag>
+ </tags>
+ <versions>
+  <version size="9068" archiver="xz">1.0</version>
+ </versions>
+ <maintainer>
+  <name>Georg Rudoy</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
