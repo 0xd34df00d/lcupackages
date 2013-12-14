@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>GreenLan2ern_qml</name>
+ <description>Green Lantern qml color theme.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>color themes</tag>
+ </tags>
+ <versions>
+  <version size="1120" archiver="gz">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/GreenLan2ern_qml.png"/>
+ </images>
+ <long>Another blackish-green qml color theme by leechcraft@conference.jabber.ru/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
