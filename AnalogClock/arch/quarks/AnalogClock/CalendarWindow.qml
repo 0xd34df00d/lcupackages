@@ -84,7 +84,7 @@ Rectangle {
             width: 24
             height: 24
 
-            actionIconURL: "image://ThemeIcons/go-previous"
+            actionIconURL: "image://ThemeIcons/go-next"
 
             anchors.left: mainCalendarColumn.right
             anchors.leftMargin: rootRect.sideMargin
