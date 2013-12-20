@@ -8,6 +8,7 @@
  </tags>
  <versions>
   <version size="9068" archiver="xz">1.0</version>
+  <version size="9644" archiver="xz">1.1</version>
  </versions>
  <long>A quark for SB2 panel with a nice analog clock which color depends on day/night time.</long>
  <maintainer>
