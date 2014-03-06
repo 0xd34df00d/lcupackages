@@ -3,7 +3,8 @@
  <name>Meteor</name>
  <description>Weather quark</description>
  <tags>
-  <tag>quarks, panel quarks</tag>
+  <tag>quarks</tag>
+  <tag>panel quarks</tag>
  </tags>
  <versions>
   <version size="1245556" archiver="xz">1.0</version>
