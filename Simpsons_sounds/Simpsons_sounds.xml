@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Simpsons_sounds</name>
+ <description>Simpsons sound pack.</description>
+ <tags>
+  <tag>sound themes</tag>
+ </tags>
+ <versions>
+  <version size="15238" archiver="bz2">0.1</version>
+ </versions>
+ <long>The Simpsons is an American adult animated sitcom created by Matt Groening for the Fox Broadcasting Company.
+Homer's «d'oh» and Marge's «hmm» are here.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
