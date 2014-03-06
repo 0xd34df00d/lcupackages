@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Shapes_affiliations</name>
+ <description>Shapes affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="7087" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Shapes_affiliations0.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Shapes_affiliations1.png"/>
+ </images>
+ <long>Here it is a monochromatic affiliation icons pack by leechcraft@conference.leechcraft.org/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
