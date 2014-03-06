@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<page>
+		<label value="Behavior" />
+		<groupbox>
+			<label value="" />
+			<item type="spinbox" property="UpdateTemperatureInterval" default="30" minimum="1" maximum="600">
+				<label value="Update interval:" />
+				<suffix value=" min" />
+			</item>
+			<item type="spinbox" property="ForecastDaysCount" default="3" minimum="1" maximum="16">
+				<label value="Forecast days count:" />
+				<suffix value=" day" />
+			</item>
+		</groupbox>
+		<groupbox>
+			<label value="Appearance" />
+			<item type="checkbox" property="UseSystemIconSet" default="false" >
+				<label value="Use system iconset:" />
+			</item>
+		</groupbox>
+		<groupbox>
+			<label value="Units" />
+			<item type="combobox" property="TemperatureUnit" >
+				<label value="Temperature:" />
+				<option name="Celsius" default="true" >
+					<label value="Celsius (℃)" />
+				</option>
+				<option name="Fahrenheit" >
+					<label value="Fahrenheit (°F)" />
+				</option>
+				<option name="Kelvin" >
+					<label value="Kelvin (K)" />
+				</option>
+			</item>
+			<item type="combobox" property="PressureUnit" >
+				<label value="Pressure:" />
+				<option name="HectoPascal" default="true" >
+					<label value="hectopascals (hPa) " />
+				</option>
+				<option name="KiloPascal" >
+					<label value="kilopascals (kPa)" />
+				</option>
+				<option name="MiliBar" >
+					<label value="millibar (mbar)" />
+				</option>
+				<option name="InchesOfMercury" >
+					<label value="inches of mercury (inHg)" />
+				</option>
+			</item>
+			<item type="combobox" property="WindSpeedUnit" >
+				<label value="Wind speed:" />
+				<option name="KilometerPerHour" >
+					<label value="kilometer per hour (km/h)" />
+				</option>
+				<option name="MeterPerSecond" default="true" >
+					<label value="meter per second (m/s)" />
+				</option>
+				<option name="MilesPerHour" >
+					<label value="miles per hour (mph) " />
+				</option>
+				<option name="Knot" >
+					<label value="nautical mile per hour (knot)" />
+				</option>
+				<option name="BeaufortScale" >
+					<label value="Beaufort scale (bft)" />
+				</option>
+			</item>
+		</groupbox>
+	</page>
+</settings>

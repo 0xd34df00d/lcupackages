@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="quark">
+ <name>Meteor</name>
+ <description>Weather quark</description>
+ <tags>
+  <tag>quarks, panel quarks</tag>
+ </tags>
+ <versions>
+  <version size="1245556" archiver="xz">1.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/meteor1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/meteor2.png"/>
+ </images>
+ <long>Advanced weather quark by Oleg Linkin for the SB2 panel providing a weather forecast for a given location.&lt;br/>&lt;br/>Meteor also shows various additional information, like forecasted wind speed, humidity or sunrise and sunset times.&lt;br/>&lt;br/>All the parameters are configurable, for example:
+&lt;ul>
+&lt;li>Update frequency.&lt;/li>
+&lt;li>Number of days to fetch weather for.&lt;/li>
+&lt;li>Measurement units for pressure, temperature and so on.&lt;/li>
+&lt;/ul></long>
+ <maintainer>
+  <name>0xd34df00d</name>
+  <email>0xd34df00d@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>

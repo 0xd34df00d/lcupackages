@@ -1,0 +1,6 @@
+{
+	"quarkName": "Meteor",
+	"description": "Weather forecast quark",
+	"icon": "weather-clouds",
+	"areas": [ "panel" ]
+}
