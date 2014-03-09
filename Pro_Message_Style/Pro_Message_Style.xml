@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Pro_Message_Style</name>
+ <description>An Adium chat style theme from the Adiumxtras site.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>theme</tag>
+  <tag>chat styles</tag>
+  <tag>adium</tag>
+ </tags>
+ <versions>
+  <version size="13345" archiver="lzma">1.3</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Pro_Message_Style0.png.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Pro_Message_Style1.png.png"/>
+ </images>
+ <long>&lt;div>Pro Message Style emulates the appearance of Apples high-end video/sound editing pro applications.&lt;/div>This theme is available at&amp;nbsp;&lt;a href="http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3000.">http://www.adiumxtras.com/index.php?a=xtras&amp;amp;xtra_id=3000&lt;/a>.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
