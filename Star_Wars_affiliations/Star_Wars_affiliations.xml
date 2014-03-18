@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Star_Wars_affiliations</name>
+ <description>Star Wars affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="11076" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Star_Wars_affiliations.png"/>
+ </images>
+ <long>Star Wars is an American epic space opera franchise centered on a film series created by George Lucas.
+Here it is an affiliation icons pack with helmets.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
