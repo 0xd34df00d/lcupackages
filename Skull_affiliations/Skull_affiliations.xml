@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="theme">
+ <name>Skull_affiliations</name>
+ <description>Skull affiliation icons.</description>
+ <tags>
+  <tag>azoth</tag>
+  <tag>affiliation icons</tag>
+ </tags>
+ <versions>
+  <version size="10932" archiver="lzma">0.1</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Skull_affiliations.png"/>
+ </images>
+ <long>Here it is a colored affiliation icons pack by leechcraft@conference.leechcraft.org/pendruk.</long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
