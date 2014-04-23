@@ -2,8 +2,8 @@
 TopColor=65,91,120
 BottomColor=41,41,41
 BorderColor=65,91,120
-HoverBottomColor=65,91,120
-HoverTopColor=41,41,41
+HoveredBottomColor=65,91,120
+HoveredTopColor=41,41,41
 SelectedTopColor=65,91,120
 SelectedBottomColor=41,41,41
 SelectedBorderColor=34,169,25

@@ -7,7 +7,7 @@
   <tag>color themes</tag>
  </tags>
  <versions>
-  <version size="1196" archiver="gz">0.1</version>
+  <version size="1123" archiver="lzma">0.1.1</version>
  </versions>
  <images>
   <icon url=""/>
