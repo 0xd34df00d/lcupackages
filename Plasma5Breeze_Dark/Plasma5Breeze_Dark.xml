@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package type="iconset">
+ <name>Plasma5Breeze_Dark</name>
+ <description>LeechCraft-wide iconset originally built for Plasma5.</description>
+ <tags>
+  <tag>theme</tag>
+  <tag>iconset</tag>
+ </tags>
+ <versions>
+  <version size="1084925" archiver="lzma">5.16.0</version>
+ </versions>
+ <images>
+  <icon url=""/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Plasma5Breeze_Dark1.png"/>
+  <screenshot url="http://files.leechcraft.org/imgs/packages/screens/Plasma5Breeze_Dark2.png"/>
+ </images>
+ <long>&lt;div>Awesome Plasma5 icon theme ported to LeechCraft!&lt;/div>&lt;div>This is just a re-package of the original &lt;a href="https://quickgit.kde.org/?p=breeze-icons.git">Breeze Dark&lt;/a> theme for LeechCraft.&lt;/div></long>
+ <maintainer>
+  <name>Perlow Dmitriy A.</name>
+  <email>dap.darkness@gmail.com</email>
+ </maintainer>
+ <depends/>
+</package>
